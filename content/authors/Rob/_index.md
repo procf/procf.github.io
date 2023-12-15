@@ -40,9 +40,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fa-brands
     link: 'mailto:campbell.r@northeastern.edu'
-  - icon: linked-in
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rob10campbell/
   - icon: google-scholar
@@ -71,6 +71,9 @@ user_groups:
 
 Rob Campbell is a PhD student studying structure-function relationships in colloidal gels. Their research focuses on the role of particle size in controlling colloidal gel assembly and rheology.
 
-Most of Rob's work focuses on connecting simulations to experiments. They are the "Future Investigator" leading a 3-year FINESST21 grant-funded project for NASA, using open-source simulation tools to expand on previous results from colloidal studies on the International Space Station (ISS). They also work on an NSF funded project designing bimodal colloid experiments for launch to the ISS in 2024. And they are building machine learning tools that can better predict the simulation parameters needed to match a set of experimental results.
+Most of Rob's work focuses on connecting simulations to experiments:
+* They are the "Future Investigator" lead for a 3-year FINESST21 grant-funded project for NASA, using open-source simulation tools to expand on previous results from colloidal studies on the International Space Station (ISS)
+* They also work on an NSF funded project helping to design bimodal colloid experiments for launch to the ISS in 2024 
+* And they are building machine learning tools that can better predict the simulation parameters needed to match a set of experimental results
 
-Rob is also the Project Lead for Rheology Comics, a project funded by the Society of Rheology that is creating short comics about rheology concepts for ages 10+, published online in English and in translation into 7+ additional languages ([you can read Rheology Comics here!](https://rheologycomics.github.io/))
+Rob is also the Project Lead for Rheology Comics, a project funded by the Society of Rheology to create short comics about rheology concepts for ages 10+, available in English and 7+ additional languages (you can [read Rheology Comics here!](https://rheologycomics.github.io/))
