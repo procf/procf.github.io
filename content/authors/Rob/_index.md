@@ -69,7 +69,7 @@ user_groups:
   - Ph.D. Students
 ---
 
-Rob Campbell is a PhD student studying structure-function relationships in colloidal gels. Their research focuses on the role of particle size in controlling colloidal gel assembly and rheology.
+Rob Campbell is a PhD student studying structure-function relationships in colloidal gels. Their research focuses on how particle size influences colloidal gel assembly and rheology.
 
 Most of Rob's work focuses on connecting simulations to experiments:
 * They are the "Future Investigator" lead for a 3-year FINESST21 grant-funded project for NASA, using open-source simulation tools to expand on previous results from colloidal studies on the International Space Station (ISS)
