@@ -40,10 +40,10 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
-    icon_pack: fa-brands
+    icon_pack: fas
     link: 'mailto:campbell.r@northeastern.edu'
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: fa-brands
     link: https://www.linkedin.com/in/rob10campbell/
   - icon: google-scholar
     icon_pack: ai
