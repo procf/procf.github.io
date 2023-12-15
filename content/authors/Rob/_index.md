@@ -43,7 +43,7 @@ social:
     icon_pack: fas
     link: 'mailto:campbell.r@northeastern.edu'
   - icon: linkedin
-    icon_pack: fa-brands
+    icon_pack: hb
     link: https://www.linkedin.com/in/rob10campbell/
   - icon: google-scholar
     icon_pack: ai
