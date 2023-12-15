@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Milad Saadat
+title: Rob Campbell
 
 # Full Name (for SEO)
-first_name: Milad
-last_name: Saadat
+first_name: Rob
+last_name: Campbell
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Ph.D. Candidate in ME
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research focuses on structure-function relationships in particulate soft matter
 interests:
-  - Machine Learning
+  - Colloidal Gels
+  - Particle Size Effects
   - Rheology
-  - Physics-informed learning
+  - Machine Learning
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
+    - course: Research Assistant (4yrs)
+      institution: Okinawa Institute of Science and Technology (OIST)
       year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+    - course: B.A. in Physics
+      institution: Skidmore College
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,16 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
-  - icon: twitter
+    link: 'mailto:campbell.r@northeastern.edu'
+  - icon: linked-in
     icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: https://www.linkedin.com/in/rob10campbell/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?user=i8S54zYAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/rob10campbell
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +69,8 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rob Campbell is a PhD student studying structure-function relationships in colloidal gels. Their research focuses on the role of particle size in controlling colloidal gel assembly and rheology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Most of Rob's work focuses on connecting simulations to experiments. They are the "Future Investigator" leading a 3-year FINESST21 grant-funded project for NASA, using open-source simulation tools to expand on previous results from colloidal studies on the International Space Station (ISS). They also work on an NSF funded project designing bimodal colloid experiments for launch to the ISS in 2024. And they are building machine learning tools that can better predict the simulation parameters needed to match a set of experimental results.
+
+Rob is also the Project Lead for Rheology Comics, a project funded by the Society of Rheology that is creating short comics about rheology concepts for ages 10+, published online in English and in translation into 7+ additional languages ([you can read Rheology Comics here!](https://rheologycomics.github.io/))
