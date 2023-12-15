@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Milad Saadat
+title: Paniz Haghighi
 
 # Full Name (for SEO)
-first_name: Milad
-last_name: Saadat
+first_name: Paniz
+last_name: Haghighi
 
 # Is this the primary user of the site?
 superuser: true
