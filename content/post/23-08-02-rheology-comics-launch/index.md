@@ -13,7 +13,7 @@ Yesterday PhD student [Rob Campbell](/author/rob-campbell/) launched the first i
 
 Rheology Comics are short comics about rheology aimed at ages 10 and up. The first issue, called "Rheology of Cats" introduces basic rheology concepts by confronting the age old question-- are cats solid or liquid??
 
-The comic is available at ICR in print in English and Greek, and it is also available for free online in English, Greek, French, Japanese, and Persian. You can read Rheology Comics [here](https://rheologycomics.github.io/) and [follow them on Instagram](https://instagram.com/rheologycomics).
+The comic is available at ICR in print in English and Greek, and it is also available for free online in English, Greek, French, Japanese, and Persian. You can [read Rheology Comics here](https://rheologycomics.github.io/) and [follow them on Instagram](https://instagram.com/rheologycomics).
 
 Congratulations to Rob and the entire Rheology Comics team! (including fellow PRO-CF PhD student, and Rheology Comics's Persian translator and calligrapher, [Paniz Haghighi](/author/paniz-haghighi/)!)
 
