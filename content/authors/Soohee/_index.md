@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Paniz Haghighi
+title: Soohee Bae
 
 # Full Name (for SEO)
-first_name: Paniz
-last_name: Haghighi
+first_name: Soohee
+last_name: Bae
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,20 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research interests include structural deformation of colloidal gel under Poiseuille flow
 interests:
-  - Machine Learning
   - Rheology
-  - Physics-informed learning
+  - Soft Matter Physics
+  - Statistical Dynamics
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
-      year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+    - course: M.Sc. in Mechanical Engineering 
+      institution: Northeastern University
+      year: 2023
+    - course: B.Sc. in Aerospace Engineering
+      institution: Texas A&M-College Station
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
+    link: 'mailto:clarabae0909@gmail.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/miladeshoun
@@ -65,9 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Soohee Bae was a Master's Student of the lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She used dissipative particle dynamics to achieve this. 
