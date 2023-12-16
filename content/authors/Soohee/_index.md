@@ -40,7 +40,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
+    link: 'mailto:bae.soo@northeastern.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/miladeshoun
