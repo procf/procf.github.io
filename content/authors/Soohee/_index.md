@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Alumni
 ---
 
 Soohee Bae is a alumni of Rheology lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She has achieved this through dissipative particle dynamics.
