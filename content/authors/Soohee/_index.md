@@ -22,7 +22,7 @@ bio: My research interests include structural deformation of colloidal gel under
 interests:
   - Rheology
   - Soft Matter Physics
-  - Statistical Dynamics
+  - Colloidal Gels
 
 education:
   courses:
@@ -32,7 +32,9 @@ education:
     - course: B.Sc. in Aerospace Engineering
       institution: Texas A&M-College Station
       year: 2021
-
+    - course: B.A. in Mathematics
+      institution: Texas A&M-College Station
+      year: 2021
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,4 +70,4 @@ user_groups:
   - Alumni
 ---
 
-Soohee Bae is a alumni of Rheology lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She has achieved this through dissipative particle dynamics.
+Soohee Bae is a alumni of Rheoinformatic lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She has achieved this through dissipative particle dynamics.
