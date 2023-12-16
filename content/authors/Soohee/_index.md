@@ -42,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:bae.soo@northeastern.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: 'mailto:clarabae0909@gmail.com'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/miladeshoun
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/soohee-bae
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
