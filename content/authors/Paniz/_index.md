@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Milad Saadat
+title: Paniz Haghighi
 
 # Full Name (for SEO)
-first_name: Milad
-last_name: Saadat
+first_name: Paniz
+last_name: Haghighi
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven solutions in soft matter design and discovery
 interests:
-  - Machine Learning
+  - Colloidal Gels
   - Rheology
-  - Physics-informed learning
+  - Machine Learning
 
 education:
   courses:
     - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
-      year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+      institution: Sharif University of Technology
+      year: 2019
+    - course: B.Sc. in Mechanical Engineering
+      institution: Amirkabir University of Technology
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,16 +40,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
+    link: 'mailto:haghighi.p@northeastern.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: https://twitter.com/panizhaghighi94
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/PanizHaghighi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
