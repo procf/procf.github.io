@@ -29,7 +29,7 @@ education:
     - course: M.Sc. in Mechanical Engineering - Energy Conversion
       institution: K. N. Toosi University of Technology
       year: 2020
-    - course: M.Sc. in Mechanical Engineering
+    - course: B.Sc. in Mechanical Engineering
       institution: K. N. Toosi University of Technology
       year: 2017
 
