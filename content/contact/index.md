@@ -20,8 +20,8 @@ sections:
         country: United States
         country_code: US
       coordinates:
-        latitude: '42.33818786026296'
-        longitude: '-71.09079770377666'
+        latitude: '42.33813631156115'
+        longitude: '-71.09063677124854'
       directions: Floor 3 room 350
       office_hours:
         - 'Monday 10:00 to 13:00'
