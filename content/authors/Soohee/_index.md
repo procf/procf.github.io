@@ -7,7 +7,7 @@ first_name: Soohee
 last_name: Bae
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Alumni
