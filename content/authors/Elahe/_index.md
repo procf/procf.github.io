@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Milad Saadat
+title: Elahe Javadi
 
 # Full Name (for SEO)
-first_name: Milad
-last_name: Saadat
+first_name: Elahe
+last_name: Javadi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Ph.D. Graduate
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research interests include blood rheology.
 interests:
-  - Machine Learning
-  - Rheology
-  - Physics-informed learning
+  - Blood Rheology
+  - MD simulations
+  - CFD
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
+    - course: Ph.D. in Mechanical Engineering
+      institution: Northeastern University
+      year: 2022
+    - course: M.Sc. in Aerospace Engineering
+      institution: Sharif University of Technology
+      year: 2016
+    - course: B.Sc. in Aerospace Engineering
       institution: K. N. Toosi University of Technology
-      year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,6 +71,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expertise is rooted in a strong academic foundation, underscored by a PhD from Northeastern University. My doctoral research delved into blood rheology and its applications in medical simulations, laying the groundwork for my current role where I leverage advanced simulation to solve complex problems and drive efficiency for clients. This synergy of academic excellence and practical consultancy defines my professional journey and underscores the robust analytical skills I offer in the field.

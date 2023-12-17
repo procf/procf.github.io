@@ -10,7 +10,7 @@ last_name: Bae
 superuser: false
 
 # Role/position
-role: Alumni
+role: M.Sc. Graduate
 
 # Organizations/Affiliations
 organizations:
