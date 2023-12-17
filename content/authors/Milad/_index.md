@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Milad Saadat
+pronouns: he/him
 
 # Full Name (for SEO)
 first_name: Milad
