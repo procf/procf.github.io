@@ -9,7 +9,7 @@ appearance:
   mode: system
   color: blue
   theme_day: minimal
-  theme_night:
+  theme_night: dracula
   font: native
   font_size: L
 
