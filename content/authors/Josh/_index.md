@@ -10,7 +10,7 @@ last_name: DaRosa
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Ph.D. Student in MIE
 
 # Organizations/Affiliations
 organizations:
@@ -69,6 +69,6 @@ Joshua DaRosa is a PhD student who's research involves both computational rheolo
 
 Josh is currently working on:
 * Studying the development of computational methods to create colloidal crystals through pressure driven flow within converging - diverging nozzle geometry. 
-* Solving Fractional PDE's using PINNs
+* Solving Fractional PDE's using Physics Informed Neural Networks
 * Modelling 3-D printing of ceramic hexagonal particles using HOOMD-Blue
 
