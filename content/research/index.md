@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: DPD_Slide_image.png
             filters:
               brightness: 0.7
           position: center
