@@ -26,12 +26,18 @@ interests:
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
-      year: 2020
+    - course: Ph.D. in Mechanical Engineering
+      institution: Northeastern University
+      year: 2022
+    - course: M.Eng. in Mechanical Engineering
+      institution: Rutgers University
+      year: 2019
     - course: M.Sc. in Mechanical Engineering
+      institution: Sharif University of Technology
+      year: 2018
+    - course: B.Sc. in Mechanical Engineering
       institution: K. N. Toosi University of Technology
-      year: 2017
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -68,6 +74,3 @@ user_groups:
   - Alumni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
