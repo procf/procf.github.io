@@ -18,6 +18,16 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+      - title: Particle Simulations ☕️
+        content: 'Our group utilizes Dissapative Particle Dynamics and Brownian Dynamics within HOOMD-BLUE to investigate the behavior of colloidal systems.'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
       - title: Lunch & Learn ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
