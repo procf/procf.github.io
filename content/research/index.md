@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: DPD_Slide_image.jpg
+            filename: dpd_image.jpg
             filters:
               brightness: 0.7
           position: center
