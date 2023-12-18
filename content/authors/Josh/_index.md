@@ -68,7 +68,7 @@ user_groups:
 Joshua DaRosa is a PhD student who's research involves both computational rheology and machine learning.
 
 Josh is currently working on:
-* Studying the development of computational methods to create colloidal crystals through pressure driven flow within converging - diverging nozzle geometry. Additionally, Josh is working with 
+* Studying the development of computational methods to create colloidal crystals through pressure driven flow within converging - diverging nozzle geometry. 
 * Solving Fractional PDE's using PINNs
 * Modelling 3-D printing of ceramic hexagonal particles using HOOMD-Blue
 
