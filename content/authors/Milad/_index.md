@@ -46,7 +46,7 @@ social:
     link: https://www.linkedin.com/in/m-saadat/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?user=PPLvVmEAAAAJ&hl=en&authuser=1
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0001-6379-2664
