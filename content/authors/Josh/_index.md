@@ -21,17 +21,14 @@ organizations:
 bio: My research interests include data-driven solutions in soft matter design and discovery
 interests:
   - Machine Learning
-  - Rheology
   - Physics-informed learning
+  - Computational Rheology
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
-      year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+    - course: B.Sc. in Mechanical Engineering
+      institution: Union College
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -40,16 +37,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
-  - icon: twitter
+    link: 'mailto:darosa.jo@northeastern.edu'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: https://www.linkedin.com/in/joshua-darosa-a701ba1a2/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?user=qClmh8sAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/joshdarosa
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +65,10 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Joshua DaRosa is a PhD student who's research involves both computational rheology and machine learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Josh is currently working on:
+* Studying the development of computational methods to create colloidal crystals through pressure driven flow within converging - diverging nozzle geometry. Additionally, Josh is working with 
+* Solving Fractional PDE's using PINNs
+* Modelling 3-D printing of ceramic hexagonal particles using HOOMD-Blue
+
