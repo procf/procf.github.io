@@ -73,4 +73,4 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-Placeholder bio
+Placeholder Bio
