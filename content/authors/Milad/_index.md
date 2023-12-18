@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Milad Saadat
-pronouns: he/him
 
 # Full Name (for SEO)
 first_name: Milad
@@ -45,15 +44,19 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/m-saadat/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/miladeshoun
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-6379-2664
   - icon: github
     icon_pack: fab
     link: https://github.com/MilowSa
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/miladeshoun
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
