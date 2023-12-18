@@ -42,6 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:saadat.m@northeastern.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/m-saadat/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/miladeshoun
