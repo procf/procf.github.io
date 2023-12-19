@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Sasha Kaltashov
+title: Alexander Kaltashov
 
 # Full Name (for SEO)
-first_name: Sasha
+first_name: Alexander
 last_name: Kaltashov
 
 # Is this the primary user of the site?
