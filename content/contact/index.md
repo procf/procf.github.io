@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Please take a moment to leave us a message below. Whether you have questions about our ongoing research, collaborations, or would simply like to connect with our team, your input is important to us. We value the opportunity to engage with like-minded individuals who share a passion for discovery and innovation.
+Please take a moment to send us an email below. Whether you have questions about our ongoing research, collaborations, or would simply like to connect with our team, your input is important to us. We value the opportunity to engage with like-minded individuals who share a passion for discovery and innovation.
       email: s.jamali@northeastern.edu
       phone: 617 373 5782
       address:
@@ -47,23 +47,23 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle: ''
+  #     text:
+  #   design:
+  #     columns: '1'
+  #     background:
+  #       image: 
+  #         filename: contact.jpg
+  #         filters:
+  #           brightness: 1
+  #         parallax: false
+  #         position: center
+  #         size: cover
+  #         text_color_light: true
+  #     spacing:
+  #       padding: ['20px', '0', '20px', '0']
+  #     css_class: fullscreen
 ---
