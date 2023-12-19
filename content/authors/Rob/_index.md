@@ -7,7 +7,7 @@ first_name: Rob
 last_name: Campbell
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Ph.D. Candidate in ME
