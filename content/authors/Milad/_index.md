@@ -83,7 +83,7 @@ Milad Saadat, currently a third-year Ph.D. candidate in the MIE department, is i
 
 With a strong background in thermofluid sciences and numerical techniques, his research centers on two key areas:
 
-1. **Exploring Physics-Informed Neural Networks (PINNs) for Material Discovery:**
+1. **Physics-Informed Neural Networks (PINNs) for Material Discovery:**
    * Applying PINNs as surrogate models for replicating rheometry and minimizing the experimental workload (digital twins).
    * Concentrating on pioneering methodologies for modeling and predicting material behavior.
 
