@@ -46,7 +46,7 @@ social:
     link: https://twitter.com/panizhaghighi94
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?user=LSuqU6YAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/PanizHaghighi
