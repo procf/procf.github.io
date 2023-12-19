@@ -21,7 +21,7 @@ organizations:
   - name: Northeastern University
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at the end of posts)
 bio: My research interests include data-driven solutions in soft matter design and discovery
 interests:
   - Machine Learning
@@ -36,8 +36,8 @@ education:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+# form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -63,16 +63,15 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Organizational groups that you belong to (for the People widget)
+# Set this to `[]` or comment out if you are not using the People widget.
 user_groups:
   - Ph.D. Students
 ---
 
-Joshua DaRosa is a PhD student who's research involves both computational rheology and machine learning.
+Joshua DaRosa is a PhD student whose research involves both computational rheology and machine learning.
 
 Josh is currently working on:
-* Studying the development of computational methods to create colloidal crystals through pressure driven flow within converging - diverging nozzle geometry. 
+* Studying the development of computational methods to create colloidal crystals through pressure-driven flow within converging-diverging nozzle geometry.
 * Solving Fractional PDE's using Physics Informed Neural Networks
 * Modelling 3-D printing of ceramic hexagonal particles using HOOMD-Blue
-
