@@ -1,10 +1,9 @@
 ---
 title: Rob Campbell Launches Rheology Comics at ICR 2023
-author:
-  - Deepak
 date: 2023-08-02
 image:
   focal_point: 'top'
+author: Deepak Mangal
 ---
 
 Rob Campbell's "Rheology of Cats" is now available in print and online.
