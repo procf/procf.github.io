@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mohammadamin Mahmoudabad
+title: Mohammadamin Mahmoudabadbozchelou
 
 # Full Name (for SEO)
 first_name: Mohammadamin
-last_name: Mahmoudabad
+last_name: Mahmoudabadbozchelou
 
 # Username (this should match the folder name)
 authors:
