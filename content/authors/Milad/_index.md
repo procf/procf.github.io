@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research interests include data-driven solutions in soft matter design and discovery.
 interests:
   - Machine Learning
   - Rheology
@@ -75,6 +75,14 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Milad Saadat, currently a third-year Ph.D. candidate in the MIE department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic excellence, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award." His research centers on two key areas:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. The
+1. **Exploring Physics-Informed Neural Networks (PINNs) for Material Discovery:**
+   - Applies PINNs as surrogate models for replicating rheometry (digital twins) and minimizing the experimental workload.
+   - Concentrates on pioneering methodologies for modeling and predicting material behavior.
+
+2. **Innovative Approaches to Tackle Complex Equations:**
+   - Introduces inventive techniques for solving diverse equations, including fractional integro-differential equations in both forward and inverse directions.
+   - Harnesses machine learning for effective solutions to traditionally intricate mathematical problems.
+
+Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects (or if you happen to spot any bugs in my codes!).
