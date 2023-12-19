@@ -68,6 +68,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Paniz Haghighi, a Ph.D. student, is dedicated to unraveling the complexities of colloidal gels. Her research specifically explores the formation and evolution of colloidal networks during gelation and coarsening, with the purpose of optimizing gel properties. Emphasizing the crucial role of the critical percolation point in the second-order phase transition, Paniz's work contributes to advancing our understanding of these intricate processes.
