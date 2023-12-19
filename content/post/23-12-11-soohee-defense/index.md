@@ -1,5 +1,7 @@
 ---
 title: Soohee Bae Defends Master's Thesis
+authors:
+  - Rob Campbell
 date: 2023-12-11
 ---
 
