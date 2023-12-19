@@ -80,11 +80,11 @@ Milad Saadat, currently a third-year Ph.D. candidate in the MIE department, is i
 With a strong background in thermofluid sciences and numerical techniques, his research centers on two key areas:
 
 1. **Exploring Physics-Informed Neural Networks (PINNs) for Material Discovery:**
-   - Applying PINNs as surrogate models for replicating rheometry and minimizing the experimental workload (digital twins).
-   - Concentrating on pioneering methodologies for modeling and predicting material behavior.
+   * Applying PINNs as surrogate models for replicating rheometry and minimizing the experimental workload (digital twins).
+   * Concentrating on pioneering methodologies for modeling and predicting material behavior.
 
 2. **Innovative Approaches to Tackle Complex Equations:**
-   - Introducing inventive techniques for solving diverse equations, including fractional integro-differential equations in both forward and inverse directions.
-   - harnessing machine learning for effective solutions to traditionally intricate mathematical problems.
+   * Introducing inventive techniques for solving diverse equations, including fractional integro-differential equations in both forward and inverse directions.
+   * harnessing machine learning for effective solutions to traditionally intricate mathematical problems.
 
 Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects (or if you happen to spot any bugs in my codes!).
