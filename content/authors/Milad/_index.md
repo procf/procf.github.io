@@ -77,7 +77,7 @@ user_groups:
 
 Milad Saadat, currently a third-year Ph.D. candidate in the MIE department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
 
-His research centers on two key areas:
+With a strong background in thermofluid sciences and numerical techniques, his research centers on two key areas:
 
 1. **Exploring Physics-Informed Neural Networks (PINNs) for Material Discovery:**
    - Applies PINNs as surrogate models for replicating rheometry and minimizing the experimental workload (digital twins).
