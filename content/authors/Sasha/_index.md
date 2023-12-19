@@ -10,7 +10,7 @@ last_name: Kaltashov
 superuser: false
 
 # Role/position
-role: Ph.D. Student in MIE
+role: Ph.D. Student in CHEME
 
 # Organizations/Affiliations
 organizations:
