@@ -6,6 +6,10 @@ title: Mohammad Nabizadeh (Nabi)
 first_name: Mohammad
 last_name: Nabizadeh
 
+# Username (this should match the folder name)
+authors:
+  - Nabi
+
 # Is this the primary user of the site?
 superuser: false
 

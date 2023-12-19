@@ -6,6 +6,10 @@ title: Rob Campbell
 first_name: Rob
 last_name: Campbell
 
+# Username (this should match the folder name)
+authors:
+  - Rob
+
 # Is this the primary user of the site?
 superuser: true
 

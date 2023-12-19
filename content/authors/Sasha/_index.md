@@ -6,6 +6,10 @@ title: Alexander Kaltashov
 first_name: Alexander
 last_name: Kaltashov
 
+# Username (this should match the folder name)
+authors:
+  - Sasha
+
 # Is this the primary user of the site?
 superuser: false
 

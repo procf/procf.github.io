@@ -6,6 +6,10 @@ title: Donya Dabiri
 first_name: Donya
 last_name: Dabiri
 
+# Username (this should match the folder name)
+authors:
+  - Donya
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,10 @@ title: Paniz Haghighi
 first_name: Paniz
 last_name: Haghighi
 
+# Username (this should match the folder name)
+authors:
+  - Paniz
+
 # Is this the primary user of the site?
 superuser: false
 

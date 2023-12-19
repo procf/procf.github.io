@@ -6,6 +6,10 @@ title: Safa Jamali
 first_name: Safa
 last_name: Jamali
 
+# Username (this should match the folder name)
+authors:
+  - Safa
+
 # Is this the primary user of the site?
 superuser: true
 

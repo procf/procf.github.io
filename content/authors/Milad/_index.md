@@ -6,6 +6,10 @@ title: Milad Saadat
 first_name: Milad
 last_name: Saadat
 
+# Username (this should match the folder name)
+authors:
+  - Milad
+
 # Is this the primary user of the site?
 superuser: true
 

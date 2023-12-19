@@ -6,6 +6,10 @@ title: Joshua DaRosa
 first_name: Joshua
 last_name: DaRosa
 
+# Username (this should match the folder name)
+authors:
+  - Josh
+
 # Is this the primary user of the site?
 superuser: false
 

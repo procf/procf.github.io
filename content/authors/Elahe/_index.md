@@ -6,6 +6,10 @@ title: Elahe Javadi
 first_name: Elahe
 last_name: Javadi
 
+# Username (this should match the folder name)
+authors:
+  - Elahe
+
 # Is this the primary user of the site?
 superuser: false
 

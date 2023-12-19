@@ -6,6 +6,10 @@ title: Soohee Bae
 first_name: Soohee
 last_name: Bae
 
+# Username (this should match the folder name)
+authors:
+  - Soohee
+
 # Is this the primary user of the site?
 superuser: false
 
