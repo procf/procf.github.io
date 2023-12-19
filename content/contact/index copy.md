@@ -9,20 +9,20 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Please take a moment to leave us a message below. Whether you have questions about our ongoing research, collaborations, or would simply like to connect with our team, your input is important to us. We value the opportunity to engage with like-minded individuals who share a passion for discovery and innovation.
+      email: s.jamali@northeastern.edu
+      phone: 617 373 5782
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 350 Holmes Hall, 39-41 Leon St
+        city: Boston
+        region: MA
+        postcode: '02115'
         country: United States
         country_code: US
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '42.33813631156115'
+        longitude: '-71.09063677124854'
+      directions: Floor 3, Room 350
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
