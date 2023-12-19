@@ -1,7 +1,5 @@
 ---
 title: Rob Campbell Launches Rheology Comics at ICR 2023
-authors:
-  - Joshua DaRosa
 date: 2023-08-02
 image:
   focal_point: 'top'
