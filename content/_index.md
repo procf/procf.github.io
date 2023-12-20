@@ -18,17 +18,15 @@ sections:
 
   - block: markdown
     content:
-      title: Twitter Timeline
+      title: on X:
       subtitle:
       text: |
-        <div style="max-width: 600px; margin: auto;">
+        <div style="max-width: 600px; margin: auto; text-align: center;">
           <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" data-width="400" data-height="600">Tweets by PROCF_NU</a>
           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
     design:
       columns: '1'
-      background:
-        color: '#f5f5f5'
 
   - block: collection
     content:
