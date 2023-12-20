@@ -18,7 +18,7 @@ sections:
 
   - block: markdown
     content:
-      title: on X:
+      title: Twitter Timeline
       subtitle:
       text: |
         <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-bottom: -20px;">
