@@ -16,6 +16,18 @@ sections:
         
         Lab intro goes here
 
+  - block: markdown
+    content:
+      title: Twitter Timeline
+      subtitle:
+      text: |
+        <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    design:
+      columns: '1'
+      background:
+        color: '#f5f5f5'
+
   - block: collection
     content:
       title: News and Events
