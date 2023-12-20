@@ -18,11 +18,11 @@ sections:
 
   - block: markdown
     content:
-      title: Twitter Timeline
+      title: on X
       subtitle:
       text: |
-        <div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-bottom: -20px;">
-          <div style="text-align: center;">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+          <div style="text-align: center; margin: -10px 0;">
             <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" data-width="400" data-height="600">Tweets by PROCF_NU</a>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
@@ -77,5 +77,6 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
 ---
 
