@@ -21,8 +21,10 @@ sections:
       title: Twitter Timeline
       subtitle:
       text: |
-        <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div style="max-width: 600px; margin: auto;">
+          <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" data-width="400" data-height="600">Tweets by PROCF_NU</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
     design:
       columns: '1'
       background:
