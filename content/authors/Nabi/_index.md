@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mohammad Nabizadeh (Nabi)
+title: Mohammad Nabizadeh
 
 # Full Name (for SEO)
 first_name: Mohammad
