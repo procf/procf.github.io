@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Amin Mahmoudabad
+title: Mohammadamin Mahmoudabad
 
 # Full Name (for SEO)
-first_name: Amin
+first_name: Mohammadamin
 last_name: Mahmoudabad
 
 # Username (this should match the folder name)
@@ -22,10 +22,9 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research interests include data-driven solutions.
 interests:
   - Machine Learning
-  - Rheology
   - Physics-informed learning
 
 education:
@@ -50,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
+    link: 'mailto:mahmoudabadbozch.m@northeastern.edu'
   - icon: google-scholar
     icon_pack: ai
     link:  https://scholar.google.com/citations?user=C57oydEAAAAJ&hl=en&authuser=1
