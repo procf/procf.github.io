@@ -93,4 +93,7 @@ With a strong background in thermofluid sciences and numerical techniques, his r
 
 Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects.
 
-{{< tweet 845330563938598912 >}}
+{{< html >}}
+<a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< /html >}}
