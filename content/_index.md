@@ -18,15 +18,11 @@ sections:
 
   - block: markdown
     content:
-      title: on X
+      title: Twitter Timeline
       subtitle:
       text: |
-        <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-          <div style="text-align: center; margin: -10px 0;">
-            <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" data-width="400" data-height="600">Tweets by PROCF_NU</a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </div>
-        </div>
+        <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     design:
       columns: '1'
 
@@ -60,7 +56,7 @@ sections:
         image: 
           filename: neu.jpg
           filters:
-            brightness: 1
+            brightness: 0.6
           parallax: false
           position: center
           size: cover
