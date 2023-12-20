@@ -34,6 +34,13 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: rawhtml  # <-- Add a new block for raw HTML
+    content: |
+      {{< rawhtml >}}
+      <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      {{< /rawhtml >}}
   
   - block: markdown
     content:
