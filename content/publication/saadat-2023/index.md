@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-12-20T14:51:59Z
+lastmod: 2023-12-20T14:55:40Z
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:59.078880Z'
+publishDate: '2023-12-20T14:55:40.110733Z'
 publication_types:
 - '2'
 abstract: <p>Rheology-informed neural networks are discussed as platforms for prediction

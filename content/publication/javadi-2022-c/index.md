@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-05-01'
-lastmod: 2023-12-20T14:51:59Z
+lastmod: 2023-12-20T14:55:40Z
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:58.836798Z'
+publishDate: '2023-12-20T14:55:39.945228Z'
 publication_types:
 - '2'
 abstract: '<p>From a mechanical perspective, blood is a complex fluid with a rate-

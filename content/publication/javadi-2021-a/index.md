@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2023-12-20T14:51:56Z
+lastmod: 2023-12-20T14:55:37Z
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:56.188237Z'
+publishDate: '2023-12-20T14:55:37.200679Z'
 publication_types:
 - '2'
 abstract: <p>The choice of flow type has an appreciable effect on hemorheological

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-06-01'
-lastmod: 2023-12-20T14:51:56Z
+lastmod: 2023-12-20T14:55:37Z
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:55.868647Z'
+publishDate: '2023-12-20T14:55:36.899802Z'
 publication_types:
 - '2'
 abstract: <p>Reliable and accurate prediction of complex fluids’ response under flow

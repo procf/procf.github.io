@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2023-12-20T14:51:55Z
+lastmod: 2023-12-20T14:55:36Z
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:55.532124Z'
+publishDate: '2023-12-20T14:55:36.551799Z'
 publication_types:
 - '2'
 abstract: <p>Normal haemostasis is an important physiological mechanism that prevents

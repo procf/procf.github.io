@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2023-10-01'
-lastmod: 2023-12-20T14:51:59Z
+lastmod: 2023-12-20T14:55:40Z
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:59.291930Z'
+publishDate: '2023-12-20T14:55:40.298914Z'
 publication_types:
 - '2'
 abstract: <p>Developing constitutive models that can describe a complex fluid’s response

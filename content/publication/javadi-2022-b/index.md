@@ -24,7 +24,7 @@ tags:
 - Single-ventricle
 categories: []
 date: '2022-06-01'
-lastmod: 2023-12-20T14:51:58Z
+lastmod: 2023-12-20T14:55:39Z
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:57.881304Z'
+publishDate: '2023-12-20T14:55:39.009630Z'
 publication_types:
 - '2'
 abstract: Single ventricle hearts have only one ventricle that can pump blood effectively

@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2022-09-01'
-lastmod: 2023-12-20T14:51:56Z
+lastmod: 2023-12-20T14:55:38Z
 featured: false
 draft: false
 
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:56.773580Z'
+publishDate: '2023-12-20T14:55:37.878817Z'
 publication_types:
 - '2'
 abstract: <p>The concept of a Deborah number is widely used in the study of viscoelastic

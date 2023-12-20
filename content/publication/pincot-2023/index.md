@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2023-11-01'
-lastmod: 2023-12-20T14:51:59Z
+lastmod: 2023-12-20T14:55:40Z
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:59.594229Z'
+publishDate: '2023-12-20T14:55:40.617245Z'
 publication_types:
 - '2'
 abstract: <p>A characteristic feature of human blood rheology is a distinctive stress
