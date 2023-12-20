@@ -15,18 +15,6 @@ sections:
         <br>
         
         Lab intro goes here
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{< rawhtml >}}
-        <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
-        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        {{< /rawhtml >}}
-    design:
-      columns: '1'
 
   - block: collection
     content:
