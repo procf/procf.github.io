@@ -18,7 +18,7 @@ sections:
 
   - block: markdown
     content:
-      title: Twitter Timeline
+      title: on X
       subtitle:
       text: |
         <a class="twitter-timeline" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a>
