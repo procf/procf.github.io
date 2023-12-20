@@ -91,4 +91,4 @@ With a strong background in thermofluid sciences and numerical techniques, his r
    * Introducing inventive techniques for solving diverse equations, including fractional integro-differential equations in both forward and inverse directions.
    * harnessing machine learning for effective solutions to traditionally intricate mathematical problems.
 
-Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects (or if you happen to spot any bugs in my codes!).
+Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects.
