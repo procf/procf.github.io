@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2023-12-20T03:18:26Z
+lastmod: 2023-12-20T14:51:58Z
 featured: false
 draft: false
 
@@ -31,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:26.310305Z'
+publishDate: '2023-12-20T14:51:58.193386Z'
 publication_types:
 - '2'
 abstract: ''
 publication: ''
+doi: https://doi.org/10.26434/chemrxiv-2021-dz2d8
 ---

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-12-20T03:18:27Z
+lastmod: 2023-12-20T14:51:59Z
 featured: false
 draft: false
 
@@ -30,9 +30,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:27.105979Z'
+publishDate: '2023-12-20T14:51:59.078880Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: <p>Rheology-informed neural networks are discussed as platforms for prediction
+  of complex rheological behavior such as thixo-elasto-visco-plastic mechanics. By
+  informing RhINNs with the appropriate constitutive laws, unprecedented predictability
+  for unseen data is achieved.</p>
 publication: '*Digital Discovery*'
+doi: 10.1039/D3DD00036B
+links:
+- name: URL
+  url: http://xlink.rsc.org/?DOI=D3DD00036B
 ---

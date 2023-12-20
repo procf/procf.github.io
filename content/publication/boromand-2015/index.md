@@ -1,17 +1,17 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Viscosity measurement techniques in dissipative particle dynamics
+title: Viscosity measurement techniques in Dissipative Particle Dynamics
 subtitle: ''
 summary: ''
 authors:
 - Arman Boromand
 - Safa Jamali
-- Joao M Maia
+- Joao M. Maia
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2023-12-20T03:18:20Z
+date: '2015-11-01'
+lastmod: 2023-12-20T14:51:52Z
 featured: false
 draft: false
 
@@ -29,9 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:20.415409Z'
+publishDate: '2023-12-20T14:51:52.329505Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computer Physics Communications*'
+doi: 10.1016/j.cpc.2015.05.027
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0010465515002076
 ---

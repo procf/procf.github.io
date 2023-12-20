@@ -1,8 +1,8 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Gaussian-inspired auxiliary non-equilibrium thermostat (GIANT) for dissipative
-  particle dynamics simulations
+title: Gaussian-inspired auxiliary non-equilibrium thermostat (GIANT) for Dissipative
+  Particle Dynamics simulations
 subtitle: ''
 summary: ''
 authors:
@@ -12,8 +12,8 @@ authors:
 - Joao Maia
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2023-12-20T03:18:20Z
+date: '2015-12-01'
+lastmod: 2023-12-20T14:51:52Z
 featured: false
 draft: false
 
@@ -31,9 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:20.750996Z'
+publishDate: '2023-12-20T14:51:52.633123Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Computer Physics Communications*'
+doi: 10.1016/j.cpc.2015.08.003
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0010465515002878
 ---

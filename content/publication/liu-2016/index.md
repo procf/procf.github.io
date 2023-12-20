@@ -1,8 +1,8 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Conformational transitions of polymer brushes for reversibly switching graphene
-  transistors
+title: Conformational Transitions of Polymer Brushes for Reversibly Switching Graphene
+  Transistors
 subtitle: ''
 summary: ''
 authors:
@@ -16,8 +16,8 @@ authors:
 - Liming Dai
 tags: []
 categories: []
-date: '2016-01-01'
-lastmod: 2023-12-20T03:18:21Z
+date: '2016-10-01'
+lastmod: 2023-12-20T14:51:53Z
 featured: false
 draft: false
 
@@ -35,9 +35,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:21.099423Z'
+publishDate: '2023-12-20T14:51:52.959156Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Macromolecules*'
+doi: 10.1021/acs.macromol.6b01011
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.macromol.6b01011
 ---

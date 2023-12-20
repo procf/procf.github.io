@@ -1,17 +1,17 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: 'Alternative frictional model for discontinuous shear thickening of dense suspensions:
+title: 'Alternative Frictional Model for Discontinuous Shear Thickening of Dense Suspensions:
   Hydrodynamics'
 subtitle: ''
 summary: ''
 authors:
 - Safa Jamali
-- John F Brady
+- John F. Brady
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2023-12-20T03:18:22Z
+date: '2019-09-01'
+lastmod: 2023-12-20T14:51:54Z
 featured: false
 draft: false
 
@@ -29,9 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:22.540907Z'
+publishDate: '2023-12-20T14:51:54.407042Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physical review letters*'
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.123.138002
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.123.138002
 ---

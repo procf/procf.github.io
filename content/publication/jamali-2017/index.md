@@ -1,18 +1,18 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Microstructural rearrangements and their rheological implications in a model
-  thixotropic elastoviscoplastic fluid
+title: Microstructural Rearrangements and their Rheological Implications in a Model
+  Thixotropic Elastoviscoplastic Fluid
 subtitle: ''
 summary: ''
 authors:
 - Safa Jamali
-- Gareth H McKinley
-- Robert C Armstrong
+- Gareth H. McKinley
+- Robert C. Armstrong
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2023-12-20T03:18:21Z
+lastmod: 2023-12-20T14:51:53Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:21.596772Z'
+publishDate: '2023-12-20T14:51:53.483708Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physical review letters*'
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.118.048003
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.118.048003
 ---

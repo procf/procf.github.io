@@ -8,13 +8,13 @@ authors:
 - Elahe Javadi
 - He Li
 - Ander Dorken Gallastegi
-- Galit H Frydman
+- Galit H. Frydman
 - Safa Jamali
 - George Em Karniadakis
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-12-20T03:18:25Z
+date: '2022-09-01'
+lastmod: 2023-12-20T14:51:57Z
 featured: false
 draft: false
 
@@ -32,9 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:25.829437Z'
+publishDate: '2023-12-20T14:51:57.731676Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Biophysical Journal*'
+doi: 10.1016/j.bpj.2022.08.031
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0006349522006919
 ---

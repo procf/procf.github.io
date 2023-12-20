@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Structure and dynamics of force clusters and networks in shear thickening suspensions
+title: Structure and Dynamics of Force Clusters and Networks in Shear Thickening Suspensions
 subtitle: ''
 summary: ''
 authors:
@@ -10,8 +10,8 @@ authors:
 - Safa Jamali
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-12-20T03:18:25Z
+date: '2022-08-01'
+lastmod: 2023-12-20T14:51:57Z
 featured: false
 draft: false
 
@@ -29,9 +29,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:25.510090Z'
+publishDate: '2023-12-20T14:51:57.432382Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.129.068001
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.129.068001
 ---

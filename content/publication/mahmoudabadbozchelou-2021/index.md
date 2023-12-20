@@ -1,16 +1,21 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Data-driven methods in Rheology
+title: 'Data-driven physics-informed constitutive metamodeling of complex fluids:
+  A multifidelity neural network (MFNN) framework'
 subtitle: ''
 summary: ''
 authors:
-- Kyung Hyun Ahn
+- Mohammadamin Mahmoudabadbozchelou
+- Marco Caggioni
+- Setareh Shahsavari
+- William H. Hartt
+- George Em Karniadakis
 - Safa Jamali
 tags: []
 categories: []
-date: '2023-10-01'
-lastmod: 2023-12-20T14:51:59Z
+date: '2021-03-01'
+lastmod: 2023-12-20T14:51:55Z
 featured: false
 draft: false
 
@@ -28,13 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T14:51:59.439258Z'
+publishDate: '2023-12-20T14:51:55.355331Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Rheologica Acta*'
-doi: 10.1007/s00397-023-01416-w
+publication: '*Journal of Rheology*'
+doi: 10.1122/8.0000138
 links:
 - name: URL
-  url: https://link.springer.com/10.1007/s00397-023-01416-w
+  url: https://pubs.aip.org/sor/jor/article/65/2/179-198/241391
 ---

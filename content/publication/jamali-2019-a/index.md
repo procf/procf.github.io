@@ -1,18 +1,18 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Multiscale nature of thixotropy and rheological hysteresis in attractive colloidal
-  suspensions under shear
+title: Multiscale Nature of Thixotropy and Rheological Hysteresis in Attractive Colloidal
+  Suspensions under Shear
 subtitle: ''
 summary: ''
 authors:
 - Safa Jamali
-- Robert C Armstrong
-- Gareth H McKinley
+- Robert C. Armstrong
+- Gareth H. McKinley
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2023-12-20T03:18:23Z
+date: '2019-12-01'
+lastmod: 2023-12-20T14:51:54Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:22.861477Z'
+publishDate: '2023-12-20T14:51:54.725976Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physical review letters*'
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.123.248003
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.123.248003
 ---

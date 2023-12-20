@@ -1,19 +1,19 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Jamming distance dictates colloidal shear thickening
+title: Jamming Distance Dictates Colloidal Shear Thickening
 subtitle: ''
 summary: ''
 authors:
 - Shravan Pradeep
 - Mohammad Nabizadeh
-- Alan R Jacob
+- Alan R. Jacob
 - Safa Jamali
-- Lilian C Hsiao
+- Lilian C. Hsiao
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2023-12-20T03:18:24Z
+date: '2021-10-01'
+lastmod: 2023-12-20T14:51:56Z
 featured: false
 draft: false
 
@@ -31,9 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:24.482942Z'
+publishDate: '2023-12-20T14:51:56.337462Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.127.158002
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.127.158002
 ---

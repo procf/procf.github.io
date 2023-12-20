@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2023-12-20T03:18:20Z
+lastmod: 2023-12-20T14:51:52Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:20.104887Z'
+publishDate: '2023-12-20T14:51:52.015970Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Soft Matter*'
+doi: 10.1039/C2SM27104D
+links:
+- name: URL
+  url: http://xlink.rsc.org/?DOI=C2SM27104D
 ---

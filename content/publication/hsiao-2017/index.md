@@ -1,20 +1,20 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Rheological state diagrams for rough colloids in shear flow
+title: Rheological State Diagrams for Rough Colloids in Shear Flow
 subtitle: ''
 summary: ''
 authors:
-- Lilian C Hsiao
+- Lilian C. Hsiao
 - Safa Jamali
 - Emmanouil Glynos
-- Peter F Green
-- Ronald G Larson
-- Michael J Solomon
+- Peter F. Green
+- Ronald G. Larson
+- Michael J. Solomon
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2023-12-20T03:18:21Z
+date: '2017-10-01'
+lastmod: 2023-12-20T14:51:53Z
 featured: false
 draft: false
 
@@ -32,9 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:21.251196Z'
+publishDate: '2023-12-20T14:51:53.126747Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Physical review letters*'
+publication: '*Physical Review Letters*'
+doi: 10.1103/PhysRevLett.119.158001
+links:
+- name: URL
+  url: https://link.aps.org/doi/10.1103/PhysRevLett.119.158001
 ---

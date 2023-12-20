@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Safa Jamali
-- Maria C Paiva
-- José A Covas
+- Maria C. Paiva
+- José A. Covas
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2023-12-20T03:18:20Z
+date: '2013-06-01'
+lastmod: 2023-12-20T14:51:52Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:19.949485Z'
+publishDate: '2023-12-20T14:51:49.987138Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Polymer Testing*'
+doi: 10.1016/j.polymertesting.2013.03.005
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0142941813000457
 ---

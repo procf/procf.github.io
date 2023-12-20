@@ -11,8 +11,8 @@ authors:
 - Joao Maia
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2023-12-20T03:18:21Z
+date: '2015-11-01'
+lastmod: 2023-12-20T14:51:52Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:20.908039Z'
+publishDate: '2023-12-20T14:51:52.811816Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Rheology*'
+doi: 10.1122/1.4931655
+links:
+- name: URL
+  url: https://pubs.aip.org/sor/jor/article/59/6/1377-1395/240706
 ---

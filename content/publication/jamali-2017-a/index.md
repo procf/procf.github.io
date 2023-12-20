@@ -6,15 +6,15 @@ title: Mechanism of ionic conduction in multi-layer polymeric films studied via 
 subtitle: ''
 summary: ''
 authors:
-- Sina S Jamali
+- Sina S. Jamali
 - Thomas Suesse
 - Safa Jamali
-- Douglas J Mills
+- Douglas J. Mills
 - Yue Zhao
 tags: []
 categories: []
-date: '2017-01-01'
-lastmod: 2023-12-20T03:18:22Z
+date: '2017-07-01'
+lastmod: 2023-12-20T14:51:54Z
 featured: false
 draft: false
 
@@ -32,9 +32,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:22.068620Z'
+publishDate: '2023-12-20T14:51:53.922361Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Progress in Organic Coatings*'
+doi: 10.1016/j.porgcoat.2017.04.013
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0300944017301145
 ---

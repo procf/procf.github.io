@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Milad Saadat
-- Mohammadamin Mahmoudabad
+- Mohammadamin Mahmoudabadbozchelou
 - Safa Jamali
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-12-20T03:18:25Z
+date: '2022-10-01'
+lastmod: 2023-12-20T14:51:57Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:25.668161Z'
+publishDate: '2023-12-20T14:51:57.593232Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Rheologica Acta*'
+doi: 10.1007/s00397-022-01357-w
+links:
+- name: URL
+  url: https://link.springer.com/10.1007/s00397-022-01357-w
 ---

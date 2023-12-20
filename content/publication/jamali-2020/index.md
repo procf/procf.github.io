@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Safa Jamali
-- Robert C Armstrong
-- Gareth H McKinley
+- Robert C. Armstrong
+- Gareth H. McKinley
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-12-20T03:18:22Z
+date: '2020-03-01'
+lastmod: 2023-12-20T14:51:54Z
 featured: false
 draft: false
 
@@ -30,9 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:22.706621Z'
+publishDate: '2023-12-20T14:51:54.545110Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Materials Today Advances*'
+doi: 10.1016/j.mtadv.2019.100026
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S2590049819301006
 ---

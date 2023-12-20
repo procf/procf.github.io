@@ -7,15 +7,15 @@ subtitle: ''
 summary: ''
 authors:
 - Chunzhou Pan
-- Mohammadamin Mahmoudabad
+- Mohammadamin Mahmoudabadbozchelou
 - Xiaoli Duan
-- James C Benneyan
+- James C. Benneyan
 - Safa Jamali
-- Randall M Erb
+- Randall M. Erb
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-12-20T03:18:24Z
+date: '2022-04-01'
+lastmod: 2023-12-20T14:51:56Z
 featured: false
 draft: false
 
@@ -33,9 +33,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:24.647407Z'
+publishDate: '2023-12-20T14:51:56.631730Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Colloid and Interface Science*'
+doi: 10.1016/j.jcis.2021.11.195
+links:
+- name: URL
+  url: https://linkinghub.elsevier.com/retrieve/pii/S0021979721021147
 ---

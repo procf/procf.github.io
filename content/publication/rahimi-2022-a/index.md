@@ -1,19 +1,19 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: Solvation thermodynamics of solutes in water and ionic liquids using the multiscale
-  solvation-layer interface condition continuum model
+title: Solvation Thermodynamics of Solutes in Water and Ionic Liquids Using the Multiscale
+  Solvation-Layer Interface Condition Continuum Model
 subtitle: ''
 summary: ''
 authors:
 - Ali Mehdizadeh Rahimi
 - Safa Jamali
-- Jaydeep P Bardhan
-- Steven R Lustig
+- Jaydeep P. Bardhan
+- Steven R. Lustig
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-12-20T03:18:26Z
+date: '2022-09-01'
+lastmod: 2023-12-20T14:51:58Z
 featured: false
 draft: false
 
@@ -31,9 +31,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-12-20T03:18:26.462672Z'
+publishDate: '2023-12-20T14:51:58.345116Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Journal of Chemical Theory and Computation*'
+doi: 10.1021/acs.jctc.2c00248
+links:
+- name: URL
+  url: https://pubs.acs.org/doi/10.1021/acs.jctc.2c00248
 ---
