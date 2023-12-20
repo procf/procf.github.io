@@ -8,7 +8,7 @@ last_name: Mahmoudabad
 
 # Username (this should match the folder name)
 authors:
-  - Amin
+  - Mohammadamin
 
 # Is this the primary user of the site?
 superuser: false
