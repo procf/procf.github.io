@@ -18,7 +18,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News and Events
+      title: News and Events
       subtitle:
       text:
       count: 5

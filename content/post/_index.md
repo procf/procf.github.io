@@ -1,5 +1,5 @@
 ---
-title: Latest News and Events
+title: News and Events
 
 # Listing view
 view: compact
