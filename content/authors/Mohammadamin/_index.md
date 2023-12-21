@@ -24,8 +24,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven solutions.
 interests:
+  - Artificial Intelligence 
   - Machine Learning
-  - Physics-informed learning
+  - Data Driven Solution
 
 education:
   courses:
