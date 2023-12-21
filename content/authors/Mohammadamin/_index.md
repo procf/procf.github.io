@@ -71,6 +71,8 @@ user_groups:
   - Alumni
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Mohammadamin Mahmoudabadbozchelou holds a Ph.D. in applied machine learning with a strong foundation in solving intricate mechanical engineering problems through innovative data-driven methodologies. His academic journey was dedicated to pioneering research that harnessed machine learning algorithms to address various problems in mechanical engineering.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During his doctoral studies, Mohammadamin specialized in leveraging physics-based machine learning techniques to tackle complex rheological problems. His impactful research culminated in the publication of seven papers in prestigious journals, establishing him as a trailblazer in the development of rheology-informed Neural Networks.
+
+Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer in software and machine learning at Aspen Technology. In this role, he focuses on the advancement of machine learning models that adhere to mechanical and chemical constraints within Aspen's software, contributing significantly to the evolution of cutting-edge technologies in this domain.

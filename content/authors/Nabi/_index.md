@@ -22,20 +22,22 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include data-driven solutions in soft matter design and discovery
+bio: My research interests include network science techniques in the study of meso-scale particulate matter.
 interests:
-  - Machine Learning
-  - Rheology
-  - Physics-informed learning
+  - Colloidal gels
+  - Network science
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
-      year: 2020
+    - course: Ph.D. in Mechanical Engineering
+      institution: Northeastern University
+      year: 2022
     - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
+      institution: Koç University
+      year: 2018
+    - course: B.Sc. in Mechanical Engineering
+      institution: University of Tehran
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +46,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: 'mailto:nabizadehmashhadto.m@northeastern.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://scholar.google.com/citations?hl=en&user=VlwRTZwAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +68,4 @@ user_groups:
   - Alumni
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mohammad is a PhD Graduate in Mechanical Engineering. His main research are was the computational study of the colloidal gels. In particular, he focused on the application of network science techniques in the study of meso-scale particulate matter.
