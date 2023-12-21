@@ -71,4 +71,4 @@ user_groups:
   - Postdoc Associates
 ---
 
-Deepak Mangal is a postdoctoral research associate with primary research focus on applying simulation and network science tools to study structural underpinnings of different rheological phenomena in colloidal systems. His research also involves utilizing deep learning frameworks such as PINN and DeepONet to tackle complex constitutive equations. He earned his Ph.D. in Chemical Engineering from University of Hoston in 2021.
+Deepak Mangal is a postdoctoral research associate with primary research focus on applying simulation and network science tools to study structural underpinnings of different rheological phenomena in colloidal systems. His research also involves utilizing deep learning frameworks such as PINN and DeepONet to tackle complex constitutive equations. He earned his Ph.D. in Chemical Engineering from University of Houston in 2021.
