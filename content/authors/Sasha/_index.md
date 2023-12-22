@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student in CHEME
+role: Ph.D. Candidate in CHEME
 
 # Organizations/Affiliations
 organizations:
@@ -24,18 +24,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven solutions in soft matter design and discovery
 interests:
-  - Machine Learning
+  - Colloidal Gels
   - Rheology
-  - Physics-informed learning
+  - Multicomponent Materials
 
 education:
   courses:
-    - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
+    - course: B.Sc. in Chemical Engineering 
+      institution: McGill University
       year: 2020
-    - course: M.Sc. in Mechanical Engineering
-      institution: K. N. Toosi University of Technology
-      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
-  - icon: twitter
+    link: 'mailto:kaltashov.a@northeastern.edu'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: https://www.linkedin.com/in/alexander-kaltashov-080937125/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=Ng_n6GQAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/kaltashov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +69,4 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alexander Kaltashov is a PhD student studying multicomponent gradient materials for applications in additive manufacturing
