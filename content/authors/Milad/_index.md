@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Ph.D. Candidate in ME
 
 # Organizations/Affiliations
 organizations:
