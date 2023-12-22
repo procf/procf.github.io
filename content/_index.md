@@ -78,7 +78,7 @@ sections:
 
   - block: markdown
     content: |
-      {{< video src="john.mp4" controls="controls" preload="metadata" width="100%" height="auto" >}}
+      {{< video src="/workspaces/procf.github.io/assets/media/john.mp4" controls="controls" preload="metadata" width="100%" height="auto" >}}
     design:
       columns: '1'
 
