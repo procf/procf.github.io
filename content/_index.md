@@ -76,5 +76,11 @@ sections:
     design:
       columns: '1'
 
+  - block: markdown
+    content: |
+      {{< video src="john.mp4" controls="controls" preload="metadata" width="100%" height="auto" >}}
+    design:
+      columns: '1'
+
 ---
 
