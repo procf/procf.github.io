@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate in MIE
+role: Ph.D. student in MIE
 
 # Organizations/Affiliations
 organizations:
@@ -31,11 +31,11 @@ interests:
 education:
   courses:
     - course: M.Sc. in Mechanical Engineering - Energy Conversion
-      institution: K. N. Toosi University of Technology
+      institution: University of Tehran
       year: 2020
-    - course: M.Sc. in Mechanical Engineering
+    - course: B.Sc. in Mechanical Engineering
       institution: K. N. Toosi University of Technology
-      year: 2017
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:saadat.m@northeastern.edu'
+    link: 'mailto:dabiri.d@northeastern.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/miladeshoun
+    link: https://twitter.com/D_o__22
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user%253DPPLvVmEAAAAJ
+    link: https://scholar.google.com/citations?user=zapUmOEAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/MilowSa
+    link: https://github.com/donya-dabiri
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +72,6 @@ user_groups:
   - Ph.D. Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Donya Dabiri is a PhD student with a strong background in numerical methods, including computational fluid dynamics(CFD) and Lattice Boltzmann method (LBM). During her academic journey, Donya got skilled in developing object-oriented codes in C++ and Python, which led her to her current research position where she is now working on physics-informed machine learning platforms. Her research is now on fractional physics-informed neural networks (fPINNs) to solve forward and inverse fractional differential equations, applicable to various fields including rheological problems. 
+She has also recently started working on developing neural network frameworks capable of recovering govening equations from scarce and noisy data.
+Donya is highly passionate about a variety of topics related to machine learning and is open to collaborations and innovative ideas. Feel free to reach out!
