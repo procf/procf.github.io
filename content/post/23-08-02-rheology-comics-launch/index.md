@@ -19,4 +19,5 @@ The comic is available at ICR in print in English and Greek, and it is also avai
 
 Congratulations to Rob and the entire Rheology Comics team! (including fellow PRO-CF PhD student, and Rheology Comics's Persian translator and calligrapher, [Paniz Haghighi](/author/paniz-haghighi/)!)
 
+{{< video src="john.mp4" controls="yes" >}}
 

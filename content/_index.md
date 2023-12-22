@@ -76,11 +76,5 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content: |
-      {{< video library='1' src='john.mp4' controls='yes' >}}
-    design:
-      columns: '1'
-
 ---
 
