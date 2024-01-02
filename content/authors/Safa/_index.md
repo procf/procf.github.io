@@ -15,7 +15,6 @@ superuser: true
 
 # Role/position
 role: Associate Professor of Mechanical and Industrial Engineering
-role: Associate Professor of Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
