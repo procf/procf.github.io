@@ -14,7 +14,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Zoology
+role: Associate Professor of Mechanical and Industrial Engineering
+role: Associate Professor of Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -22,23 +23,23 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+#interests:
+#  - Artificial Intelligence
+#  - Computational Linguistics
+#  - Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Macromolecular Science and Engineering
+      institution: Case Western Reserve University
+      year: 2015
+    - course: MSc in Engineering Rheology
+      institution: Catholic University of Louvain, University of Minho
+      year: 2010
+    - course: BSc in Polymer Engineering
+      institution: Amirkabir University of Technology
       year: 2008
 
 # Social/Academic Networking
@@ -48,16 +49,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:s.jamali@northeastern.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/SafaJamali
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=D1asaYIAAAAJ&hl=en
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -76,6 +77,4 @@ user_groups:
   - Principal Investigator
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Safa is an Associate Professor of Mechanical and Industrial Engineering with affiliation to the Chemical Enginnering department as well, at Northeastern University. Safa received his PhD from Case Western Reserve University’s Macromolecular Science department, followed by a period of postdoctoral training at MIT’s Chemical Engineering, Mechanical Engineering and Energy Initiative. He then joined Northeastern University in 2017, and began working on different aspects of computational and data-driven methods in soft matter and complex fluids.
