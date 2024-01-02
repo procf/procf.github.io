@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Zoology
 
 # Organizations/Affiliations
 organizations:
