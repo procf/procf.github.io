@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: PINNs_image.png
+            filename: contact.jpg
             filters:
               brightness: 0.7
           position: center
