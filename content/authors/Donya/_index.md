@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. student in MIE
+role: Ph.D. Candidate in MIE
 
 # Organizations/Affiliations
 organizations:
@@ -45,6 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dabiri.d@northeastern.edu'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/donya-dabiri/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/D_o__22

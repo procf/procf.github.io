@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Physics informed neural networks (PINNs)
+        content: 'In our group we implement PINNs to solve a variety of rheology-related problems. The topics include but not limited to MFNNs, fPINNs and model reconstruction problems.'
         align: left
         background:
           image:
