@@ -33,7 +33,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: DetailArch@10x.png
             filters:
               brightness: 0.7
           position: center
