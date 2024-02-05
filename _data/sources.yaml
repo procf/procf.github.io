@@ -2,27 +2,11 @@
 
 
 
-
 - id: 10.32942/X2CC97
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-    - type: pdf
-      link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
-  tags:
-    - ecological networks
-    - monitoring
 
 
 
 
 
 - id: 10.32942/X29G7W
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-    - type: pdf
-      link: pdfs/2023_WhiteWulfing_ecoevorxiv.pdf
-  tags:
-    - socio-ecological
-    - fisheries
-
 
