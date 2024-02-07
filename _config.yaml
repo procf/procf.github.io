@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: Rheoinformatic
 description: rheology, complex fluids, colloids, machine learning
-header: images/background.png
-footer: images/background.png
+header: images/procf-inklogo.jpeg
+footer: images/procf-inklogo.jpeg
 
 # site nav bar
 nav:
@@ -23,9 +23,9 @@ nav:
 
 
 # base directory where site is hosted
-logo: 
-header: images/background.png
-footer: images/background.png
+logo: images/procf-inklogo.jpeg
+header: images/procf-inklogo.jpeg
+footer: images/procf-inklogo.jpeg
 baseurl: /
 
 # site social media and other links
