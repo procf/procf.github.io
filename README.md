@@ -1,20 +1,16 @@
-<h1 align="center">Quantitative Marine Ecology Lab</h1>
+<h1 align="center">Rheoinformatics: the Physics and Rheology of Complex Fluids (PRO-CF) Research Group</h1>
 
-Our lab website draws heavily on the template created by the [Green Lab](https://github.com/greenelab/lab-website-template). The text is mostly written in markdown.
+Our lab website draws heavily on the template created by the [Greene Lab](https://github.com/greenelab/lab-website-template) and it's implementation in the [White Lab](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io). The text is mostly written in markdown.
 
 ## Documentation
 
-[🏠 Wiki Home](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/)
+[Wiki Home](https://github.com/procf/procf.github.io/wiki)
 
-[▶️ Get Started](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Getting-started)
+[Basic formatting in Markdown](https://github.com/procf/procf.github.io/wiki/1-Basic-Formatting-with-Markdown)
 
-[🗚 Basic Formatting](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Basic-formatting)
+[Building a profile page](https://github.com/procf/procf.github.io/wiki/2-Adding-Your-Profile-Page)
 
-[📝 Building a profile page](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Building-a-profile-page)
+[Adding a blog or news post](https://github.com/procf/procf.github.io/wiki/3-Adding-a-Post)
 
-[🧱 Adding a blog or news post](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-blog-or-news-post)
-
-[🤖 Adding a publication](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Adding-a-publication)
-
-[❓ Suggesting other edits](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io/wiki/Suggesting-edits-for-other-parts-of-the-website)
+[Adding a publication](https://github.com/procf/procf.github.io/wiki/4-Publications)
 
