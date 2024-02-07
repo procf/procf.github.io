@@ -1,7 +1,7 @@
 ---
 title: Team
 nav:
-  order: 4
+  order: 2
   tooltip: About our team
 ---
 
@@ -112,7 +112,7 @@ There are often openings for graduate students and postdoctoral fellows within t
 {% include section.html %}
 
 
-## Funding
+<!-- ## Funding -->
 
 Our work is made possible by funding from several organizations.
 {:.center}
