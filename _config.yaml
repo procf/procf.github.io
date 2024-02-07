@@ -31,7 +31,7 @@ baseurl: /
 # site social media and other links
 links:
   email: s.jamali@northeastern.edu 
-  google-scholar: A_g_ydoAAAAJ&hl
+  google-scholar: D1asaYIAAAAJ
   github: procf
   twitter: PROCF_NU
 
@@ -84,4 +84,4 @@ theme: null
 
 
 # Google Analytics
-google_analytics: G-QF28DYFVNL
+#google_analytics: G-QF28DYFVNL
