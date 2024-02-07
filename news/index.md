@@ -7,11 +7,18 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
-<iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
 
 
 <div id="substack-feed-embed"></div>
 
+{% include section.html %}
+
+{% include search-box.html %}
+
+{% include tags.html tags=site.tags %}
+
+{% include search-info.html %}
 
 <script>
   window.SubstackFeedWidget = {
@@ -25,7 +32,7 @@ nav:
 
 
 
-<iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<!-- <iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
 
 
 ## Twitter
