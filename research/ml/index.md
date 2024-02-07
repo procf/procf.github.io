@@ -1,5 +1,5 @@
 ---
-title: Ecological monitoring
+title: Machine Learning
 ---
 
 # <i class="fas monitoring"></i>Ecological Monitoring

@@ -1,5 +1,5 @@
 ---
-title: Ecological monitoring
+title: Network Science
 ---
 
 # <i class="fas monitoring"></i>Ecological Monitoring
