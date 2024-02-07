@@ -1,5 +1,5 @@
 ---
-name: Easton R. White
+name: Safa Jamali
 image: images/easton_headshot.jpg
 description: Principal Investigator 
 role: pi
