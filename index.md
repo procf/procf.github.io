@@ -2,10 +2,10 @@
 title: Home
 ---
 
-# Quantitative tools to address ocean challenges
+# Physics and Rheology of Complex Fluids
 
 
-The Quantitative Marine Ecology lab at the [University of New Hampshire](https://colsa.unh.edu/biological-sciences) is a team of scientists combining field observations with mathematical and statistical tools to address the most pressing issues in the oceans. We address questions related to population ecology, socio-ecological systems, species monitoring, fisheries, and sustainable seafood. A common thread throughout our work is the role of environmental variability, particularly rare events like heatwaves or global pandemics. We currently conduct research in Madagascar, the Eastern Tropical Pacific, and New Hampshire.
+Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeastern University! Our research focuses on computational methods for studying rheology - the science of complex fluids. We use computational modelling and machine learning techniques to study and predict the properties of complex and structured fluids.
 
 
 
