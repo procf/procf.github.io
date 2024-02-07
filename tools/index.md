@@ -1,6 +1,9 @@
 ---
-title: Tools
-tooltip: Software, datasets, and more
+title: Software
+nav:
+  order: 7
+  tooltip: Software
+---
 ---
 
 # <i class="fas fa-tools"></i>Tools
