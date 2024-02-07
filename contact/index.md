@@ -13,20 +13,21 @@ Our lab is part of the [Department of Industrial and Mechanical Engineerint](htt
   include link.html
   type="email"
   icon=""
-  text="Easton.White@unh.edu"
+  text="s.jamali@northeastern.edu"
   tooltip=""
-  link="Easton.White@unh.edu"
+  link="s.jamali@northeastern.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(603) 862-4400"
+  text="(617) 373-5782"
   tooltip=""
-  link="+1-603-862-4400"
+  link="+1-617-373-5782"
   style="button"
 %}
+
 {%
   include link.html
   type="address"
@@ -42,11 +43,10 @@ Our lab is part of the [Department of Industrial and Mechanical Engineerint](htt
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Department of Biological Sciences  
-University of New Hampshire  
-Spaulding Hall  
-38 Academic Way  
-Durham, NH 03824  
+Department of Mechanical & Industrial Engineering
+334 Snell Engineering Center
+360 Huntington Avenue
+Boston, MA 02115
 {:.center}
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
