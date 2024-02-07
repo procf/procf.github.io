@@ -18,5 +18,5 @@ The text is mostly written in markdown. For tutorials on how to update/modify in
 
 4 - [Adding a publication](https://github.com/procf/procf.github.io/wiki/4-Publications)
 
-Advanced details about the website template are available on the [Website Template Docs Gitbook]https://greene-lab.gitbook.io/lab-website-template-docs/introduction/overview)
+Advanced details about the website template are available on the [Website Template Docs Gitbook](https://greene-lab.gitbook.io/lab-website-template-docs/introduction/overview)
 
