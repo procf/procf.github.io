@@ -2,7 +2,7 @@
 title: Particle Simulation
 ---
 
-# <i class="fas monitoring"></i>Ecological Monitoring
+# <i class="fas sim"></i>Particle Simulation
 
 {%
   include feature.html

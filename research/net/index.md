@@ -2,7 +2,7 @@
 title: Network Science
 ---
 
-# <i class="fas monitoring"></i>Ecological Monitoring
+# <i class="fas net"></i>Network Science
 
 {%
   include feature.html
