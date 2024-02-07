@@ -1,6 +1,6 @@
 ---
 name: Safa Jamali
-image: images/easton_headshot.jpg
+image: images/safa.jpg
 description: Principal Investigator 
 role: pi
 group: current

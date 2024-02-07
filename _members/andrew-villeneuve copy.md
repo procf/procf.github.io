@@ -1,6 +1,6 @@
 ---
-name: Andrew (Drew) Villeneuve
-image: images/headshots/andrew-villeneuve.jpg
+name: Placeholder grad
+image: images/headshots/milad.jpg
 description: PhD Student
 role: grad
 group: current

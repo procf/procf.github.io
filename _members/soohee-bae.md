@@ -1,8 +1,8 @@
 ---
-name: Katherine M. Pagán Rivera
-image: images/katherine-paganrivera.JPG
+name: Soohee Bae
+image: images/soohee.jpg
 role: grad
-group: current
+group: alumni
 description: Graduate student
 aliases: 
   - Katherine M. Pagán Rivera

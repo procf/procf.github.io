@@ -1,11 +1,11 @@
 ---
-name: Barbara Spiecker
-image: images/headshots/barbara-spiecker.jpg
+name: Deepak Mangal
+image: images/headshots/deepak.jpg
 role: postdoc
 group: current
 description: Postdoctoral Scholar
 aliases:
-  - B Spiecker
+  - D Spiecker
   - B. Spiecker
   - B. J. Spiecker
   - B.J. Spiecker
