@@ -25,27 +25,8 @@ Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeas
   link3="https://quantmarineecolab.github.io/publications/"
   tooltip3="Extreme events"
 
-  image4="images/research_topics/topic-ses.jpeg"
-  link4="https://quantmarineecolab.github.io/research/socioeco"
-  tooltip4="Socio-ecological dynamics"
-  
-  image5="images/research_topics/topic-spatial.jpeg"
-  link5="https://quantmarineecolab.github.io/publications/"
-  tooltip5="Spatial ecology"
-  
-    image6="images/research_topics/topic-bioed.jpeg"
-  link6="https://quantmarineecolab.github.io/research/bioed"
-  tooltip6="Biology education research"
-
-
 %}
 
-
-{%
-  include figure.html
-  image="images/QMEL_Lab_logo2.png"
-  width="65%"
-%}
 
 
 <!-- section break -->
