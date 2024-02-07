@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Biological Sciences](https://colsa.unh.edu/biological-sciences), at the [University of New Hampshire](https://www.unh.edu/). We are also affiliated with the [School of Marine Science and Ocean Engineering](https://marine.unh.edu/).
-We are located on the basement floor of Spaulding Hall.
+Our lab is part of the [Department of Industrial and Mechanical Engineerint](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/).
 
 {%
   include link.html
@@ -50,8 +49,8 @@ Spaulding Hall
 Durham, NH 03824  
 {:.center}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
-Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html).
+<!-- Lab logos and were designed by [Julia Saltzman](https://quantmarineecolab.github.io/members/julia-saltzman.html). -->
 
