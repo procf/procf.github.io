@@ -18,15 +18,15 @@ Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeas
   tooltip1="Particle Simulation"
 
   image2="images/research_topics/topic-seafood.jpeg"
-  link2="https://procf.github.io/research/net"
+  link2="research/net"
   tooltip2="Network Science"
 
   image3="images/research_topics/topic-extreme.jpeg"
-  link3="https://procf.github.io/research/ml"
+  link3="research/ml"
   tooltip3="Machine Learning"
 
   image4="images/research_topics/topic-ses.jpeg"
-  link4="https://procf.github.io/research/blood"
+  link4="research/blood"
   tooltip4="Blood Rheology"
 
 
