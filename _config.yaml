@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Quantitative Marine Ecology Lab
-description: quantitative ecology, fisheries, seafood, socio-ecological systems, science education
+title: Rheoinformatic
+description: rheology, complex fluids, colloids, machine learning
 header: images/background.png
 footer: images/background.png
 
@@ -15,7 +15,7 @@ nav:
   - link: team
     tooltip: About our team
   - link: news
-    tooltip: News and commentary
+    tooltip: News and events
   - link: join
     tooltip: Join the lab
   - link: contact
@@ -30,11 +30,10 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: Easton.White@unh.edu 
+  email: s.jamali@northeastern.edu 
   google-scholar: A_g_ydoAAAAJ&hl
-  github: quantmarineecolab
-  twitter: eastonrwhite
-  instagram: quantmarineecolab
+  github: procf
+  twitter: PROCF_NU
 
 ### advanced settings
 
