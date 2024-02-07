@@ -1,6 +1,6 @@
 ---
-name: Soohee Bae
-image: images/headshots/soohee.jpg
+name: Ali Mehdizadeh
+image: images/headshots/ali.jpg
 role: grad
 group: alumni
 description: Graduate student

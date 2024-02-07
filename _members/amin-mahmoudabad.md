@@ -1,9 +1,9 @@
 ---
-name: Placeholder grad
-image: images/headshots/milad.jpg
+name: Mohammadamin Mahmoudabadbozchelou
+image: images/headshots/amin.jpg
 description: PhD Student
 role: grad
-group: current
+group: alumni
 aliases:
   - Andrew (Drew) Villeneuve
   - Andrew Villeneuve
