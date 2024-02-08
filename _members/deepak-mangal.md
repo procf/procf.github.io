@@ -3,35 +3,24 @@ name: Deepak Mangal
 image: images/headshots/deepak.jpg
 role: postdoc
 group: current
-description: Postdoctoral Scholar
-aliases:
-  - D Spiecker
-  - B. Spiecker
-  - B. J. Spiecker
-  - B.J. Spiecker
-  - Barbara J. Spiecker
+description: Postdoctoral Research Associate
 links:
-  email: barbara.spiecker@unh.edu
-  google-scholar: mwQQRwgAAAAJ&hl
-  twitter: ulva_jelly
+  email: d.mangal@northeastern.edu
+  google-scholar: https://scholar.google.com/citations?user=AoYKLW4AAAAJ&hl=en/
+  twitter: https://twitter.com/DeepakM52648497
 ---
 <br>
 **Education**
 <br>
-- Postdoc (2022), University of California at Santa Barbara (Advisor: Dr. Jenn Caselle)
-- Ph.D. (2020), Oregon State University (Advisor: Dr. Bruce Menge)
-- M.S. (2014), Northeastern University (Advisor: Dr. Tarik Gouhier)
-- B.S (2011), Rochester Institute of Technology (Advisor: Dr. Hyla Sweet)
+- Ph.D. (2021), University of Houston (Advisors: Dr. Jeremy C. Palmer and Dr. Jacinta C. Conrad)
+- B.Tech. (2012), Indian Institute of Technology Kharagpur, India (Advisor: Dr. Sudarsan Neogi)
 <br>
 **Research Interests**
 <br>
-Barbara Spiecker (she/her/hers) is a marine community ecologist who is broadly interested in scale-dependent responses of marine communities across space and time. 
+Deepak Mangal is a postdoctoral research associate with a broad research interest in the transport in porous media, rheology of colloidal systems, and scientific machine learning.
 <br>
-Her research focuses on:
-1. Identifying underlying mechanisms that produce complex multi-scale responses of benthic communities and how these mechanisms and 
-responses affect ecosystem-level processes from the bottom up.
-2. Using data from long-term monitoring programs to address pressing ecological issues, identify biological patterns across ecosystems, and provide practical solutions to common data-related issues surrounding these programs.
+His research focuses on:
+1. Investigating the structural underpinnings of various rheological phenomena in colloidal systems using simulation and network science tools.
+2. Utilizing deep learning frameworks such as PINN and DeepONet to tackle complex constitutive equations.
+3. Investigating the effect of hydrodynamic interactions on dispersion of finite-sized particles through fibrous media
 <br>
-Alongside her research, she is actively involved with science communication and community outreach. She co-founded a non-profit organization called 
-[Atomic Hands](www.atomichands.com). The organization’s mission is to foster curiosity in STEM through American Sign Language-centric resources, 
-empower the signing community to develop and deliver engaging STEM topics, and encourage networking among deaf STEMists.
