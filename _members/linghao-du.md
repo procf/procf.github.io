@@ -5,8 +5,8 @@ role: grad
 group: alumni
 description: Graduate student
 links:
-  - email: du.li@husky.neu.edu
-  - linkedin: linghao-du-466299138/
+  email: du.li@husky.neu.edu
+  linkedin: linghao-du-466299138/
 ---
 
 <br>
