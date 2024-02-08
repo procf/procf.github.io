@@ -1,7 +1,7 @@
 ---
 name: Elahe Javadi
 image: images/headshots/elahe.jpg
-description: PhD Student
+description: PhD Graduate
 role: grad
 group: alumni
 links:

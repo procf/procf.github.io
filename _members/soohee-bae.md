@@ -3,7 +3,7 @@ name: Soohee Bae
 image: images/headshots/soohee.jpg
 role: grad
 group: alumni
-description: Graduate student
+description: MSc Graduate
 aliases: 
 links:
   email: clarabae0909@gmail.com

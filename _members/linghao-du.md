@@ -3,7 +3,7 @@ name: Linghao Du
 image: images/headshots/linghao.jpg
 role: grad
 group: alumni
-description: Graduate student
+description: MSc Graduate
 links:
   email: du.li@husky.neu.edu
   linkedin: linghao-du-466299138/

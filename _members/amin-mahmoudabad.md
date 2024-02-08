@@ -1,7 +1,7 @@
 ---
 name: Amin Mahmoudabad
 image: images/headshots/amin.jpg
-description: PhD Student
+description: PhD Graduate
 role: grad
 group: alumni
 aliases:

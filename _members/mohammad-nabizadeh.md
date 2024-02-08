@@ -1,7 +1,7 @@
 ---
 name: Mohammad Nabizadeh
 image: images/headshots/nabi.jpg
-description: PhD Student
+description: PhD Graduate
 role: grad
 group: alumni
 aliases:
