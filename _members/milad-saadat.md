@@ -20,7 +20,7 @@ links:
 - M.Sc. in Mechanical Engineering - Energy Conversion (2020), K. N. Toosi University of Technology
 - B.Sc. in Mechanical Engineering (2017), K. N. Toosi University of Technology
 <br>
----
+<hr>
 <br>
 
 
