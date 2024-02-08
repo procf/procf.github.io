@@ -14,6 +14,15 @@ links:
   twitter: miladeshoun
 ---
 
+<br>
+**Education**
+<br>
+- M.Sc. in Mechanical Engineering - Energy Conversion (2020), K. N. Toosi University of Technology
+- B.Sc. in Mechanical Engineering (2017), K. N. Toosi University of Technology
+<br>
+---
+<br>
+
 
 Milad Saadat, currently a third-year Ph.D. candidate in the Mechanical and Industrial Engineering department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
 
@@ -28,13 +37,6 @@ With a strong background in thermofluid sciences and numerical techniques, his r
    * harnessing machine learning for effective solutions to traditionally intricate mathematical problems.
 
 Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects.
-
-<br>
-**Education**
-<br>
-- M.Sc. in Mechanical Engineering - Energy Conversion (2020), K. N. Toosi University of Technology
-- B.Sc. in Mechanical Engineering (2017), K. N. Toosi University of Technology
-<br>
 
 
 [Milad's resume as a pdf](https://procf.github.io/pdfs/MiladSaadat_Resume.pdf)
