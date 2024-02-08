@@ -61,10 +61,9 @@ There are often openings for graduate students and postdoctoral fellows within t
 %}
 {:.center}
 
-<!-- ![2023 team photo](/images/2023_lab_retreat_team.jpg "2023 team photo") --> -->
+<!-- ![First team photo](/images/blog_post_images/2021_retreat1.jpg "2021 team photo") -->
 
-{% include section.html %} -->
-
+{% include section.html %}
 
 
 # Alumni
