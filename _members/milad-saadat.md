@@ -6,18 +6,35 @@ role: grad
 group: current
 aliases:
   - M. Saadat
-  - Andrew Villeneuve
-  - Drew Villeneuve
-  - A. Villeneuve
 links:
   email: saadat.m@northeastern.edu
-  twitter: Villeneuvesci
-  github: villesci
-  google-scholar: BJlkwh0AAAAJ&hl
+  github: MilowSa
+  twitter: miladeshoun
+  orcid: 0000-0001-6379-2664
+  google-scholar: PPLvVmEAAAAJ&hl
 ---
 
-Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
+<br>
+**Education**
+<br>
+- M.Sc. in Mechanical Engineering - Energy Conversion (2020), K. N. Toosi University of Technology
+- B.Sc. in Mechanical Engineering (2017), K. N. Toosi University of Technology
+<br>
 
-Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his master’s in Environmental Conservation from the University of Massachusetts Amherst in 2021. At UMass Amherst, he worked in the Marine Global Change Ecology lab with Dr. Brian Cheng understanding the role of local adaptation in driving intraspecific trait variation and climate sensitivity of the marine predatory gastropod Urosalpinx cinerea. He was a 2021 Knauss Marine Policy Fellow with NOAA Fisheries, where he supported efforts to incorporate traditional ecological knowledge from Inuit groups into an international agreement to prevent unregulated fishing in the Central Arctic Ocean, and developed communication materials about NOAA Fisheries surveys for the public and Congress. 
 
-When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
+Milad Saadat, currently a third-year Ph.D. candidate in the Mechanical and Industrial Engineering department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
+
+With a strong background in thermofluid sciences and numerical techniques, his research centers on two key areas:
+
+1. **Physics-Informed Machine Learning for Material Discovery:**
+   * Applying physics-informed surrogate models for replicating rheometry and minimizing the experimental workload (digital twins).
+   * Concentrating on pioneering methodologies for modeling and predicting material behavior.
+
+2. **Innovative Approaches to Tackle Complex Equations:**
+   * Introducing inventive techniques for solving diverse equations, including fractional integro-differential equations in both forward and inverse directions.
+   * harnessing machine learning for effective solutions to traditionally intricate mathematical problems.
+
+Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects.
+
+
+[Milad's resume as a pdf](https://quantmarineecolab.github.io/pdfs/MiladSaadat_Resume.pdf)
