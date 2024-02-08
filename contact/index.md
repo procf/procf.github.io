@@ -9,43 +9,23 @@ nav:
 
 Our lab is part of the [Department of Industrial and Mechanical Engineerint](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/).
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="s.jamali@northeastern.edu"
-  tooltip=""
-  link="s.jamali@northeastern.edu"
-  style="button"
-%}
-{%
-  include link.html
-  type="phone"
-  icon=""
-  text="(617) 373-5782"
-  tooltip=""
-  link="+1-617-373-5782"
-  style="button"
-%}
 
-{%
-  include link.html
-  type="address"
-  icon=""
-  text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249"
-  style="button"
-%}
-{:.center}
+<div class="center">
+  {% include link.html type="email" icon="" text="s.jamali@northeastern.edu" tooltip="" link="s.jamali@northeastern.edu" style="button" %}
+  {% include link.html type="phone" icon="" text="(617) 373-5782" tooltip="" link="+1-617-373-5782" style="button" %}
+  {% include link.html type="address" icon="" text="Google Maps" tooltip="Our location on Google Maps for easy navigation" link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9367136,17z/data=!3m1!4b1!4m5!3m4!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249" style="button" %}
+</div>
 
 
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Department of Mechanical & Industrial Engineering
+
 334 Snell Engineering Center
+
 360 Huntington Avenue
+
 Boston, MA 02115
 {:.center}
 
