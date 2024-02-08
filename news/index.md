@@ -7,25 +7,14 @@ nav:
 
 # <i class="fas fa-feather-alt"></i>News
 
-<!-- <iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
+{% include section.html %}
 
+{% include search-info.html %}
 
-<div id="substack-feed-embed"></div>
+{% include list.html data="posts" component="post-excerpt" %}
 
+{% include section.html %}
 
-<script>
-  window.SubstackFeedWidget = {
-    substackUrl: "quantecology.substack.com",
-    posts: 10,
-    layout: "right",
-    hidden: ["reactions", "comments"]
-  };
-</script>
-<script src="https://substackapi.com/embeds/feed.js" async></script>
-
-
-
-<!-- <iframe src="https://quantecology.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
 
 
 ## on X
