@@ -4,7 +4,19 @@ image: images/headshots/ali.jpg
 role: grad
 group: alumni
 description: Graduate student
-
+links:
+    email: mehdizadehrahimi.a@husky.neu.edu
+    linkedin: alimehdizadehrahimi
 ---
 
-Katherine M. Pagán Rivera (she/her/hers) graduated from the University of Puerto Rico at Humacao where she majored in coastal marine biology and wildlife management. Her main area of interest is ecology, especially in estuarine systems and the great variety of factors that can influence and alter them. In addition to this, she has a special interest in aquatic invertebrates. Among some of her most recent research roles, she worked with deep sea image analysis to obtain the biomass of benthic macroinvertebrates in the Clarion-Clipperton Fracture Zone in the Pacific Ocean. Also, she is works with local hands-on volunteer efforts such as coast monitoring for sea turtles nesting. In her free time, you can find her diving, snorkeling, or even skating. 
+<br>
+**Education**
+<br>
+- Ph.D. in Mechanical Engineering (2020), Northeastern University
+- M.Sc. in Mechanical Engineering - Bioengineering and Biomedical Engineering (2012), Amirkabir University of Technology - Tehran Polytechnic
+- B.E. in Mechanical Engineering (2009), Sharif University of Technology
+<br>
+<hr>
+<br>
+
+Ali’s a PhD graduate in Mechanical Engineering. His main research area for his thesis was molecular electrostatics, focusing on the application of the SLIC (Solvation-Layer Interface Condition) electrostatics model to the bilayer membrane-nano particle interaction problem. He also worked on the simulation of flow response of hair beds in Couette flow using OpenFOAM.
