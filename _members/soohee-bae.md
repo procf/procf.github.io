@@ -5,8 +5,17 @@ role: grad
 group: alumni
 description: Graduate student
 aliases: 
-  - Katherine M. Pagán Rivera
-  - K. Pagán Rivera
+links:
+  email: clarabae0909@gmail.com
+  github: soohee-bae
+  google-scholar: VlwRTZwAAAAJ&hl
 ---
+<br>
+**Education**
+<br>
+- M.Sc. in Mechanical Engineering (2023), Northeastern University
+- B.Sc. in Aerospace Engineering (2021), Texas A&M-College Station
+- B.A. in Mathematics (2021), Texas A&M-College Station
+<br>
 
-Katherine M. Pagán Rivera (she/her/hers) graduated from the University of Puerto Rico at Humacao where she majored in coastal marine biology and wildlife management. Her main area of interest is ecology, especially in estuarine systems and the great variety of factors that can influence and alter them. In addition to this, she has a special interest in aquatic invertebrates. Among some of her most recent research roles, she worked with deep sea image analysis to obtain the biomass of benthic macroinvertebrates in the Clarion-Clipperton Fracture Zone in the Pacific Ocean. Also, she is works with local hands-on volunteer efforts such as coast monitoring for sea turtles nesting. In her free time, you can find her diving, snorkeling, or even skating. 
+Soohee Bae is a alumni of the PRO-CF lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She has achieved this through dissipative particle dynamics.
