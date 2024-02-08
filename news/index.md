@@ -32,10 +32,8 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<div class="center">
-    <a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a> 
-    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
 <a href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PROCF_NU</a>
