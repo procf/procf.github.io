@@ -20,14 +20,12 @@ Our lab is part of the [Department of Industrial and Mechanical Engineerint](htt
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Department of Mechanical & Industrial Engineering
-
-334 Snell Engineering Center
-
-360 Huntington Avenue
-
-Boston, MA 02115
-{:.center}
+<div class="left-align">
+Department of Mechanical & Industrial Engineering  
+334 Snell Engineering Center  
+360 Huntington Avenue  
+Boston, MA 02115  
+</div>
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
