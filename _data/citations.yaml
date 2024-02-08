@@ -1,37 +1,586 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: 10.32942/X2CC97
-  title: Refining the trophic diversity, ecological network structure, and bottom-up
-    importance of prey groups for temperate reef fishes
+- id: 10.1039/C2SM27104D
+  title: Bridging the gap between microstructure and macroscopic behavior of monodisperse
+    and bimodal colloidal suspensions
   authors:
-  - Salvador Zarco-Perello
-  - Scott Bennett
-  - Jordan Goetze
-  - Tom Holmes
-  - Rick Stuart-Smith
-  - Easton White
-  publisher: California Digital Library (CDL)
-  date: '2023-11-07'
-  link: https://doi.org/gs52ph
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_Zarco-Perello_etal_ecoevorxiv.pdf
+  - Safa Jamali
+  - Mikio Yamanoi
+  - "Jo\xE3o Maia"
+  publisher: Soft Matter
+  date: '2013-01-01'
+  link: https://doi.org/gtg8cm
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
   tags:
-  - ecological networks
-  - monitoring
-- id: 10.32942/X29G7W
-  title: Extreme events and coupled socio-ecological systems
+  - Particle Simulation
+- id: 10.1016/j.polymertesting.2013.03.005
+  title: Dispersion and re-agglomeration phenomena during melt mixing of polypropylene
+    with multi-wall carbon nanotubes
   authors:
-  - Easton White
-  - Sophie Wulfing
-  publisher: California Digital Library (CDL)
-  date: '2023-11-20'
-  link: https://doi.org/gs52pj
-  image: https://quantmarineecolab.github.io/images/journal_covers/ecoevorxiv.jpg
-  extra-links:
-  - type: pdf
-    link: pdfs/2023_WhiteWulfing_ecoevorxiv.pdf
+  - Safa Jamali
+  - Maria C. Paiva
+  - "Jos\xE9 A. Covas"
+  publisher: Polymer Testing
+  date: '2013-06-01'
+  link: https://doi.org/f4zw22
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
   tags:
-  - socio-ecological
-  - fisheries
+  - Particle Simulation
+- id: 10.1063/1.4919303
+  title: Generalized mapping of multi-body dissipative particle dynamics onto fluid
+    compressibility and the Flory-Huggins theory
+  authors:
+  - Safa Jamali
+  - Arman Boromand
+  - Shaghayegh Khani
+  - Jacob Wagner
+  - Mikio Yamanoi
+  - Joao Maia
+  publisher: The Journal of Chemical Physics
+  date: '2015-04-28'
+  link: https://doi.org/gtg8cn
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1016/j.cpc.2015.05.027
+  title: Viscosity measurement techniques in Dissipative Particle Dynamics
+  authors:
+  - Arman Boromand
+  - Safa Jamali
+  - Joao M. Maia
+  publisher: Computer Physics Communications
+  date: '2015-11-01'
+  link: https://doi.org/f7twb4
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1039/C5SM01560J
+  title: Polymer-mediated nanorod self-assembly predicted by dissipative particle
+    dynamics simulations
+  authors:
+  - Shaghayegh Khani
+  - Safa Jamali
+  - Arman Boromand
+  - Michael J. A. Hore
+  - Joao Maia
+  publisher: Soft Matter
+  date: '2015-01-01'
+  link: https://doi.org/gtgxmr
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1016/j.cpc.2015.08.003
+  title: Gaussian-inspired auxiliary non-equilibrium thermostat (GIANT) for Dissipative
+    Particle Dynamics simulations
+  authors:
+  - Safa Jamali
+  - Arman Boromand
+  - Shaghayegh Khani
+  - Joao Maia
+  publisher: Computer Physics Communications
+  date: '2015-12-01'
+  link: https://doi.org/f7vbw7
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1122/1.4931655
+  title: Microstructure and rheology of soft to rigid shear-thickening colloidal suspensions
+  authors:
+  - Safa Jamali
+  - Arman Boromand
+  - Norman Wagner
+  - Joao Maia
+  publisher: Journal of Rheology
+  date: '2015-11-01'
+  link: https://doi.org/f7xzz2
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1021/acs.macromol.6b01011
+  title: Conformational Transitions of Polymer Brushes for Reversibly Switching Graphene
+    Transistors
+  authors:
+  - Song Liu
+  - Safa Jamali
+  - Qingfeng Liu
+  - Joao Maia
+  - Jong-Beom Baek
+  - Naisheng Jiang
+  - Ming Xu
+  - Liming Dai
+  publisher: Macromolecules
+  date: '2016-09-30'
+  link: https://doi.org/gtgxms
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1103/PhysRevLett.119.158001
+  title: Rheological State Diagrams for Rough Colloids in Shear Flow
+  authors:
+  - Lilian C. Hsiao
+  - Safa Jamali
+  - Emmanouil Glynos
+  - Peter F. Green
+  - Ronald G. Larson
+  - Michael J. Solomon
+  publisher: Physical Review Letters
+  date: '2017-10-11'
+  link: https://doi.org/gcg5w6
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1039/C6SM00750C
+  title: Structural fingerprints of yielding mechanisms in attractive colloidal gels
+  authors:
+  - Arman Boromand
+  - Safa Jamali
+  - "Jo\xE3o M. Maia"
+  publisher: Soft Matter
+  date: '2017-01-01'
+  link: https://doi.org/gtgxmt
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Network Science
+- id: 10.1103/PhysRevLett.118.048003
+  title: Microstructural Rearrangements and their Rheological Implications in a Model
+    Thixotropic Elastoviscoplastic Fluid
+  authors:
+  - Safa Jamali
+  - Gareth H. McKinley
+  - Robert C. Armstrong
+  publisher: Physical Review Letters
+  date: '2017-01-27'
+  link: https://doi.org/gf84jr
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1103/PhysRevLett.123.138002
+  title: 'Alternative Frictional Model for Discontinuous Shear Thickening of Dense
+    Suspensions: Hydrodynamics'
+  authors:
+  - Safa Jamali
+  - "John\u2009F. Brady"
+  publisher: Physical Review Letters
+  date: '2019-09-25'
+  link: https://doi.org/gqt326
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1016/j.mtadv.2019.100026
+  title: Time-rate-transformation framework for targeted assembly of short-range attractive
+    colloidal suspensions
+  authors:
+  - Safa Jamali
+  - Robert C. Armstrong
+  - Gareth H. McKinley
+  publisher: Materials Today Advances
+  date: '2020-03-01'
+  link: https://doi.org/gtgxmv
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1103/PhysRevLett.123.248003
+  title: Multiscale Nature of Thixotropy and Rheological Hysteresis in Attractive
+    Colloidal Suspensions under Shear
+  authors:
+  - Safa Jamali
+  - Robert C. Armstrong
+  - Gareth H. McKinley
+  publisher: Physical Review Letters
+  date: '2019-12-10'
+  link: https://doi.org/gm7p4g
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1122/1.5134036
+  title: A hydrodynamic model for discontinuous shear-thickening in dense suspensions
+  authors:
+  - Mu Wang
+  - Safa Jamali
+  - John F. Brady
+  publisher: Journal of Rheology
+  date: '2020-03-01'
+  link: https://doi.org/gtgxmw
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1016/j.icheatmasstransfer.2020.104978
+  title: Entropy analysis and thermal optimization of nanofluid impinging jet using
+    artificial neural network and genetic algorithm
+  authors:
+  - Mohammadamin Mahmoudabadbozchelou
+  - Amirsaman Eghtesad
+  - Safa Jamali
+  - Hossein Afshin
+  publisher: International Communications in Heat and Mass Transfer
+  date: '2020-12-01'
+  link: https://doi.org/gmrf82
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1122/8.0000174
+  title: 'Rheology discussions: The physics of dense suspensions'
+  authors:
+  - Safa Jamali
+  - Emanuela Del Gado
+  - Jeffrey F. Morris
+  publisher: Journal of Rheology
+  date: '2020-11-01'
+  link: https://doi.org/gqt3kw
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1098/rsif.2020.0834
+  title: Integrating blood cell mechanics, platelet adhesive dynamics and coagulation
+    cascade for modelling thrombus formation in normal and diabetic blood
+  authors:
+  - Alireza Yazdani
+  - Yixiang Deng
+  - He Li
+  - Elahe Javadi
+  - Zhen Li
+  - Safa Jamali
+  - Chensen Lin
+  - Jay D. Humphrey
+  - Christos S. Mantzoros
+  - George Em Karniadakis
+  publisher: Journal of The Royal Society Interface
+  date: '2021-02-01'
+  link: https://doi.org/gh5kj2
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1016/j.bpj.2021.05.013
+  title: In silico biophysics and hemorheology of blood hyperviscosity syndrome
+  authors:
+  - Elahe Javadi
+  - Yixiang Deng
+  - George Em Karniadakis
+  - Safa Jamali
+  publisher: Biophysical Journal
+  date: '2021-07-01'
+  link: https://doi.org/gkb3h2
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1038/s41598-021-91518-3
+  title: Rheology-Informed Neural Networks (RhINNs) for forward and inverse metamodelling
+    of complex fluids
+  authors:
+  - Mohammadamin Mahmoudabadbozchelou
+  - Safa Jamali
+  publisher: Scientific Reports
+  date: '2021-06-08'
+  link: https://doi.org/gkggd6
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1038/s41467-021-24416-x
+  title: Life and death of colloidal bonds control the rate-dependent rheology of
+    gels
+  authors:
+  - Mohammad Nabizadeh
+  - Safa Jamali
+  publisher: Nature Communications
+  date: '2021-07-13'
+  link: https://doi.org/gtgxmx
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Network Science
+- id: 10.1039/D1SM00856K
+  title: 'Hemorheology: the critical role of flow type in blood viscosity measurements'
+  authors:
+  - Elahe Javadi
+  - Safa Jamali
+  publisher: Soft Matter
+  date: '2021-01-01'
+  link: https://doi.org/gqt3vz
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1103/PhysRevLett.127.158002
+  title: Jamming Distance Dictates Colloidal Shear Thickening
+  authors:
+  - Shravan Pradeep
+  - Mohammad Nabizadeh
+  - Alan R. Jacob
+  - Safa Jamali
+  - Lilian C. Hsiao
+  publisher: Physical Review Letters
+  date: '2021-10-06'
+  link: https://doi.org/gm3xc7
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1039/D1SM01298C
+  title: 'nn-PINNs: Non-Newtonian physics-informed neural networks for complex fluid
+    modeling'
+  authors:
+  - Mohammadamin Mahmoudabadbozchelou
+  - George Em. Karniadakis
+  - Safa Jamali
+  publisher: Soft Matter
+  date: '2022-01-01'
+  link: https://doi.org/gqzt2t
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1016/j.jcis.2021.11.195
+  title: Increasing efficiency and accuracy of magnetic interaction calculations in
+    colloidal simulation through machine learning
+  authors:
+  - Chunzhou Pan
+  - Mohammadamin Mahmoudabadbozchelou
+  - Xiaoli Duan
+  - James C. Benneyan
+  - Safa Jamali
+  - Randall M. Erb
+  publisher: Journal of Colloid and Interface Science
+  date: '2022-04-01'
+  link: https://doi.org/gnrsfp
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1122/8.0000432
+  title: The Mnemosyne number and the rheology of remembrance
+  authors:
+  - Safa Jamali
+  - Gareth H. McKinley
+  publisher: Journal of Rheology
+  date: '2022-08-29'
+  link: https://doi.org/gtgxmz
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Network Science
+- id: 10.1063/5.0079214
+  title: Thixotropy and rheological hysteresis in blood flow
+  authors:
+  - Elahe Javadi
+  - Safa Jamali
+  publisher: The Journal of Chemical Physics
+  date: '2022-02-22'
+  link: https://doi.org/gtgxm2
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1073/pnas.2202234119
+  title: 'Digital rheometer twins: Learning the hidden rheology of complex fluids
+    through rheology-informed graph neural networks'
+  authors:
+  - Mohammadamin Mahmoudabadbozchelou
+  - Krutarth M. Kamani
+  - Simon A. Rogers
+  - Safa Jamali
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-05-11'
+  link: https://doi.org/gqztq6
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1103/PhysRevLett.129.068001
+  title: Structure and Dynamics of Force Clusters and Networks in Shear Thickening
+    Suspensions
+  authors:
+  - Mohammad Nabizadeh
+  - Abhinendra Singh
+  - Safa Jamali
+  publisher: Physical Review Letters
+  date: '2022-08-02'
+  link: https://doi.org/gqt3gs
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1007/s00397-022-01357-w
+  title: Data-driven selection of constitutive models via rheology-informed neural
+    networks (RhINNs)
+  authors:
+  - Milad Saadat
+  - Mohammadamin Mahmoudabadbozchelou
+  - Safa Jamali
+  publisher: Rheologica Acta
+  date: '2022-08-03'
+  link: https://doi.org/gqzvck
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1016/j.bpj.2022.08.031
+  title: Circulating cell clusters aggravate the hemorheological abnormalities in
+    COVID-19
+  authors:
+  - Elahe Javadi
+  - He Li
+  - Ander Dorken Gallastegi
+  - Galit H. Frydman
+  - Safa Jamali
+  - George Em Karniadakis
+  publisher: Biophysical Journal
+  date: '2022-09-01'
+  link: https://doi.org/gtgxm3
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.52768/2766-7820/1916
+  title: 'Predicting hemodynamic performance of Fontan Operation for Glenn physiology
+    using computational fluid dynamics: Ten patient-specific cases'
+  authors:
+  - Elahe Javadi
+  - ' '
+  publisher: Journal of Clinical Images and Medical Case Reports
+  date: '2022-06-29'
+  link: https://doi.org/gtgxm4
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1063/5.0106700
+  title: Drag reduction and the Vogel exponent of a flexible beam in transient shear
+    flows
+  authors:
+  - Ali Mehdizadeh Rahimi
+  - Steven R. Lustig
+  - Jaydeep P. Bardhan
+  - Safa Jamali
+  publisher: Physics of Fluids
+  date: '2022-10-01'
+  link: https://doi.org/gtgxm5
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: https://doi.org/10.26434/chemrxiv-2021-dz2d8
+  title: Predicting Solvation Thermodynamics in Water and Ionic Liquids using the
+    Multi-Scale Solvation Layer Interface Condition (SLIC)
+  authors:
+  - Ali Mehdizadeh Rahimi
+  - Safa Jamali
+  - Jaydeep Bardhan
+  - Steve Lustig
+  publisher: ChemRxiv
+  date: '2021-09-17'
+  link: https://chemrxiv.org/engage/chemrxiv/article-details/61438dfd87a02d39703d2551
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1021/acs.jctc.2c00248
+  title: Solvation Thermodynamics of Solutes in Water and Ionic Liquids Using the
+    Multiscale Solvation-Layer Interface Condition Continuum Model
+  authors:
+  - Ali Mehdizadeh Rahimi
+  - Safa Jamali
+  - Jaydeep P. Bardhan
+  - Steven R. Lustig
+  publisher: Journal of Chemical Theory and Computation
+  date: '2022-08-24'
+  link: https://doi.org/gtgxm6
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1007/s00397-023-01408-w
+  title: Fractional rheology-informed neural networks for data-driven identification
+    of viscoelastic constitutive models
+  authors:
+  - Donya Dabiri
+  - Milad Saadat
+  - Deepak Mangal
+  - Safa Jamali
+  publisher: Rheologica Acta
+  date: '2023-08-26'
+  link: https://doi.org/gtgxnb
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1007/s00397-023-01416-w
+  title: Data-driven methods in Rheology
+  authors:
+  - Kyung Hyun Ahn
+  - Safa Jamali
+  publisher: Rheologica Acta
+  date: '2023-10-01'
+  link: https://doi.org/gtgxnc
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1063/5.0169051
+  title: Characterizing blood hysteresis via tensorial thixo-elasto-viscoplastic modeling
+  authors:
+  - Andre Pincot
+  - F. John Burpo
+  - Elahe Javadi
+  - Safa Jamali
+  - Sean Farrington
+  - Matthew J. Armstrong
+  publisher: Physics of Fluids
+  date: '2023-11-01'
+  link: https://doi.org/gtgxnd
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1073/pnas.2313658121
+  title: Unbiased construction of constitutive relations for soft materials from experiments
+    via rheology-informed neural networks
+  authors:
+  - Mohammadamin Mahmoudabadbozchelou
+  - Krutarth M. Kamani
+  - Simon A. Rogers
+  - Safa Jamali
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-01-03'
+  link: https://doi.org/gtg8cp
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
+- id: 10.1103/PhysRevE.109.014602
+  title: Predicting yielding in attractive colloidal gels
+  authors:
+  - Deepak Mangal
+  - Mohammad Nabizadeh
+  - Safa Jamali
+  publisher: Physical Review E
+  date: '2024-01-05'
+  link: https://doi.org/gtg8cq
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Particle Simulation
+- id: 10.1073/pnas.2316394121
+  title: 'Network physics of attractive colloidal gels: Resilience, rigidity, and
+    phase diagram'
+  authors:
+  - Mohammad Nabizadeh
+  - Farzaneh Nasirian
+  - Xinzhi Li
+  - Yug Saraswat
+  - Rony Waheibi
+  - Lilian C. Hsiao
+  - Dapeng Bi
+  - Babak Ravandi
+  - Safa Jamali
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-01-09'
+  link: https://doi.org/gtg8cr
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Network Science
+- id: 10.1122/8.0000552
+  title: A fully physiologically-informed time- and rate-dependent hemorheological
+    constitutive model
+  authors:
+  - Elahe Javadi
+  - Matthew J. Armstrong
+  - Safa Jamali
+  publisher: Journal of Rheology
+  date: '2023-04-21'
+  link: https://doi.org/gtgxm8
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Hemorheology
+- id: 10.1039/D3DD00036B
+  title: A rheologist's guideline to data-driven recovery of complex fluids' parameters
+    from constitutive models
+  authors:
+  - Milad Saadat
+  - Deepak Mangal
+  - Safa Jamali
+  publisher: Digital Discovery
+  date: '2023-01-01'
+  link: https://doi.org/gtgxm9
+  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  tags:
+  - Machine Learning
