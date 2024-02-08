@@ -21,7 +21,6 @@ links:
 - B.Sc. in Mechanical Engineering (2017), K. N. Toosi University of Technology
 <br>
 <hr>
-<br>
 
 Milad Saadat, currently a third-year Ph.D. candidate in the Mechanical and Industrial Engineering department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
 
