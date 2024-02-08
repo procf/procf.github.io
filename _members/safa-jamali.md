@@ -20,6 +20,5 @@ links:
 - BSc in Polymer Engineering (2008), Amirkabir University of Technology
 <br>
 <hr>
-<br>
 
 Safa is an Associate Professor of Mechanical and Industrial Engineering with affiliation to the Chemical Enginnering department as well, at Northeastern University. Safa received his PhD from Case Western Reserve University’s Macromolecular Science department, followed by a period of postdoctoral training at MIT’s Chemical Engineering, Mechanical Engineering and Energy Initiative. He then joined Northeastern University in 2017, and began working on different aspects of computational and data-driven methods in soft matter and complex fluids.

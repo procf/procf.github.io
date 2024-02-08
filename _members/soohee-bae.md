@@ -18,6 +18,5 @@ links:
 - B.A. in Mathematics (2021), Texas A&M-College Station
 <br>
 <hr>
-<br>
 
 Soohee Bae is a alumni of the PRO-CF lab. Her project was about structural deformation of colloidal gel under Poiseuille flow. She has achieved this through dissipative particle dynamics.

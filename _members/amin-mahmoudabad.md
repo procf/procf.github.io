@@ -21,7 +21,6 @@ links:
 - B.Sc. in Mechanical Engineering (2016), K. N. Toosi University of Technology
 <br>
 <hr>
-<br>
 
 Dr. Mohammadamin Mahmoudabadbozchelou holds a Ph.D. in applied machine learning with a strong foundation in solving intricate mechanical engineering problems through innovative data-driven methodologies. His academic journey was dedicated to pioneering research that harnessed machine learning algorithms to address various problems in mechanical engineering.
 

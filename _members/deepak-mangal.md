@@ -16,7 +16,7 @@ links:
 - B.Tech. (2012), Indian Institute of Technology Kharagpur, India (Advisor: Dr. Sudarsan Neogi)
 <br>
 <hr>
-<br>
+
 **Research Interests**
 <br>
 Deepak Mangal is a postdoctoral research associate with a broad research interest in the transport in porous media, rheology of colloidal systems, and scientific machine learning.
