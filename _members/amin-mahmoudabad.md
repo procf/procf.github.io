@@ -1,23 +1,19 @@
 ---
-name: Mohammadamin Mahmoudabadbozchelou
+name: Amin Mahmoudabad
 image: images/headshots/amin.jpg
 description: PhD Student
 role: grad
 group: alumni
 aliases:
-  - Andrew (Drew) Villeneuve
-  - Andrew Villeneuve
-  - Drew Villeneuve
-  - A. Villeneuve
+  - Mohammadamin Mahmoudabadbozchelou
+  - Amin Mahmoudabadbozchelou
 links:
-  email: andrewrvilleneuve@gmail.com
-  twitter: Villeneuvesci
-  github: villesci
-  google-scholar: BJlkwh0AAAAJ&hl
+  email: mahmoudabadbozch.m@northeastern.edu
+  google-scholar: C57oydEAAAAJ&hl
 ---
 
-Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
+Dr. Mohammadamin Mahmoudabadbozchelou holds a Ph.D. in applied machine learning with a strong foundation in solving intricate mechanical engineering problems through innovative data-driven methodologies. His academic journey was dedicated to pioneering research that harnessed machine learning algorithms to address various problems in mechanical engineering.
 
-Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his master’s in Environmental Conservation from the University of Massachusetts Amherst in 2021. At UMass Amherst, he worked in the Marine Global Change Ecology lab with Dr. Brian Cheng understanding the role of local adaptation in driving intraspecific trait variation and climate sensitivity of the marine predatory gastropod Urosalpinx cinerea. He was a 2021 Knauss Marine Policy Fellow with NOAA Fisheries, where he supported efforts to incorporate traditional ecological knowledge from Inuit groups into an international agreement to prevent unregulated fishing in the Central Arctic Ocean, and developed communication materials about NOAA Fisheries surveys for the public and Congress. 
+During his doctoral studies, Mohammadamin specialized in leveraging physics-based machine learning techniques to tackle complex rheological problems. His impactful research culminated in the publication of seven papers in prestigious journals, establishing him as a trailblazer in the development of rheology-informed Neural Networks.
 
-When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
+Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer in software and machine learning at Aspen Technology. In this role, he focuses on the advancement of machine learning models that adhere to mechanical and chemical constraints within Aspen's software, contributing significantly to the evolution of cutting-edge technologies in this domain.
