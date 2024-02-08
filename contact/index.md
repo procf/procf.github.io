@@ -21,7 +21,6 @@ Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 <div style="text-align: left;">
-Department of Mechanical & Industrial Engineering<br>
 307 Dana Research Center<br>
 360 Huntington Avenue<br>
 Boston, MA 02115
