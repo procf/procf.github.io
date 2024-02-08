@@ -10,23 +10,21 @@ nav:
   include gallery.html
   style="square"
 
-  image1="images/research_topics/topic-monitoring.jpeg"
+  image1="images/research_topics/sim.png"
   link1="research/sim"
   tooltip1="Particle Simulation"
 
-  image2="images/research_topics/topic-seafood.jpeg"
+  image2="images/research_topics/net.png"
   link2="research/net"
   tooltip2="Network Science"
 
-  image3="images/research_topics/topic-extreme.jpeg"
+  image3="images/research_topics/ml.png"
   link3="research/ml"
   tooltip3="Machine Learning"
 
-  image4="images/research_topics/topic-ses.jpeg"
+  image4="images/research_topics/blood.png"
   link4="research/blood"
   tooltip4="Blood Rheology"
-
-
 %}
 
 Environmental variability can occur on daily to decadal time scales. This variability can include natural variation, such as changes in seasons, or anthropogenic events like oil spills. Of course, these various forms of environmental variability shape ecosystems, and, consequently, the human communities that depend on them. In addition, climate change is expected to increase variability and uncertainty of these environmental factors. Our research program addresses questions that fall within the Venn diagram above: 
