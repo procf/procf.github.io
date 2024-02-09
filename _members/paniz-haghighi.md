@@ -6,18 +6,27 @@ role: grad
 group: current
 aliases:
   - M. Saadat
-  - Andrew Villeneuve
-  - Drew Villeneuve
-  - A. Villeneuve
+
 links:
-  email: saadat.m@northeastern.edu
-  twitter: Villeneuvesci
-  github: villesci
-  google-scholar: BJlkwh0AAAAJ&hl
+  email: haghighi.p@northeastern.edu
+  twitter: https://twitter.com/panizhaghighi94
+  github: https://github.com/PanizHaghighi
+  google-scholar: https://scholar.google.com/citations?user=LSuqU6YAAAAJ&hl=en
 ---
+<br>
+**Education**
+<br>
+- M.Sc. in Mechanical Engineering - Energy Conversion (2019), Sharif University of Technology
+- B.Sc. in Mechanical Engineering (2016), Amirkabir University of Technology
+<br>
+<hr>
 
-Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
+**Research Interests**
+<br>
+- Colloidal Gels
+- Rheology
+- Machine Learning
+<br>
 
-Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his master’s in Environmental Conservation from the University of Massachusetts Amherst in 2021. At UMass Amherst, he worked in the Marine Global Change Ecology lab with Dr. Brian Cheng understanding the role of local adaptation in driving intraspecific trait variation and climate sensitivity of the marine predatory gastropod Urosalpinx cinerea. He was a 2021 Knauss Marine Policy Fellow with NOAA Fisheries, where he supported efforts to incorporate traditional ecological knowledge from Inuit groups into an international agreement to prevent unregulated fishing in the Central Arctic Ocean, and developed communication materials about NOAA Fisheries surveys for the public and Congress. 
+Paniz Haghighi, a Ph.D. student, is dedicated to unraveling the complexities of colloidal gels. Her research specifically explores the formation and evolution of colloidal networks during gelation and coarsening, with the purpose of optimizing gel properties. Emphasizing the crucial role of the critical percolation point in the second-order phase transition, Paniz's work contributes to advancing our understanding of these intricate processes.
 
-When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
