@@ -12,4 +12,11 @@ links:
   google-scholar: Ng_n6GQAAAAJ&hl
 ---
 
+<br>
+**Education**
+<br>
+- B.Sc. in Chemical Engineering (2019), McGill University
+<br>
+<hr>
+
 Alexander (Sasha) Kaltashov, currently a fourth-year PhD candidate in the Chemical Engineering department, is currently studying multicomponent gradient materials for applications in additive manufacturing.
