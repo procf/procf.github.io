@@ -5,7 +5,6 @@ description: PhD Student
 role: grad
 group: current
 aliases:
-  - M. Saadat
 
 links:
   email: haghighi.p@northeastern.edu
