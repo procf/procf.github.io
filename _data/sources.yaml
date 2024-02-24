@@ -2,8 +2,6 @@
   image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
   tags:
     - Particle Simulation
-  charge: milad-saadat
-  repo: https://github.com/procf/RhINNs
 
 
 
@@ -12,5 +10,3 @@
   image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
   tags:
     - Particle Simulation
-  charge: milad-saadat
-  repo: https://github.com/procf/RhINNs

@@ -241,15 +241,6 @@ for index, source in enumerate(sources):
             # link
             citation["link"] = manubot.get("URL", "")
 
-            if "charge" in source and source["charge"]:
-                citation["charge"] = source["charge"]
-                # Assuming you want to create a URL-friendly version for the profile link
-                citation["charge_profile_url"] = f"/_members/{source['charge'].replace(' ', '-').lower()}.md"
-
-            # Check and add 'repo' if it exists
-            if "repo" in source and source["repo"]:
-                citation["repo"] = source["repo"]
-
             # add new citation to list
             new_citations.append(citation)
 
