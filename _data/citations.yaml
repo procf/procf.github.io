@@ -14,6 +14,8 @@
   - Particle Simulation
   name: milad-saadat
   url: https://github.com/procf/RhINNs
+  charge: milad-saadat
+  repo: https://github.com/procf/RhINNs
 - id: 10.1063/1.4919303
   title: Generalized mapping of multi-body dissipative particle dynamics onto fluid
     compressibility and the Flory-Huggins theory
