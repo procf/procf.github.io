@@ -3,7 +3,7 @@
 
 {%- assign emptyarray = "" | split: "," -%}
 {%- assign id = include.id | default: "" -%}
-{%- assign citations = site.data.citations | default: emptyarray -%} 
+{%- assign citations = site.data.citations | default: emptyarray -%}
 
 {%- assign citation = nil -%}
 {%- for c in citations -%}
@@ -61,17 +61,21 @@
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
     {%- if charge and charge_profile_url -%}
-        <div class="citation_charge">
-            In Charge: <a href="{{ charge_profile_url }}">{{ charge }}</a>
-        </div>
+    <div class="citation_tags">
+      <a href="{{ charge_profile_url }}" class="tag is-link">{{ charge }}</a>
+    </div>
     {%- endif -%}
     {%- if repo -%}
-        <div class="citation_repo">
-            Repository: <a href="{{ repo }}" target="_blank">GitHub Repo</a>
-        </div>
+    <div class="citation_tags">
+      <a href="{{ repo }}" target="_blank" class="tag is-link">Repository</a>
+    </div>
     {%- endif -%}
     {%- if rich -%}
-      {%- include tags.html tags=tags repo=repo -%}
+      <div class="citation_tags">
+        {%- for tag in tags -%}
+          <span class="tag is-info">{{ tag }}</span>
+        {%- endfor -%}
+      </div>
       <div class="citation_links">
         {%- for extra in extra-links -%}
           {%- assign type = extra.type | default: "" -%}
@@ -81,11 +85,9 @@
           {%- include link.html type=type icon=icon text=text link=link -%}
         {%- endfor -%}
       </div>
-    {%- endif -%}  
-</div>
-
+    {%- endif -%}
+  </div>
 <!-- Optional metrics badges for Altmetric and Dimensions, uncomment if needed -->
 <!-- <div data-badge-popover="left" data-badge-type="medium-donut" data-doi="{{ id }}" data-hide-no-mentions="true" class="altmetric-embed"></div> -->
 <!-- <div class="__dimensions_badge_embed__" data-doi="{{ id }}"></div> -->
-
 </div>
