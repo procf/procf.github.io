@@ -177,8 +177,8 @@ for index, source in enumerate(sources):
 
         # source id
         source_id = source.get("id")
-        person_in_charge = source.get("name", "")
-        project_url = source.get("url", "")
+        person_in_charge = source.get("charge", "")
+        project_url = source.get("repo", "")
 
         # does entry have an id field
         if not source_id:
