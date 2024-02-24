@@ -204,6 +204,8 @@
   image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
   tags:
   - Particle Simulation
+  name: milad-saadat
+  url: https://github.com/procf/RhINNs
 - id: 10.1016/j.icheatmasstransfer.2020.104978
   title: Entropy analysis and thermal optimization of nanofluid impinging jet using
     artificial neural network and genetic algorithm
