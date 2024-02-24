@@ -50,7 +50,7 @@ Our lab is made up of a collaborative and diverse team of scientists. We value a
 
 {% include section.html %}
 
-There are often openings for graduate students and postdoctoral fellows within the Quantitative Marine Ecology Lab. Please see the link below for more information. 
+There are often openings for graduate students and postdoctoral fellows within the PRO-CF Lab. Please see the link below for more information. 
 
 {%
   include link.html

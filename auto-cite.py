@@ -177,6 +177,8 @@ for index, source in enumerate(sources):
 
         # source id
         source_id = source.get("id")
+        person_in_charge = source.get("name", "")
+        project_url = source.get("url", "")
 
         # does entry have an id field
         if not source_id:
@@ -239,6 +241,10 @@ for index, source in enumerate(sources):
 
             # link
             citation["link"] = manubot.get("URL", "")
+            if person_in_charge:
+                citation["person-in-charge"] = person_in_charge
+            if project_url:
+                citation["project-url"] = project_url
 
             # add new citation to list
             new_citations.append(citation)
