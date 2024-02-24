@@ -1,5 +1,4 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 {%- assign emptyarray = "" | split: "," -%}
@@ -20,6 +19,8 @@
 {%- assign publisher = citation.publisher | default: "" -%}
 {%- assign date = citation.date | default: "1900-01-01" -%}
 {%- assign tags = citation.tags | default: emptyarray -%}
+{%- assign charge = citation.charge | default: "" -%}
+{%- assign charge_profile_url = citation.charge_profile_url | default: "" -%}
 {%- assign repo = citation.repo | default: "" -%}
 {%- assign extra-links = citation.extra-links | default: emptyarray -%}
 
@@ -59,6 +60,16 @@
     <div class="citation_details">
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
+    {%- if charge and charge_profile_url -%}
+        <div class="citation_charge">
+            In Charge: <a href="{{ charge_profile_url }}">{{ charge }}</a>
+        </div>
+    {%- endif -%}
+    {%- if repo -%}
+        <div class="citation_repo">
+            Repository: <a href="{{ repo }}" target="_blank">GitHub Repo</a>
+        </div>
+    {%- endif -%}
     {%- if rich -%}
       {%- include tags.html tags=tags repo=repo -%}
       <div class="citation_links">
@@ -73,9 +84,8 @@
     {%- endif -%}  
 </div>
 
+<!-- Optional metrics badges for Altmetric and Dimensions, uncomment if needed -->
 <!-- <div data-badge-popover="left" data-badge-type="medium-donut" data-doi="{{ id }}" data-hide-no-mentions="true" class="altmetric-embed"></div> -->
-
-
 <!-- <div class="__dimensions_badge_embed__" data-doi="{{ id }}"></div> -->
 
 </div>
