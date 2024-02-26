@@ -3,7 +3,7 @@ name: Deepak Mangal
 image: images/headshots/deepak.jpg
 role: postdoc
 group: current
-description: Postdoc Fellow
+description: Postdoctoral Fellow
 links:
   email: d.mangal@northeastern.edu
   google-scholar: https://scholar.google.com/citations?user=AoYKLW4AAAAJ&hl=en/
