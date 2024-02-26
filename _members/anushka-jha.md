@@ -20,5 +20,5 @@ links:
 
 **Research Interests**
 <br>
-Anushka is a postdoctoral research associate who joined the group in 2024. She is broadly interested in investigating phase behavior and rheology of soft materials - particularly colloidal systems and colloid-polymer mixtures - using large scale simulation methods, network analysis tools and machine learning architectures.     
+Anushka is a postdoctoral research associate who joined the group in 2024. She is broadly interested in investigating phase behavior and rheology of soft materials - particularly colloidal systems and colloid-polymer mixtures - using large scale simulation methods, network analysis tools and machine learning.   
 <br>
