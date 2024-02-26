@@ -12,9 +12,10 @@ links:
 <br>
 
 **Education**
-    		<li>PhD, Johns Hopkins University, 2023</li>
-		<li>MTech, Indian Institute of Technology Kanpur, 2017</li>
-		<li>BTech, Indian Institute of Technology Kanpur, 2016</li>
+- PhD, Johns Hopkins University, 2023
+- MTech, Indian Institute of Technology Kanpur, 2017
+- BTech, Indian Institute of Technology Kanpur, 2016
+
 <br>
 <hr>
 
