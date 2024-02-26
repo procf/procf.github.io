@@ -1,6 +1,6 @@
 ---
 name: Anushka Jha
-image: images/headshots/ajha.png
+image: images/headshots/ajha.jpg
 role: postdoc
 group: current
 description: Postdoctoral Fellow
