@@ -6,7 +6,7 @@ group: current
 description: Postdoctoral Fellow
 links:
   email: tba
-  google-scholar: OaMiqsMAAAAJ
+  google-scholar: OaMiqsMAAAAJ&hl
   linkedin: anushka-jha-phd
   twitter: 
 ---
