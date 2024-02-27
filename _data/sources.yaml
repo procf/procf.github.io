@@ -21,7 +21,7 @@
 
 
 - id: 10.1016/j.cpc.2015.05.027
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
     - Particle Simulation
 
@@ -35,7 +35,7 @@
 
 
 - id: 10.1016/j.cpc.2015.08.003
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
     - Machine Learning
 
@@ -49,7 +49,7 @@
 
 
 - id: 10.1021/acs.macromol.6b01011
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/macromol.jpg
   tags:
     - Particle Simulation
 
@@ -84,7 +84,7 @@
 
 
 - id: 10.1016/j.mtadv.2019.100026
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/mater_today_adv.jpg
   tags:
     - Machine Learning
 
@@ -106,7 +106,7 @@
 
 
 - id: 10.1016/j.icheatmasstransfer.2020.104978
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/intl_comm_heat_mass_transfer.jpg
   tags:
     - Machine Learning
 
@@ -232,7 +232,7 @@
 
 
 - id: https://doi.org/10.26434/chemrxiv-2021-dz2d8
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/chemrxiv.jpg
   tags:
     - Machine Learning
 
