@@ -8,9 +8,9 @@ aliases:
 
 links:
   email: haghighi.p@northeastern.edu
-  twitter: https://twitter.com/panizhaghighi94
+  twitter: panizhaghighi94
   github: https://github.com/PanizHaghighi
-  google-scholar: https://scholar.google.com/citations?user=LSuqU6YAAAAJ&hl=en
+  google-scholar: LSuqU6YAAAAJ&hl
 ---
 <br>
 **Education**
