@@ -10,7 +10,7 @@
   publisher: Soft Matter
   date: '2013-01-01'
   link: https://doi.org/gtg8cm
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Particle Simulation
 - id: 10.1016/j.polymertesting.2013.03.005
@@ -39,7 +39,7 @@
   publisher: The Journal of Chemical Physics
   date: '2015-04-28'
   link: https://doi.org/gtg8cn
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
   - Particle Simulation
   charge: milad-saadat
@@ -68,7 +68,7 @@
   publisher: Soft Matter
   date: '2015-01-01'
   link: https://doi.org/gtgxmr
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Particle Simulation
 - id: 10.1016/j.cpc.2015.08.003
@@ -95,7 +95,7 @@
   publisher: Journal of Rheology
   date: '2015-11-01'
   link: https://doi.org/f7xzz2
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Particle Simulation
 - id: 10.1021/acs.macromol.6b01011
@@ -128,7 +128,7 @@
   publisher: Physical Review Letters
   date: '2017-10-11'
   link: https://doi.org/gcg5w6
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1039/C6SM00750C
@@ -140,7 +140,7 @@
   publisher: Soft Matter
   date: '2017-01-01'
   link: https://doi.org/gtgxmt
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Network Science
 - id: 10.1103/PhysRevLett.118.048003
@@ -153,7 +153,7 @@
   publisher: Physical Review Letters
   date: '2017-01-27'
   link: https://doi.org/gf84jr
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1103/PhysRevLett.123.138002
@@ -165,7 +165,7 @@
   publisher: Physical Review Letters
   date: '2019-09-25'
   link: https://doi.org/gqt326
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1016/j.mtadv.2019.100026
@@ -191,7 +191,7 @@
   publisher: Physical Review Letters
   date: '2019-12-10'
   link: https://doi.org/gm7p4g
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1122/1.5134036
@@ -203,7 +203,7 @@
   publisher: Journal of Rheology
   date: '2020-03-01'
   link: https://doi.org/gtgxmw
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Particle Simulation
   name: milad-saadat
@@ -233,7 +233,7 @@
   publisher: Journal of Rheology
   date: '2020-11-01'
   link: https://doi.org/gqt3kw
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Particle Simulation
 - id: 10.1098/rsif.2020.0834
@@ -266,7 +266,7 @@
   publisher: Biophysical Journal
   date: '2021-07-01'
   link: https://doi.org/gkb3h2
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/biophys_j.jpg
   tags:
   - Hemorheology
 - id: 10.1038/s41598-021-91518-3
@@ -278,7 +278,7 @@
   publisher: Scientific Reports
   date: '2021-06-08'
   link: https://doi.org/gkggd6
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/scientific_rep.jpg
   tags:
   - Machine Learning
 - id: 10.1038/s41467-021-24416-x
@@ -290,7 +290,7 @@
   publisher: Nature Communications
   date: '2021-07-13'
   link: https://doi.org/gtgxmx
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/nature_comm.jpg
   tags:
   - Network Science
 - id: 10.1039/D1SM00856K
@@ -301,7 +301,7 @@
   publisher: Soft Matter
   date: '2021-01-01'
   link: https://doi.org/gqt3vz
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Hemorheology
 - id: 10.1103/PhysRevLett.127.158002
@@ -315,7 +315,7 @@
   publisher: Physical Review Letters
   date: '2021-10-06'
   link: https://doi.org/gm3xc7
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1039/D1SM01298C
@@ -328,7 +328,7 @@
   publisher: Soft Matter
   date: '2022-01-01'
   link: https://doi.org/gqzt2t
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Machine Learning
 - id: 10.1016/j.jcis.2021.11.195
@@ -344,7 +344,7 @@
   publisher: Journal of Colloid and Interface Science
   date: '2022-04-01'
   link: https://doi.org/gnrsfp
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_coll_interface_sci
   tags:
   - Machine Learning
 - id: 10.1122/8.0000432
@@ -355,7 +355,7 @@
   publisher: Journal of Rheology
   date: '2022-08-29'
   link: https://doi.org/gtgxmz
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Network Science
 - id: 10.1063/5.0079214
@@ -366,7 +366,7 @@
   publisher: The Journal of Chemical Physics
   date: '2022-02-22'
   link: https://doi.org/gtgxm2
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
   - Hemorheology
 - id: 10.1073/pnas.2202234119
@@ -380,7 +380,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2022-05-11'
   link: https://doi.org/gqztq6
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Machine Learning
 - id: 10.1103/PhysRevLett.129.068001
@@ -393,7 +393,7 @@
   publisher: Physical Review Letters
   date: '2022-08-02'
   link: https://doi.org/gqt3gs
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
   - Particle Simulation
 - id: 10.1007/s00397-022-01357-w
@@ -406,7 +406,7 @@
   publisher: Rheologica Acta
   date: '2022-08-03'
   link: https://doi.org/gqzvck
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
 - id: 10.1016/j.bpj.2022.08.031
@@ -448,7 +448,7 @@
   publisher: Physics of Fluids
   date: '2022-10-01'
   link: https://doi.org/gtgxm5
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
   - Particle Simulation
 - id: https://doi.org/10.26434/chemrxiv-2021-dz2d8
@@ -476,7 +476,7 @@
   publisher: Journal of Chemical Theory and Computation
   date: '2022-08-24'
   link: https://doi.org/gtgxm6
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_theory_comp.jpg
   tags:
   - Machine Learning
 - id: 10.1007/s00397-023-01408-w
@@ -490,7 +490,7 @@
   publisher: Rheologica Acta
   date: '2023-08-26'
   link: https://doi.org/gtgxnb
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
 - id: 10.1007/s00397-023-01416-w
@@ -501,7 +501,7 @@
   publisher: Rheologica Acta
   date: '2023-10-01'
   link: https://doi.org/gtgxnc
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
 - id: 10.1063/5.0169051
@@ -516,7 +516,7 @@
   publisher: Physics of Fluids
   date: '2023-11-01'
   link: https://doi.org/gtgxnd
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
   - Hemorheology
 - id: 10.1073/pnas.2313658121
@@ -542,7 +542,7 @@
   publisher: Physical Review E
   date: '2024-01-05'
   link: https://doi.org/gtg8cq
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_e.jpg
   tags:
   - Particle Simulation
 - id: 10.1073/pnas.2316394121
@@ -561,7 +561,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2024-01-09'
   link: https://doi.org/gtg8cr
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Network Science
 - id: 10.1122/8.0000552
@@ -574,7 +574,7 @@
   publisher: Journal of Rheology
   date: '2023-04-21'
   link: https://doi.org/gtgxm8
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Hemorheology
 - id: 10.1039/D3DD00036B
@@ -587,6 +587,6 @@
   publisher: Digital Discovery
   date: '2023-01-01'
   link: https://doi.org/gtgxm9
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
   - Machine Learning
