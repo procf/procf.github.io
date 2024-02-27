@@ -9,7 +9,7 @@ aliases:
 links:
   email: haghighi.p@northeastern.edu
   twitter: panizhaghighi94
-  github: https://github.com/PanizHaghighi
+  github: PanizHaghighi
   google-scholar: LSuqU6YAAAAJ&hl
 ---
 <br>
