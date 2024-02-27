@@ -344,7 +344,7 @@
   publisher: Journal of Colloid and Interface Science
   date: '2022-04-01'
   link: https://doi.org/gnrsfp
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_coll_interface_sci.jpg
   tags:
   - Machine Learning
 - id: 10.1122/8.0000432
@@ -422,7 +422,7 @@
   publisher: Biophysical Journal
   date: '2022-09-01'
   link: https://doi.org/gtgxm3
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/biophys_j.jpg
   tags:
   - Hemorheology
 - id: 10.52768/2766-7820/1916
@@ -530,7 +530,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2024-01-03'
   link: https://doi.org/gtg8cp
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Machine Learning
 - id: 10.1103/PhysRevE.109.014602
