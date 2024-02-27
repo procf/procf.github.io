@@ -53,7 +53,7 @@
   publisher: Computer Physics Communications
   date: '2015-11-01'
   link: https://doi.org/f7twb4
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
   - Particle Simulation
 - id: 10.1039/C5SM01560J
@@ -82,7 +82,7 @@
   publisher: Computer Physics Communications
   date: '2015-12-01'
   link: https://doi.org/f7vbw7
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
   - Machine Learning
 - id: 10.1122/1.4931655
@@ -113,7 +113,7 @@
   publisher: Macromolecules
   date: '2016-09-30'
   link: https://doi.org/gtgxms
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/macromol.jpg
   tags:
   - Particle Simulation
 - id: 10.1103/PhysRevLett.119.158001
@@ -178,7 +178,7 @@
   publisher: Materials Today Advances
   date: '2020-03-01'
   link: https://doi.org/gtgxmv
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/mater_today_adv.jpg
   tags:
   - Machine Learning
 - id: 10.1103/PhysRevLett.123.248003
@@ -221,7 +221,7 @@
   publisher: International Communications in Heat and Mass Transfer
   date: '2020-12-01'
   link: https://doi.org/gmrf82
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/intl_comm_heat_mass_transfer.jpg
   tags:
   - Machine Learning
 - id: 10.1122/8.0000174
@@ -462,7 +462,7 @@
   publisher: ChemRxiv
   date: '2021-09-17'
   link: https://chemrxiv.org/engage/chemrxiv/article-details/61438dfd87a02d39703d2551
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/chemrxiv.jpg
   tags:
   - Machine Learning
 - id: 10.1021/acs.jctc.2c00248
