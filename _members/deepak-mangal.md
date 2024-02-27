@@ -6,8 +6,8 @@ group: current
 description: Postdoctoral Fellow
 links:
   email: d.mangal@northeastern.edu
-  google-scholar: https://scholar.google.com/citations?user=AoYKLW4AAAAJ&hl=en/
-  twitter: https://twitter.com/DeepakM52648497
+  google-scholar: AoYKLW4AAAAJ&hl
+  twitter: DeepakM52648497
 ---
 <br>
 **Education**
