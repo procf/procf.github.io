@@ -1,5 +1,5 @@
 - id: 10.1039/C2SM27104D
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
     - Particle Simulation
     
@@ -14,7 +14,7 @@
 
 
 - id: 10.1063/1.4919303
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
     - Particle Simulation
 
@@ -28,7 +28,7 @@
 
 
 - id: 10.1039/C5SM01560J
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
     - Particle Simulation
 
@@ -42,7 +42,7 @@
 
 
 - id: 10.1122/1.4931655
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Particle Simulation
 
@@ -56,28 +56,28 @@
 
 
 - id: 10.1103/PhysRevLett.119.158001
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1039/C6SM00750C
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
     - Network Science
 
 
 
 - id: 10.1103/PhysRevLett.118.048003
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1103/PhysRevLett.123.138002
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
@@ -91,14 +91,14 @@
 
 
 - id: 10.1103/PhysRevLett.123.248003
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1122/1.5134036
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Particle Simulation
 
@@ -113,7 +113,7 @@
 
 
 - id: 10.1122/8.0000174
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Particle Simulation
 
@@ -127,84 +127,84 @@
 
 
 - id: 10.1016/j.bpj.2021.05.013
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/biophys_j.jpg
   tags:
     - Hemorheology
 
 
 
 - id: 10.1038/s41598-021-91518-3
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/scientific_rep.jpg
   tags:
     - Machine Learning
 
 
 
 - id: 10.1038/s41467-021-24416-x
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/nature_comm.jpg
   tags:
     - Network Science
 
 
 
 - id: 10.1039/D1SM00856K
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
     - Hemorheology
 
 
 
 - id: 10.1103/PhysRevLett.127.158002
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1039/D1SM01298C
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
     - Machine Learning
 
 
 
 - id: 10.1016/j.jcis.2021.11.195
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_coll_interface_sci
   tags:
     - Machine Learning
 
 
 
 - id: 10.1122/8.0000432
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Network Science
 
 
 
 - id: 10.1063/5.0079214
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
     - Hemorheology
 
 
 
 - id: 10.1073/pnas.2202234119
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
     - Machine Learning
 
 
 
 - id: 10.1103/PhysRevLett.129.068001
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1007/s00397-022-01357-w
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
     - Machine Learning
 
@@ -225,7 +225,7 @@
 
 
 - id: 10.1063/5.0106700
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
     - Particle Simulation
 
@@ -239,28 +239,28 @@
 
 
 - id: 10.1021/acs.jctc.2c00248
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_chem_theory_comp.jpg
   tags:
     - Machine Learning
 
 
 
 - id: 10.1007/s00397-023-01408-w
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
     - Machine Learning
 
 
 
 - id: 10.1007/s00397-023-01416-w
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
     - Machine Learning
 
 
 
 - id: 10.1063/5.0169051
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
     - Hemorheology
 
@@ -274,27 +274,27 @@
 
 
 - id: 10.1103/PhysRevE.109.014602
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/phys_rev_e.jpg
   tags:
     - Particle Simulation
 
 
 
 - id: 10.1073/pnas.2316394121
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
     - Network Science
 
 
 
 - id: 10.1122/8.0000552
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Hemorheology
 
 
 
 - id: 10.1039/D3DD00036B
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
     - Machine Learning
