@@ -7,7 +7,7 @@
 
 
 - id: 10.1016/j.polymertesting.2013.03.005
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/polym_test.jpg
   tags:
     - Particle Simulation
 
@@ -120,7 +120,7 @@
 
 
 - id: 10.1098/rsif.2020.0834
-  image: https://procf.github.io/images/journal_covers/ecoevorxiv.jpg
+  image: https://procf.github.io/images/journal_covers/j_royal_soc_interface.jpg
   tags:
     - Hemorheology
 
