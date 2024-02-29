@@ -6,13 +6,6 @@ title: Particle Simulation
 
 {%
   include feature.html
-  .feature-image img {
-  max-width: 100%; /* Makes the image responsive */
-  height: auto; /* Maintains aspect ratio */
-  /* Or you can set specific dimensions */
-  width: 500px;
-  height: 300px;
-}
   image="images/research_topics/sim-long.png"
 %}
 
