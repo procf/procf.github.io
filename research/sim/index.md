@@ -6,7 +6,7 @@ title: Particle Simulation
 
 {%
   include feature.html
-  image="images/research_topics/sim-long.png"
+  image="images/research_topics/sim.png"
 %}
 
 
