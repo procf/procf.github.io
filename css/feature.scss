@@ -13,11 +13,13 @@
   .feature_image {
     //width: $page * 0.4;
     width : 100%;  //Paniz changed 02-29
+    height: auto;  //Paniz changed 02-29
     flex-shrink: 0;
     // box-shadow: $shadow;
 
     img {
       width: 100%;
+      height: auto;  //Paniz changed 02-29
     }
   }
 
@@ -49,6 +51,7 @@
       order: unset !important;
       //width: unset !important;
       width: 100%;         //Paniz changed 02-29
+      height: auto;       //Paniz changed 02-29
       margin: 0 !important;
       margin-bottom: 20px !important;
 
