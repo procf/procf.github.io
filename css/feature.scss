@@ -11,7 +11,8 @@
   @include trim-v-margins;
 
   .feature_image {
-    width: $page * 0.4;
+    //width: $page * 0.4;
+    width : 100%; //changed a little
     flex-shrink: 0;
     // box-shadow: $shadow;
 
