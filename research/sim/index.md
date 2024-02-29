@@ -5,7 +5,7 @@ title: Particle Simulation
 # <i class="fas sim"></i>Particle Simulation
 
 
-image="images/research_topics/sim.png"
+image="images/research_topics/sim-long.png"
 
 
 
