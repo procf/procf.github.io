@@ -1,13 +1,16 @@
 ---
 title: Particle Simulation
+image: images/research_topics/sim-long.png
 ---
 
 # <i class="fas sim"></i>Particle Simulation
 
-
-image="images/research_topics/sim-long.png"
-
-
+<!-- 
+{%
+  include feature.html
+  image:"images/research_topics/sim-long.png"
+%}
+-->
 
 In Our lab we dive deep into the fascinating world of colloidal gels. Our research primarily focuses on understanding the intricate structures and rheological behaviors of colloidal suspensions. Through meticulous research, we explore how various modifications affect the rheology of colloidal suspensions.
 Our work encompasses several key projects:
