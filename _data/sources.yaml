@@ -298,3 +298,9 @@
   image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
     - Machine Learning
+
+- id: 10.1063/5.0123096
+  image: https://procf.github.io/images/journal_covers/jcp_2023.jpeg
+  tags:
+    - Particle Simulation
+    - Network Science
