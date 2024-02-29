@@ -23,19 +23,7 @@
     }
   }
 
-  &:nth-child(odd) {
-    .feature_image {
-      order: -1;
-      margin-right: 40px;
-    }
-  }
-
-  &:nth-child(even) {
-    .feature_image {
-      order: 1;
-      margin-left: 40px;
-    }
-  }
+  
 
   .feature_headline {
     // color: $dark-accent;
