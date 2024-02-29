@@ -590,3 +590,17 @@
   image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
   - Machine Learning
+- id: 10.1063/5.0123096
+  title: Topological origins of yielding in short-ranged weakly attractive colloidal
+    gels
+  authors:
+  - Deepak Mangal
+  - Mohammad Nabizadeh
+  - Safa Jamali
+  publisher: The Journal of Chemical Physics
+  date: '2023-01-03'
+  link: https://doi.org/gtgxm7
+  image: https://procf.github.io/images/journal_covers/jcp_2023.jpeg
+  tags:
+  - Particle Simulation
+  - Network Science
