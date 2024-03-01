@@ -26,7 +26,7 @@ nav:
   link4="research/blood"
   tooltip4="Blood Rheology"
 %}
-<!-- Paniz add 03-01 for text -->
+
 <div class="overlay-container">
   <div class="overlay-text">Colloidal Systems</div>
   <div class="transition-line"></div>
@@ -46,6 +46,6 @@ nav:
   <div class="overlay-text">Blood Rheology</div>
   <div class="transition-line"></div>
 </div>
-<!-- Paniz add 03-01 for text -->
+
 
 Research summary goes here.
