@@ -13,7 +13,7 @@ nav:
 
   image2="images/research_topics/net-long.png"
   link2="research/net"
-  tooltip2="Particulate Networks"
+  tooltip2="Network Science"
 
   image3="images/research_topics/ml.png"
   link3="research/ml"
