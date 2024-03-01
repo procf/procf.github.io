@@ -19,6 +19,27 @@
     // box-shadow: $shadow;
   }
 
+  //Paniz add 03-01 for text
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.7); /* Adjust opacity as needed */
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-align: center;
+    opacity: 0; /* Initially hide the overlay text */
+    transition: opacity 0.3s ease;
+  }
+  
+  .gallery_item:hover .overlay-text {
+    opacity: 1; /* Show the overlay text on hover */
+  }
+//Paniz add 03-01 for text
+
   &[data-style="square"] {
     .gallery_item {
       position: relative;
@@ -67,25 +88,6 @@
   }
 //Paniz add 03-01
 
-  //Paniz add 03-01 for text
-  .overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: black; /* Set text color to black */
-    font-size: 18px; /* Adjust font size as needed */
-    font-weight: bold; /* Add bold font weight */
-    text-align: center; /* Center align text */
-    opacity: 0; /* Initially hide the text */
-    transition: opacity 0.3s ease; /* Add transition effect */
-  }
-  
-  /* Show text on hover */
-  .gallery_item:hover .overlay-text {
-    opacity: 1;
-  }
-//Paniz add 03-01 for text
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
