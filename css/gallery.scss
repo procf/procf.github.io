@@ -19,22 +19,6 @@
     // box-shadow: $shadow;
   }
 
-  //Paniz add 03-01 for text
-  .overlay-text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: black; /* Set initial text color to black */
-    text-decoration: none; /* Initially, no text decoration */
-    white-space: nowrap; /* Keep the text on a single line */
-  }
-  
-  .overlay-text:hover {
-    text-decoration: underline; /* Underline text on hover */
-  }
-//Paniz add 03-01 for text
-
   &[data-style="square"] {
     .gallery_item {
       position: relative;
@@ -83,6 +67,21 @@
   }
 //Paniz add 03-01
 
+//Paniz add 03-01 for text
+ .overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black; /* Set initial text color to black */
+  text-decoration: none; /* Initially, no text decoration */
+  white-space: nowrap; /* Keep the text on a single line */
+}
+
+.overlay-text:hover {
+  text-decoration: underline; /* Underline text on hover */
+}
+//Paniz add 03-01 for text
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
