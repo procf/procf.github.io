@@ -7,7 +7,7 @@ nav:
 # <i class="fas research"></i>Research
 
 {% include gallery.html style="square"
-  image1="images/research_topics/sim.png"
+  image1="images/research_topics/sim-long.png"
   link1="research/sim"
   tooltip1="Colloidal Systems"
 
