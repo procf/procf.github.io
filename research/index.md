@@ -26,5 +26,10 @@ nav:
   link4="research/blood"
   tooltip4="Blood Rheology"
 %}
+<!-- Paniz add 03-01 for text -->
+<div class="overlay-text">Colloidal Systems</div>
+<div class="overlay-text">Particulate Networks</div>
+<div class="overlay-text">Scientific Machine Learning</div>
+<div class="overlay-text">Blood Rheology</div>
 
 Research summary goes here.
