@@ -2,7 +2,7 @@
 title: Particle Simulation
 ---
 
-# <i class="fas sim"></i>Particle Simulation
+# <i class="fas sim"></i>Colloidal System
 
 
 {%
