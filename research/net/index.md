@@ -6,7 +6,7 @@ title: Network Science
 
 {%
   include feature.html
-  image="images/research_topics/net.png"
+  image="images/research_topics/net-long.png"
 %}
 
 

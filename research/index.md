@@ -11,7 +11,7 @@ nav:
   link1="research/sim"
   tooltip1="Colloidal Systems"
 
-  image2="images/research_topics/net.png"
+  image2="images/research_topics/net-long.png"
   link2="research/net"
   tooltip2="Particulate Networks"
 
