@@ -11,30 +11,33 @@ title: Particle Simulation
 %}
 
 
-In Our lab we dive deep into the fascinating world of colloidal gels. Our research primarily focuses on understanding the intricate structures and rheological behaviors of colloidal suspensions. Through meticulous research, we explore how various modifications affect the rheology of colloidal suspensions.
-Our work encompasses several key projects:
+In our lab we are very much interested in understanding the physics and rheology of
+particulate systems. Our research primarily focuses on understanding the coupling
+between intricate structures that different particles form at mesoscale, as a result of
+their interactions at the microscale, and ultimately the emergent rheological/
+mechanics of the colloidal system at the macroscale. We pursue this through detailed
+simulations and aim to build a truly multi-scale physical description to colloidal rheology,
+and more generally soft glassy m
 
 
 {% include section.html %}
 
-# Physics and rheology of colloids
+# Thixotropy and rheological hysteresis in colloidal systems
 
 
-Our research focuses on the physics and rheology of colloids, employing computational techniques like Dissipative Particle Dynamics (DPD) to understand diverse rheological responses and structural properties, including critical transition points, effects of particle size variations, and interparticle attraction strengths. Through simulations, we gain insights into particle interactions, flow dynamics, and frictional properties evolution, aiming to optimize crystalline structure formation in colloids under pressure-driven and shear-driven flows in specific geometries.
+Part of our research focuses on the physics and rheology of colloids, with a particular emphasis on their structure evolution under flowing conditions, and its coupling to the overall rheological response of the system. This is generally referred to thixotropy, referring to time-dependent nature of colloidal rheology. By employing computational techniques like Dissipative Particle Dynamics (DPD), we aim to build systematic structure-flow-property relationship for a wide spectrum of different particulate systems. These include studying the role of particle interactions (adhesion, friction, hydrodynamic, etc.), flow geometry and dynamics, flow type (Poiseulle, simple drag, contracting flows, etc.), particle size dispersity and more. 
 
 {% include section.html %}
 
 # Dense suspensions
 
-We investigate the rheological complexities of dense suspensions under shear, focusing on their non-Newtonian behavior such as continuous and discontinuous shear-thickening. Through meticulous simulations considering particle characteristics, we uncover the microscopic origins of frictional forces within these suspensions. Exploring variations in particle shapes and geometries, we elucidate the interplay between repulsive interactions and the onset of shear thickening. Additionally, our study emphasizes the importance of a hydrodynamics-based computational model, revealing how lubrication forces in interparticle gaps lead to hydroclusters that enhance viscosity. This highlights the pivotal role of these lubrication stresses, inversely scaled with particle surface separation, in shaping the overall rheology of dense suspensions. In another study on "yielding in colloidal gels," we found a significant correlation between edge-betweenness centrality (EBC) and bond failure tendency, offering valuable insights into gelation processes.
+We investigate the rheological complexities of dense suspensions under shear, focusing on their non-Newtonian behavior such as continuous and discontinuous shearthickening. Through detailed simulations of particles with different characteristic (rough and frictional, smooth and frictionless), we uncover the microscopic and mesoscopic origins shear-thickening in these exciting systems. Exploring variations in particle shapes and geometries, we are very much interested in better understanding the relationship between the particle-level tribological characteristics/dynamics, the force/contact clusters that form under different flow regimes, and the bulk rheological features of dense suspensions (we care as much about the normal stresses as we do about shear viscosity). 
 
 {% include section.html %}
 # Emergence of rigidity
 
-We study the fascinating emergence of rigidity in attractive colloidal gels, focusing on the intimate relationship between their network structure and mechanical properties. Utilizing network science techniques, we precisely identify colloidal clusters within the gel network, enabling a deeper understanding of their elastic response. We observe a direct correlation between the elasticity of gels and the robustness of their cluster networks, particularly noting the resilience of gels formed under stronger attraction. Our study underscores the importance of identifying particle clusters in comprehending the rigidity of colloidal gels, attributing the onset of rigidity to the development of fractal particle clusters that form a
-cohesive network. This network-centric perspective sheds light on the solid-like characteristics of colloidal gels and facilitates the integration of microstructure with material properties.
+We have been very much interested in better understanding colloidal gels, from emergence of rigidity to yielding and rheological hysteresis in attractive colloids. We have built foundational understandings of the formation and coarsening of the colloidal structures both under quiescent and flowing conditions, allowing us to structurally describe concepts such as mutation, aging, and memory formation in colloidal gels. The ultimate goal of our work has always been to enable new structure [and hence mechanical] design of attractive colloidal gels with desirable and maybe even tunable properties.
 {% include section.html %}
 
 
-Our goal is to push the boundaries of colloidal physics, paving the way for the creation of materials with novel properties. By integrating our deep understanding of colloidal behavior with innovative research techniques, we strive to uncover new insights and applications for colloidal systems, while simultaneously creating guidelines to expand the understanding of colloidal suspensions and their rheological behavior. These guidelines will provide valuable insights to experimentalists, empowering them to create better materials and applications.
 
