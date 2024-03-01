@@ -37,13 +37,13 @@
 
         // Apply border-radius to make the image round
         object-fit: cover;
-        border-radius: 50%;    //Paniz add 02-29
+        border-radius: 50%;    //Paniz add 03-01
         
       }
     }
   }
 
-  //Paniz add 02-29
+  //Paniz add 03-01
   &[data-style="square"] {
     .gallery_item {
       position: relative;
@@ -63,7 +63,27 @@
       }
     }
   }
-//Paniz add 02-29
+//Paniz add 03-01
+
+
+//Paniz add 03-01 for text
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+  color: white; /* Text color */
+  padding: 10px; /* Adjust padding as needed */
+  opacity: 0; /* Initially hidden */
+  transition: opacity 0.3s ease; /* Smooth transition */
+}
+
+.gallery_item:hover .overlay-text {
+  opacity: 1; /* Show overlay text on hover */
+}
+
+//Paniz add 03-01 for text
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
