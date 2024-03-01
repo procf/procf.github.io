@@ -13,6 +13,36 @@
   @include big-margins;
   @include trim-v-margins;
 
+  //Paniz add 03-01 for text
+.overlay-container {
+  position: relative;
+}
+
+.overlay-text {
+  position: relative;
+  display: inline-block;
+  color: black; /* Set text color to black */
+  font-size: 18px; /* Adjust font size as needed */
+  font-weight: bold; /* Add bold font weight */
+  text-align: center; /* Center align text */
+}
+
+.transition-line {
+  position: absolute;
+  width: 0;
+  height: 2px;
+  background-color: black; /* Set transition line color */
+  bottom: -5px; /* Adjust line position relative to text */
+  left: 50%;
+  transform: translateX(-50%);
+  transition: width 0.3s ease; /* Add transition effect */
+}
+
+.overlay-container:hover .transition-line {
+  width: 100%; /* Expand the line on hover */
+}
+//Paniz add 03-01 for text
+
   .gallery_item {
     // box-shadow: $shadow;
   }
@@ -64,33 +94,6 @@
     }
   }
 //Paniz add 03-01
-
-
-//Paniz add 03-01 for text
-.overlay-text {
-  position: relative;
-  display: inline-block;
-  color: black; /* Set text color to black */
-  font-size: 18px; /* Adjust font size as needed */
-  font-weight: bold; /* Add bold font weight */
-  text-align: center; /* Center align text */
-}
-
-.transition-line {
-  position: absolute;
-  width: 0;
-  height: 2px;
-  background-color: black; /* Set transition line color */
-  bottom: -5px; /* Adjust line position relative to text */
-  left: 50%;
-  transform: translateX(-50%);
-  transition: width 0.3s ease; /* Add transition effect */
-}
-
-.overlay-text:hover + .transition-line {
-  width: 100%; /* Expand the line on hover */
-}
-//Paniz add 03-01 for text
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;

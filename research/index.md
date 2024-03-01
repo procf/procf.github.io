@@ -27,17 +27,25 @@ nav:
   tooltip4="Blood Rheology"
 %}
 <!-- Paniz add 03-01 for text -->
-<div class="overlay-text">Colloidal Systems</div>
-<div class="transition-line"></div>
+<div class="overlay-container">
+  <div class="overlay-text">Colloidal Systems</div>
+  <div class="transition-line"></div>
+</div>
 
-<div class="overlay-text">Particulate Networks</div>
-<div class="transition-line"></div>
+<div class="overlay-container">
+  <div class="overlay-text">Particulate Networks</div>
+  <div class="transition-line"></div>
+</div>
 
-<div class="overlay-text">Scientific Machine Learning</div>
-<div class="transition-line"></div>
+<div class="overlay-container">
+  <div class="overlay-text">Scientific Machine Learning</div>
+  <div class="transition-line"></div>
+</div>
 
-<div class="overlay-text">Blood Rheology</div>
-<div class="transition-line"></div>
+<div class="overlay-container">
+  <div class="overlay-text">Blood Rheology</div>
+  <div class="transition-line"></div>
+</div>
 <!-- Paniz add 03-01 for text -->
 
 Research summary goes here.
