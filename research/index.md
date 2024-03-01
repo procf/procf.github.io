@@ -6,36 +6,24 @@ nav:
 
 # <i class="fas research"></i>Research
 
-{% include gallery.html style="square" %}
+# <i class="fas research"></i>Research
 
-<div class="gallery" data-style="square" data-number="4">
-  <div class="gallery_item">
-    <a href="research/sim">
-      <img src="images/research_topics/sim.png" loading="lazy">
-      <div class="overlay-text">Colloidal Systems</div>
-    </a>
-  </div>
+{% include gallery.html style="square"
+  image1="images/research_topics/sim.png"
+  link1="research/sim"
+  tooltip1="Colloidal Systems"
 
-  <div class="gallery_item">
-    <a href="research/net">
-      <img src="images/research_topics/net.png" loading="lazy">
-      <div class="overlay-text">Particulate Networks</div>
-    </a>
-  </div>
+  image2="images/research_topics/net.png"
+  link2="research/net"
+  tooltip2="Particulate Networks"
 
-  <div class="gallery_item">
-    <a href="research/ml">
-      <img src="images/research_topics/ml.png" loading="lazy">
-      <div class="overlay-text">Scientific Machine Learning</div>
-    </a>
-  </div>
+  image3="images/research_topics/ml.png"
+  link3="research/ml"
+  tooltip3="Scientific Machine Learning"
 
-  <div class="gallery_item">
-    <a href="research/blood">
-      <img src="images/research_topics/blood.png" loading="lazy">
-      <div class="overlay-text">Blood Rheology</div>
-    </a>
-  </div>
-</div>
+  image4="images/research_topics/blood.png"
+  link4="research/blood"
+  tooltip4="Blood Rheology"
+   %}
 
 Research summary goes here.
