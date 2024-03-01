@@ -6,8 +6,6 @@ nav:
 
 # <i class="fas research"></i>Research
 
-# <i class="fas research"></i>Research
-
 {% include gallery.html style="square"
   image1="images/research_topics/sim.png"
   link1="research/sim"
