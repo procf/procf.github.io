@@ -27,6 +27,7 @@
     transform: translate(-50%, -50%);
     color: black; /* Set initial text color to black */
     text-decoration: none; /* Initially, no text decoration */
+    white-space: nowrap; /* Keep the text on a single line */
   }
   
   .overlay-text:hover {
