@@ -34,9 +34,35 @@
         object-fit: cover;
         min-width: 100%;
         min-height: 100%;
+
+        // Apply border-radius to make the image round
+        object-fit: cover;
+        border-radius: 50%;    //Paniz add 02-29
       }
     }
   }
+
+  //Paniz add 02-29
+  &[data-style="square"] {
+    .gallery_item {
+      position: relative;
+
+      &:before {
+        content: "";
+        display: block;
+        padding-top: 100%; // This creates a square aspect ratio
+      }
+
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        min-width: 100%;
+        min-height: 100%;
+      }
+    }
+  }
+//Paniz add 02-29
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
