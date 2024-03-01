@@ -76,6 +76,9 @@
   color: black; /* Set initial text color to black */
   text-decoration: none; /* Initially, no text decoration */
   white-space: nowrap; /* Keep the text on a single line */
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+  padding: 5px 10px; /* Adjust padding as needed */
+  border-radius: 5px; /* Add rounded corners */
 }
 
 .overlay-text:hover {
