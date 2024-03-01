@@ -76,12 +76,13 @@
   font-size: 18px; /* Adjust font size as needed */
   font-weight: bold; /* Add bold font weight */
   text-align: center; /* Center align text */
+  opacity: 0; /* Initially hide the text */
+  transition: opacity 0.3s ease; /* Add transition effect */
 }
 
 .gallery_item:hover .overlay-text {
   opacity: 1; /* Show overlay text on hover */
 }
-
 //Paniz add 03-01 for text
 
   @media (min-width: $tablet) {
