@@ -6,7 +6,7 @@ title: Blood Rheology
 
 {%
   include feature.html
-  image="images/research_topics/blood.png"
+  image="images/research_topics/blood-long.png"
 %}
 
 
