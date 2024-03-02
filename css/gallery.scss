@@ -40,8 +40,12 @@
         // Apply border-radius to make the image round
         object-fit: cover;
         border-radius: 50%;    //Paniz add 03-01 to make image round
+        transition: transform 0.3s ease-in-out; //Paniz add 03-01 for image interaction
       }
-      
+    
+      img:hover {
+        transform: scale(1.2);  //Paniz add 03-01 for image interaction
+      }
     }
   }
 
@@ -69,20 +73,6 @@
 }
 //Paniz add 03-01 for text interaction 
 
-//Paniz add 03-01 for image interaction 
-.gallery_item img {
-  transition: transform 0.3s ease-in-out;
-}
-
-.gallery_item img:hover {
-  transform: scale(1.2);
-}
-
-/* Add this CSS to prevent shrinking back when hovering over the text */
-.gallery_item .overlay-text:hover {
-  transform: scale(1);
-}
-//Paniz add 03-01 for image interaction 
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;

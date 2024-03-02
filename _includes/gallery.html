@@ -37,7 +37,8 @@
     <div class="gallery_item">
       <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
         <img src="{{ image | relative_url }}" loading="lazy">
-        <div class="overlay-text">{{ tooltip }}</div> <!-- This line adds the tooltip text overlay -->
+        <!-- <div class="overlay-text">{{ tooltip }}</div> --> <!-- This line adds the tooltip text overlay --> 
+        <div class="overlay-text{% if for_image3 %} smaller-text{% endif %}">{{ tooltip }}</div> <!-- smaller text-->
       </a>
     </div>
     {%- endif -%}
