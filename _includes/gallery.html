@@ -20,6 +20,7 @@
     {%- assign tooltip_class = "tooltip_class" | append: i -%}  {# New line to get the class for each tooltip #}
 
     <!--- 
+
     {%- if image -%}
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
@@ -29,15 +30,15 @@
         <img src="{{ image | relative_url }}" loading="lazy">
       </a>
     {%- endif -%}
+
     --> 
+    <!-- Paniz changed 03-01 -->
 
     {%- if image -%}
     <div class="gallery_item">
       <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
         <img src="{{ image | relative_url }}" loading="lazy">
-        <div class="overlay-text {{ include[tooltip_class] }}"> <!-- Modified line to include the class dynamically -->
-          {{ tooltip }}
-        </div>
+        <div class="overlay-text">{{ tooltip }}</div> <!-- This line adds the tooltip text overlay --> 
       </a>
     </div>
     {%- endif -%}
