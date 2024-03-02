@@ -18,6 +18,7 @@ nav:
   image3="images/research_topics/ml.png"
   link3="research/ml"
   tooltip3="Scientific Machine Learning"
+  tooltip_class3="smaller-text"
 
   image4="images/research_topics/blood.png"
   link4="research/blood"
