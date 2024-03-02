@@ -18,7 +18,7 @@ nav:
   image3="images/research_topics/ml.png"
   link3="research/ml"
   tooltip3="Scientific Machine Learning"
-  {% if for_image3 %}tooltip_class3="smaller-text"{% endif %} <!-- Paniz add 03-01 smaller test -->
+  
 
   image4="images/research_topics/blood.png"
   link4="research/blood"
