@@ -40,34 +40,18 @@
         // Apply border-radius to make the image round
         object-fit: cover;
         border-radius: 50%;    //Paniz add 03-01
+        transition: transform 0.3s ease-in-out; //Paniz add 03-01 interaction
         
       }
-    }
-  }
-
-  //Paniz add 03-01
-  &[data-style="square"] {
-    .gallery_item {
-      position: relative;
-
-      &:before {
-        content: "";
-        display: block;
-        padding-top: 100%; // This creates a square aspect ratio
-      }
-
-      img {
-        position: absolute;
-        left: 0;
-        top: 0;
-        min-width: 100%;
-        min-height: 100%;
+      img:hover {
+        transform: scale(1.2);
       }
     }
   }
-//Paniz add 03-01
 
-//Paniz add 03-01 for text 
+
+
+//Paniz add 03-01 for text interaction 
  .overlay-text {
   position: absolute;
   top: 50%;
@@ -87,7 +71,7 @@
 .overlay-text:hover {
   text-decoration: underline; /* Underline text on hover */
 }
-//Paniz add 03-01 for text
+//Paniz add 03-01 for text interaction 
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
