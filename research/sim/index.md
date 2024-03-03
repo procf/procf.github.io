@@ -11,13 +11,13 @@ title: Particle Simulation
 %}
 
 
-In our lab we are very much interested in understanding the physics and rheology of
+In our lab, we are deeply interested in gaining insight into the physics and rheology of
 particulate systems. Our research primarily focuses on understanding the coupling
 between intricate structures that different particles form at mesoscale, as a result of
 their interactions at the microscale, and ultimately the emergent rheological/
 mechanics of the colloidal system at the macroscale. We pursue this through detailed
 simulations and aim to build a truly multi-scale physical description to colloidal rheology,
-and more generally soft glassy m
+and more generally soft glassy materials.
 
 
 {% include section.html %}
@@ -36,7 +36,7 @@ We investigate the rheological complexities of dense suspensions under shear, fo
 {% include section.html %}
 # Emergence of rigidity
 
-We have been very much interested in better understanding colloidal gels, from emergence of rigidity to yielding and rheological hysteresis in attractive colloids. We have built foundational understandings of the formation and coarsening of the colloidal structures both under quiescent and flowing conditions, allowing us to structurally describe concepts such as mutation, aging, and memory formation in colloidal gels. The ultimate goal of our work has always been to enable new structure [and hence mechanical] design of attractive colloidal gels with desirable and maybe even tunable properties.
+We have a keen interest in better understanding colloidal gels, from emergence of rigidity to yielding and rheological hysteresis in attractive colloids. We have built foundational understandings of the formation and coarsening of the colloidal structures both under quiescent and flowing conditions, allowing us to structurally describe concepts such as mutation, aging, and memory formation in colloidal gels. The ultimate goal of our work has always been to enable new structure [and hence mechanical] design of attractive colloidal gels with desirable and maybe even tunable properties.
 {% include section.html %}
 
 
