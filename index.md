@@ -25,7 +25,7 @@ Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeas
   link3="research/ml"
   tooltip3="Scientific Machine Learning"
 
-  image4="images/research_topics/blood.png"
+  image4="images/research_topics/blood_no_text.png"
   link4="research/blood"
   tooltip4="Blood Rheology"
 %}
