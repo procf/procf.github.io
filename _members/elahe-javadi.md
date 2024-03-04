@@ -30,25 +30,31 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   {% assign authors = citation.authors | join: ',' %}
   
   {% if authors contains author_name %}
-    {% assign author_citations = author_citations | push: citation %}
+    {% capture author_citations %}
+      {{ author_citations }}
+      - title: {{ citation.title | jsonify }}
+        authors: {{ citation.authors | join: ', ' | jsonify }}
+        publisher: {{ citation.publisher | jsonify }}
+        date: {{ citation.date | jsonify }}
+        link: {{ citation.link | jsonify }}
+    {% endcapture %}
   {% endif %}
 {% endfor %}
 
-{% if author_citations.size > 0 %}
+{% if author_citations != "" %}
   <ul>
     {% for citation in author_citations %}
       <li>
         <strong>{{ citation.title }}</strong><br>
-        Authors: {{ citation.authors | join: ', ' }}<br>
+        Authors: {{ citation.authors }}<br>
         Publisher: {{ citation.publisher }}<br>
         Date: {{ citation.date }}<br>
         Link: <a href="{{ citation.link }}">{{ citation.link }}</a><br>
-        Image: <img src="{{ citation.image }}" alt=""><br>
-        Tags: {{ citation.tags | join: ', ' }}
       </li>
     {% endfor %}
   </ul>
 {% endif %}
+
 
 
 {% comment %}
