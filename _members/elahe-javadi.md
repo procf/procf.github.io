@@ -24,20 +24,21 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
-{% assign publications = "" %}
+{% assign publications = "" | split: ',' %}
 
 {% for citation in site.data.citations %}
   {% assign authors = citation.authors | join: ', ' %}
   
   {% if authors contains author_name %}
     {% assign publication_info = "- **#{citation.title}**<br>#{authors}<br>#{citation.publisher}, #{citation.date | date: '%Y'}" %}
-    {% capture publications %}{{ publications }}{{ publication_info }}<br><br>{% endcapture %}
+    {% assign publications = publications | push: publication_info %}
   {% endif %}
 {% endfor %}
 
-{% if publications != "" %}
-  {{ publications }}
+{% if publications.size > 0 %}
+  {{ publications | join: '<br><br>' }}
 {% endif %}
+
 
 
 
