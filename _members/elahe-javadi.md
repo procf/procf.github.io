@@ -20,22 +20,40 @@ links:
 
 As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expertise is rooted in a strong academic foundation, underscored by a PhD from Northeastern University. My doctoral research delved into blood rheology and its applications in medical simulations, laying the groundwork for my current role where I leverage advanced simulation to solve complex problems and drive efficiency for clients. This synergy of academic excellence and practical consultancy defines my professional journey and underscores the robust analytical skills I offer in the field.
 
-
 {% assign author_name = page.name %}
+{% assign author_publications = site.data.citations | where: "authors", author_name %}
+
+{% if author_publications.size > 0 %}
+  <hr>
+  <div class="publications">
+    <h2>Publications</h2>
+    {% for citation in author_publications %}
+      <div class="publication">
+        <h3 style="text-align: left; margin: 0;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></h3>
+        <p style="margin: 0;">{{ citation.authors | join: ', ' }}</p>
+        <p style="margin: 0;">{{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+{% comment %}
+{% assign author_name = page.name %}
+<hr>
 <div class="publications">
   <h2>Publications</h2>
   {% for citation in site.data.citations %}
     {% assign authors = citation.authors | join: ', ' %}
     {% if authors contains author_name %}
       <div class="publication">
-        <h3 style="text-align: left;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></h3>
-        <p>{{ authors }}</p>
-        <p>{{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
+        <h3 style="text-align: left; margin: 0;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></h3>
+        <p style="margin: 0;">{{ authors }}</p>
+        <p style="margin: 0;">{{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
       </div>
     {% endif %}
   {% endfor %}
 </div>
-
+{% endcomment %}
 
 
 
