@@ -22,11 +22,8 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 ## Publications
 
-{% assign author_name = page.name %}
+{% assign author_name = "Elahe Javadi" %}
 
-author_name
-
-{% comment %}
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
 
 {% for citation in author_citations %}
@@ -38,4 +35,3 @@ author_name
   <img src="{{ citation.image }}" alt="{{ citation.publisher }}" style="max-width: 200px; max-height: 200px;">
   <hr>
 {% endfor %}
-{% endcomment %}
