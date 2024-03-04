@@ -20,7 +20,9 @@ Learn more about our code for colloid simulations and machine learning algorithm
 
 {% include section.html %}
 
-// When we have "more" repos to link to, put the most exciting ones in FEATURED, and the rest in MORE and uncomment these lines
-//## More
+{% comment %}
+When we have "more" repos to link to, put the most exciting ones in FEATURED, and the rest in MORE and uncomment these lines
+## More
 
-//{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% endcomment %}
