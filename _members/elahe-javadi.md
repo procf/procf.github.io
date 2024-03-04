@@ -1,5 +1,5 @@
 ---
-name: Elahe Javadi
+name: "Elahe Javadi"
 image: images/headshots/elahe.jpg
 description: PhD Graduate
 role: grad
@@ -23,9 +23,10 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 ## Publications
 
 {% assign author_name = page.name %}
+<p>Debug: Author Name: {{ author_name }}</p>
 
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
+<p>Debug: Author Citations: {{ author_citations | inspect }}</p>
 
 {% include list.html data=author_citations component="citation" style="rich" %}
-
 {% include list.html data="citations" component="citation" style="rich" %}
