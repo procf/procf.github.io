@@ -46,7 +46,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% if author_citations != "" %}
   {% assign author_citations = author_citations | remove: "\n" %}
-  {{ author_citations }}
+    {% include list.html data=author_citations component="citation" style="rich" %}
 {% endif %}
 
 
