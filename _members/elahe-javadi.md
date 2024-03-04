@@ -88,7 +88,7 @@ CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
 
 {% if author_citations != "" %}
   {% assign author_citations = author_citations | remove: "\n" %}
-    {% include list.html data=author_citations component="citation" style="rich" %}
+    {{ author_citations }}
 {% endif %}
 
 
