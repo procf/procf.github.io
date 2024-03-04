@@ -20,3 +20,14 @@ links:
 
 As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expertise is rooted in a strong academic foundation, underscored by a PhD from Northeastern University. My doctoral research delved into blood rheology and its applications in medical simulations, laying the groundwork for my current role where I leverage advanced simulation to solve complex problems and drive efficiency for clients. This synergy of academic excellence and practical consultancy defines my professional journey and underscores the robust analytical skills I offer in the field.
 
+## Publications
+
+{% assign member_publications = site.data.publications | where: "author", page.title %}
+
+{% for publication in member_publications %}
+- **Title:** {{ publication.title }}
+- **Authors:** {{ publication.authors | join: ", " }}
+- **Journal:** {{ publication.journal }}
+- **Year:** {{ publication.year }}
+{% endfor %}
+
