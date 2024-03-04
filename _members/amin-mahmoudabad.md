@@ -34,7 +34,7 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
 {% for citation in site.data.citations %}
   {% assign authors = citation.authors %}
   {% for author_name in author_names %}
-    {% if authors contains author_name %}
+    {% if authors contains author_name or authors contains page.name %}
       {% assign author_publications = author_publications | push: citation %}
       {% break %}
     {% endif %}
@@ -51,7 +51,7 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
         <p style="margin: 0;">
           {% assign author_list = citation.authors %}
           {% for author in author_list %}
-            {% if author == page.name or author == author_names %}
+            {% if author == page.name or author_names contains author %}
               <u>{{ author }}</u>{% unless forloop.last %}, {% endunless %}
             {% else %}
               {{ author }}{% unless forloop.last %}, {% endunless %}
@@ -64,6 +64,7 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
     {% endfor %}
   </div>
 {% endif %}
+
 
 
 
