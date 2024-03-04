@@ -31,13 +31,14 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   
   {% if authors contains author_name %}
     {% assign publication_info = "- **{{ citation.title }}**<br>{{ authors }}<br>{{ citation.publisher }}, {{ citation.date | date: '%Y' }}" %}
-    {% capture publications %}{{ publications }}{{ publication_info }}{% endcapture %}
+    {% capture publications %}{{ publications }}{{ publication_info }}<br><br>{% endcapture %}
   {% endif %}
 {% endfor %}
 
 {% if publications != "" %}
   {{ publications }}
 {% endif %}
+
 
 
 
