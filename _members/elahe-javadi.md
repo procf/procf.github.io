@@ -23,21 +23,21 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 ## Publications
 
 {% assign author_name = page.name %}
+<div class="publications">
+  <h2>Publications</h2>
+  {% for citation in site.data.citations %}
+    {% assign authors = citation.authors | join: ', ' %}
+    {% if authors contains author_name %}
+      <div class="publication">
+        <h3>{{ citation.title }}</h3>
+        <p><strong>Authors:</strong> {{ authors }}</p>
+        <p><strong>Publisher:</strong> {{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
+        <p><strong>Link:</strong> <a href="{{ citation.link }}">{{ citation.link }}</a></p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
-{% assign publications = "" | split: ',' %}
-
-{% for citation in site.data.citations %}
-  {% assign authors = citation.authors | join: ', ' %}
-  
-  {% if authors contains author_name %}
-    {% assign publication_info = "- **#{citation.title}**<br>#{authors}<br>#{citation.publisher}, #{citation.date | date: '%Y'}" %}
-    {% assign publications = publications | push: publication_info %}
-  {% endif %}
-{% endfor %}
-
-{% if publications.size > 0 %}
-  {{ publications | join: '<br><br>' }}
-{% endif %}
 
 
 
