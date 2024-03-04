@@ -24,6 +24,8 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
+{% assign author_name = page.name %}
+
 {% assign author_citations = "" %}
 
 {% for citation in site.data.citations %}
@@ -32,9 +34,9 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   {% if authors contains author_name %}
     {% capture author_citations %}
       {{ author_citations }}
-      [{{ citation.title | replace: "(", "[" | replace: ")", "]" }}]({{ citation.link }})
+      {{ citation.title }}
       <br>
-      {{ authors | replace: '["', '' | replace: '"]', '' | replace: '", "', ', ' }}
+      {{ authors }}
       <br>
       {{ citation.publisher }}, {{ citation.date | date: "%Y" }}
       <br><br>
@@ -45,7 +47,6 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 {% if author_citations != "" %}
   {{ author_citations }}
 {% endif %}
-
 
 
 
