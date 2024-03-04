@@ -22,6 +22,8 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 ## Publications
 
+
+{% comment %}
 {% assign author_name = page.name %}
 
 {% assign author_citations = "" %}
@@ -56,11 +58,12 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   </ul>
 {% endif %}
 
-
-
+{% endcomment %}
 
 {% comment %}
 CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
+
+{% endcomment %}
 {% assign author_name = page.name %}
 
 {% assign author_citations = "" %}
@@ -87,7 +90,7 @@ CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
   {% assign author_citations = author_citations | remove: "\n" %}
     {% include list.html data=author_citations component="citation" style="rich" %}
 {% endif %}
-{% endcomment %}
+
 
 
 {% comment %}
