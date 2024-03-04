@@ -6,7 +6,7 @@ role: grad
 group: alumni
 links:
   email: elahe.jvd@gmail.com
-  google-scholar: vLviwfgAAAAJ&hl
+  google-scholar: "vLviwfgAAAAJ&hl"
 ---
 
 <br>
