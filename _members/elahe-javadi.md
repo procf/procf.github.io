@@ -22,48 +22,35 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 ## Publications
 
-
-{% comment %}
 {% assign author_name = page.name %}
 
 {% assign author_citations = "" %}
 
 {% for citation in site.data.citations %}
-  {% assign authors = citation.authors | join: ',' %}
+  {% assign authors = citation.authors | join: ', ' %}
   
   {% if authors contains author_name %}
     {% capture author_citations %}
       {{ author_citations }}
-      - title: {{ citation.title | jsonify }}
-        authors: {{ citation.authors | join: ', ' | jsonify }}
-        publisher: {{ citation.publisher | jsonify }}
-        date: {{ citation.date | jsonify }}
-        link: {{ citation.link | jsonify }}
+      [{{ citation.title | replace: "(", "[" | replace: ")", "]" }}]({{ citation.link }})
+      <br>
+      {{ authors | replace: '["', '' | replace: '"]', '' | replace: '", "', ', ' }}
+      <br>
+      {{ citation.publisher }}, {{ citation.date | date: "%Y" }}
+      <br><br>
     {% endcapture %}
   {% endif %}
 {% endfor %}
 
 {% if author_citations != "" %}
-  <ul>
-    {% assign author_citations = author_citations | yaml_parse %}
-    {% for citation in author_citations %}
-      <li>
-        <strong>{{ citation.title }}</strong><br>
-        Authors: {{ citation.authors }}<br>
-        Publisher: {{ citation.publisher }}<br>
-        Date: {{ citation.date }}<br>
-        Link: <a href="{{ citation.link }}">{{ citation.link }}</a><br>
-      </li>
-    {% endfor %}
-  </ul>
+  {{ author_citations }}
 {% endif %}
 
-{% endcomment %}
+
+
 
 {% comment %}
 CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
-
-{% endcomment %}
 {% assign author_name = page.name %}
 
 {% assign author_citations = "" %}
@@ -90,6 +77,7 @@ CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
   {% assign author_citations = author_citations | remove: "\n" %}
     {{ author_citations }}
 {% endif %}
+{% endcomment %}
 
 
 
