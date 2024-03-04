@@ -28,24 +28,12 @@ During his doctoral studies, Mohammadamin specialized in leveraging physics-base
 
 Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer in software and machine learning at Aspen Technology. In this role, he focuses on the advancement of machine learning models that adhere to mechanical and chemical constraints within Aspen's software, contributing significantly to the evolution of cutting-edge technologies in this domain.
 
-{% assign author_name = page.name %}
-{% assign author_aliases = page.aliases | default: empty_array %}
-{% assign author_aliases = author_aliases | push: author_name %}
+{% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" %}
 
-{% for citation in site.data.citations %}
-  {% assign authors = citation.authors %}
-  {% assign contains_author = false %}
-  
-  {% for author in authors %}
-    {% if author == author_name or author_aliases contains author %}
-      {% assign contains_author = true %}
-    {% endif %}
-  {% endfor %}
-  
-  {% if contains_author %}
-    {% assign author_publications = author_publications | push: citation %}
-  {% endif %}
+{% for author_name in author_names %}
+  {% assign publications = site.data.citations | where: "authors", author_name %}
+  {% assign author_publications = author_publications | concat: publications %}
 {% endfor %}
 
 {% if author_publications.size > 0 %}
