@@ -1,12 +1,12 @@
-- name: Cool Dataset
+- name: RhiNNS
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/procf-inklogo.jpeg
+  link: https://github.com/procf/RhINNs
+  description: Rheology Informed Neural Networks (RhiNNS) and other Rheology-informed Machine Learning Algorithms.
+  repo: procf/RhiNNs
 
 - name: Cool Package
-  group: featured
+  group: more
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

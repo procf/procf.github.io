@@ -8,10 +8,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Learn more about our code for colloid simulations and machine learning algorithms in rheology. Major projects are highlighted below. You can also browse our GitHub organization page: [https://github.com/procf](https://github.com/procf)
 
 {% include search-info.html %}
 
@@ -23,6 +20,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## More
+// When we have "more" repos to link to, put the most exciting ones in FEATURED, and the rest in MORE and uncomment these lines
+//## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+//{% include list.html component="card" data="tools" filters="group: more" style="small" %}
