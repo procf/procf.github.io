@@ -22,7 +22,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 ## Publications
 
-{% assign member_publications = site.data.publications | where: "author", page.title %}
+{% assign member_publications = site.data.publications | where: "author", page.name %}
 
 {% for publication in member_publications %}
 - **Title:** {{ publication.title }}
