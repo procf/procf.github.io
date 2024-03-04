@@ -43,6 +43,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% if author_citations != "" %}
   <ul>
+    {% assign author_citations = author_citations | yaml_parse %}
     {% for citation in author_citations %}
       <li>
         <strong>{{ citation.title }}</strong><br>
@@ -54,6 +55,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
     {% endfor %}
   </ul>
 {% endif %}
+
 
 
 
