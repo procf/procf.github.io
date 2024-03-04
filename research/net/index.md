@@ -12,6 +12,7 @@ title: Network Science
 
 We use network science to study the structural origins of rheological properties. The relationship between stress and deformation in particulate systems is directly linked to their underlying microstructure and particle dynamics. However, these systems are disordered, which makes it hard to identify structural features and track their effects. Network science provides a suite of tools to help us solve this challenge. By representing the entire system of interacting particles as a network, we are able to study their collective behavior and reveal previously hidden details that link the micro and macro scales. The goal of this research is to understand these relationships well enough to establish new tools for designing rheological properties from particle microstructure. 
 
+[Browse all Network Science Publications](https://rheoinformatic.com/publications/?search=%22tag:Network%20Science%22)
 
 {% include section.html %}
 
