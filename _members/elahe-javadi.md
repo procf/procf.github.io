@@ -24,9 +24,26 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% assign author_citations = "" %}
+
+{% for citation in site.data.citations %}
+  {% assign authors = citation.authors | join: ',' %}
+  
+  {% if authors contains author_name %}
+    {% capture author_citations %}{{ author_citations }}{{ citation | jsonify }}{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+{% if author_citations != "" %}
+  {% assign author_citations = author_citations | parse_json %}
+  {% for citation in author_citations %}
+    {% include list.html data=citation component="citation" style="rich" %}
+  {% endfor %}
+{% endif %}
 
 {% comment %}
+{% include list.html data="citations" component="citation" style="rich" %}
+
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
 
 {% for citation in author_citations %}
