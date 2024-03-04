@@ -70,33 +70,3 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
     {% endfor %}
   </div>
 {% endif %}
-
-
-{% comment %}
-{% assign author_name = "Mohammadamin Mahmoudabadbozchelou" %}
-{% assign author_publications = site.data.citations | where: "authors", author_name | sort: "date" | reverse %}
-
-{% if author_publications.size > 0 %}
-  <hr>
-  <div class="publications">
-    <p><strong>Publications</strong></p>
-    {% for citation in author_publications %}
-      <div class="publication">
-        <p style="margin: 0;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></p>
-        <p style="margin: 0;">
-          {% assign author_list = citation.authors %}
-          {% for author in author_list %}
-            {% if author == author_name %}
-              <u>{{ author }}</u>{% unless forloop.last %}, {% endunless %}
-            {% else %}
-              {{ author }}{% unless forloop.last %}, {% endunless %}
-            {% endif %}
-          {% endfor %}
-        </p>
-        <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
-      </div>
-      <br>
-    {% endfor %}
-  </div>
-{% endif %}
-{% endcomment %}
