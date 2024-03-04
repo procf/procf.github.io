@@ -24,9 +24,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
-{% if author_name == "Elahe Javadi" %}
-  {{ author_name }}
-{% endif %}
+{% include list.html data="citations" component="citation" style="rich" %}
 
 {% comment %}
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
