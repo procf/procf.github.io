@@ -24,8 +24,6 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
-{% assign author_name = page.name %}
-
 {% assign author_citations = "" %}
 
 {% for citation in site.data.citations %}
