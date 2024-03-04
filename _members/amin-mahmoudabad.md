@@ -28,7 +28,7 @@ During his doctoral studies, Mohammadamin specialized in leveraging physics-base
 
 Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer in software and machine learning at Aspen Technology. In this role, he focuses on the advancement of machine learning models that adhere to mechanical and chemical constraints within Aspen's software, contributing significantly to the evolution of cutting-edge technologies in this domain.
 
-{% assign author_name = "Mohammad Mahmoudabadbozchelou" %}
+{% assign author_name = "Mohammadamin Mahmoudabadbozchelou" %}
 {% assign author_publications = site.data.citations | where: "authors", author_name | sort: "date" | reverse %}
 
 {% if author_publications.size > 0 %}
