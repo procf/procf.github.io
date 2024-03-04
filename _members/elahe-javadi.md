@@ -26,16 +26,26 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 {% if author_publications.size > 0 %}
   <hr>
   <div class="publications">
-    <h2>Publications</h2>
+    <p><strong>Publications</strong></p>
     {% for citation in author_publications %}
       <div class="publication">
-        <h3 style="text-align: left; margin: 0;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></h3>
-        <p style="margin: 0;">{{ citation.authors | join: ', ' }}</p>
-        <p style="margin: 0;">{{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
+        <p style="margin: 0;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></p>
+        <p style="margin: 0;">
+          {% assign author_list = citation.authors %}
+          {% for author in author_list %}
+            {% if author == author_name %}
+              <u>{{ author }}</u>{% unless forloop.last %}, {% endunless %}
+            {% else %}
+              {{ author }}{% unless forloop.last %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+        </p>
+        <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
       </div>
     {% endfor %}
   </div>
 {% endif %}
+
 
 {% comment %}
 {% assign author_name = page.name %}
