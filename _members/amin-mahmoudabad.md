@@ -46,18 +46,14 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
         <p style="margin: 0;">
           {% assign author_list = citation.authors %}
           {% for author in author_list %}
-            {% if author == author_name or author_aliases contains author %}
+            {% if author == page.name or author_names contains author %}
               <u>{{ author }}</u>{% unless forloop.last %}, {% endunless %}
             {% else %}
               {{ author }}{% unless forloop.last %}, {% endunless %}
             {% endif %}
           {% endfor %}
         </p>
-        <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
-      </div>
-      <br>
-    {% endfor %}
-  </div>
-{% endif %}
+        <p style=
+
 
 
