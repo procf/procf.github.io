@@ -20,7 +20,6 @@ links:
 
 As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expertise is rooted in a strong academic foundation, underscored by a PhD from Northeastern University. My doctoral research delved into blood rheology and its applications in medical simulations, laying the groundwork for my current role where I leverage advanced simulation to solve complex problems and drive efficiency for clients. This synergy of academic excellence and practical consultancy defines my professional journey and underscores the robust analytical skills I offer in the field.
 
-## Publications
 
 {% assign author_name = page.name %}
 <div class="publications">
@@ -29,10 +28,9 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
     {% assign authors = citation.authors | join: ', ' %}
     {% if authors contains author_name %}
       <div class="publication">
-        <h3>{{ citation.title }}</h3>
-        <p><strong>Authors:</strong> {{ authors }}</p>
-        <p><strong>Publisher:</strong> {{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
-        <p><strong>Link:</strong> <a href="{{ citation.link }}">{{ citation.link }}</a></p>
+        <h3 style="text-align: left;"><a href="{{ citation.link }}" style="text-decoration: none;">{{ citation.title }}</a></h3>
+        <p>{{ authors }}</p>
+        <p>{{ citation.publisher }}, {{ citation.date | date: "%Y" }}</p>
       </div>
     {% endif %}
   {% endfor %}
