@@ -4,6 +4,7 @@ image: images/headshots/elahe.jpg
 description: PhD Graduate
 role: grad
 group: alumni
+aliases:
 links:
   email: elahe.jvd@gmail.com
   google-scholar: vLviwfgAAAAJ&hl

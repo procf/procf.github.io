@@ -5,7 +5,6 @@ description: PhD Student
 role: grad
 group: current
 aliases:
-
 links:
   email: haghighi.p@northeastern.edu
   twitter: panizhaghighi94

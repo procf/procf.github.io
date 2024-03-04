@@ -5,10 +5,6 @@ description: PhD Student
 role: grad
 group: current
 aliases:
-  - M. Saadat
-  - Andrew Villeneuve
-  - Drew Villeneuve
-  - A. Villeneuve
 links:
   email: saadat.m@northeastern.edu
   twitter: Villeneuvesci

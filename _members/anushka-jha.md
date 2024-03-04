@@ -3,6 +3,7 @@ name: Anushka Jha
 image: images/headshots/ajha.jpg
 role: postdoc
 group: current
+aliases:
 description: Postdoctoral Fellow
 links:
   email: tba
