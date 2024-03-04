@@ -23,11 +23,11 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 ## Publications
 
 {% assign author_name = page.name %}
-{{ author_name | inspect }}
-{{ site.data.citations | inspect }}
-{% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
-{{ author_citations | inspect }}
 
+author_name
+
+{% comment %}
+{% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
 
 {% for citation in author_citations %}
   <p><strong>{{ citation.title }}</strong></p>
@@ -38,3 +38,4 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   <img src="{{ citation.image }}" alt="{{ citation.publisher }}" style="max-width: 200px; max-height: 200px;">
   <hr>
 {% endfor %}
+{% endcomment %}
