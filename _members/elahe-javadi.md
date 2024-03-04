@@ -1,12 +1,12 @@
 ---
-name: "Elahe Javadi"
+name: Elahe Javadi
 image: images/headshots/elahe.jpg
 description: PhD Graduate
 role: grad
 group: alumni
 links:
   email: elahe.jvd@gmail.com
-  google-scholar: "vLviwfgAAAAJ&hl"
+  google-scholar: vLviwfgAAAAJ&hl
 ---
 
 <br>
@@ -23,10 +23,14 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 ## Publications
 
 {% assign author_name = page.name %}
-<p>Debug: Author Name: {{ author_name }}</p>
-
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
-<p>Debug: Author Citations: {{ author_citations | inspect }}</p>
 
-{% include list.html data=author_citations component="citation" style="rich" %}
-{% include list.html data="citations" component="citation" style="rich" %}
+{% for citation in author_citations %}
+  <p><strong>{{ citation.title }}</strong></p>
+  <p><em>{{ citation.authors | join: ", " }}</em></p>
+  <p>{{ citation.publisher }}, {{ citation.date | date: "%B %d, %Y" }}</p>
+  <p>Tags: {{ citation.tags | join: ", " }}</p>
+  <p><a href="{{ citation.link }}" target="_blank">Read more</a></p>
+  <img src="{{ citation.image }}" alt="{{ citation.publisher }}" style="max-width: 200px; max-height: 200px;">
+  <hr>
+{% endfor %}
