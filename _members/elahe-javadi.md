@@ -23,7 +23,11 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 ## Publications
 
 {% assign author_name = page.name %}
+{{ author_name | inspect }}
+{{ site.data.citations | inspect }}
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
+{{ author_citations | inspect }}
+
 
 {% for citation in author_citations %}
   <p><strong>{{ citation.title }}</strong></p>
