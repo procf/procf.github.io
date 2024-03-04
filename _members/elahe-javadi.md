@@ -22,12 +22,11 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 ## Publications
 
-{% assign member_publications = site.data.publications | where: "author", page.name %}
+{% assign author_name = page.name %}
 
-{% for publication in member_publications %}
-- **Title:** {{ publication.title }}
-- **Authors:** {{ publication.authors | join: ", " }}
-- **Journal:** {{ publication.journal }}
-- **Year:** {{ publication.year }}
-{% endfor %}
+{% assign author_citations = site.data.citations | where: "author", author_name %}
+
+{% include list.html data=author_citations component="citation" style="rich" %}
+
+{% include list.html data="citations" component="citation" style="rich" %}
 
