@@ -42,9 +42,11 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
         </p>
         <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
       </div>
+      <br>
     {% endfor %}
   </div>
 {% endif %}
+
 
 
 {% comment %}
