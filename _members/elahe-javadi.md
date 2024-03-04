@@ -5,6 +5,7 @@ description: PhD Graduate
 role: grad
 group: alumni
 aliases:
+  - Ela
 links:
   email: elahe.jvd@gmail.com
   google-scholar: vLviwfgAAAAJ&hl
