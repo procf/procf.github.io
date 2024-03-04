@@ -35,8 +35,21 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 {% endfor %}
 
 {% if author_citations.size > 0 %}
-  {% include list.html data=author_citations component="citation" style="rich" %}
+  <ul>
+    {% for citation in author_citations %}
+      <li>
+        <strong>{{ citation.title }}</strong><br>
+        Authors: {{ citation.authors | join: ', ' }}<br>
+        Publisher: {{ citation.publisher }}<br>
+        Date: {{ citation.date }}<br>
+        Link: <a href="{{ citation.link }}">{{ citation.link }}</a><br>
+        Image: <img src="{{ citation.image }}" alt=""><br>
+        Tags: {{ citation.tags | join: ', ' }}
+      </li>
+    {% endfor %}
+  </ul>
 {% endif %}
+
 
 {% comment %}
 CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
