@@ -5,19 +5,28 @@ description: PhD Student
 role: grad
 group: current
 aliases:
-  - M. Saadat
-  - Andrew Villeneuve
-  - Drew Villeneuve
-  - A. Villeneuve
+  - Robert Campbell
+  - Robert A Campbell
+  - Rob
+  - R.A. Campbell
 links:
-  email: saadat.m@northeastern.edu
-  twitter: Villeneuvesci
-  github: villesci
-  google-scholar: BJlkwh0AAAAJ&hl
+  email: campbell.r@northeastern.edu
+  github: rob10campbell
+  linkedin: rob10campbell
+  google-scholar: i8S54zYAAAAJ&hl
+  orchid: 0000-0002-5561-8671
 ---
 
-Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
+<br>
+**Education**
+<br>
+- Research Assistant, 4yrs (2020), Okinawa Institute of Science and Technology (OIST)
+- B.A. in Physics (2006), Skidmore College
+<br>
+<hr>
 
-Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his master’s in Environmental Conservation from the University of Massachusetts Amherst in 2021. At UMass Amherst, he worked in the Marine Global Change Ecology lab with Dr. Brian Cheng understanding the role of local adaptation in driving intraspecific trait variation and climate sensitivity of the marine predatory gastropod Urosalpinx cinerea. He was a 2021 Knauss Marine Policy Fellow with NOAA Fisheries, where he supported efforts to incorporate traditional ecological knowledge from Inuit groups into an international agreement to prevent unregulated fishing in the Central Arctic Ocean, and developed communication materials about NOAA Fisheries surveys for the public and Congress. 
+Rob Campbell is a PhD student interested in the microscale origins of material mechanics. Their thesis focuses on the effects of particle size and gravity in colloidal gel assembly and rheology.
 
-When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
+Rob is the "Future Investigator" leading a 3-year FINESST grant from NASA to build open-source simulation tools that interface with exisiting data from colloid experiments on the International Space Station (ISS). Alongside this work, Rob collaborates on a project that will launch new bimodal colloid experiments to the ISS in 2024, and is developing machine learning tools to better match simulation parameters with experimental conditions.
+
+Outside research, Rob runs Rheology Comics, a short outreach series funded by the Society of Rheology and designed to share the joys of rheological concepts with ages 10+ (available in English and 7+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
