@@ -14,7 +14,7 @@ links:
   github: rob10campbell
   linkedin: rob10campbell
   google-scholar: i8S54zYAAAAJ&hl
-  orchid: 0000-0002-5561-8671
+  orcid: 0000-0002-5561-8671
 ---
 
 <br>
