@@ -31,7 +31,7 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
 {% assign author_name = page.name %}
 {% assign author_aliases = page.aliases | default: empty_array %}
 {% assign author_aliases = author_aliases | push: author_name %}
-{% assign author_publications = site.data.citations | where_exp: "citation", "citation.authors contains author_name or citation.authors contains_any author_aliases" | sort: "date" | reverse %}
+{% assign author_publications = site.data.citations | where_exp: "citation", "citation.authors contains author_name or citation.authors contains author_aliases" | sort: "date" | reverse %}
 
 {% if author_publications.size > 0 %}
   <hr>
@@ -56,3 +56,4 @@ Having graduated in December 2022, Mohammadamin now serves as a Senior Engineer 
     {% endfor %}
   </div>
 {% endif %}
+
