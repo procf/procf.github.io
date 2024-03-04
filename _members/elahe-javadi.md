@@ -24,9 +24,8 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
 
 {% assign author_name = page.name %}
 
-{% assign author_citations = site.data.citations | where: "author", author_name %}
+{% assign author_citations = site.data.citations | where_exp: "item", "item.authors contains author_name" %}
 
 {% include list.html data=author_citations component="citation" style="rich" %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
-
