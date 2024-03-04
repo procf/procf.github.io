@@ -25,4 +25,4 @@ nav:
   tooltip4="Blood Rheology"
    %}
 
-Research summary goes here.
+
