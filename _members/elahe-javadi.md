@@ -30,6 +30,24 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   {% assign authors = citation.authors | join: ',' %}
   
   {% if authors contains author_name %}
+    {% assign author_citations = author_citations | push: citation %}
+  {% endif %}
+{% endfor %}
+
+{% if author_citations.size > 0 %}
+  {% include list.html data=author_citations component="citation" style="rich" %}
+{% endif %}
+
+{% comment %}
+CORRECTLY SELECTS CITATIONS, BUT DOES NOT DISPLAY
+{% assign author_name = page.name %}
+
+{% assign author_citations = "" %}
+
+{% for citation in site.data.citations %}
+  {% assign authors = citation.authors | join: ',' %}
+  
+  {% if authors contains author_name %}
     {% capture author_citations %}
       {{ author_citations }}
       - id: {{ citation.id }}
@@ -48,9 +66,11 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
   {% assign author_citations = author_citations | remove: "\n" %}
     {% include list.html data=author_citations component="citation" style="rich" %}
 {% endif %}
+{% endcomment %}
 
 
 {% comment %}
+ORIGINAL TESTS
 {% include list.html data="citations" component="citation" style="rich" %}
 
 {% assign author_citations = site.data.citations | where_exp: "item", "item.authors != nil and item.authors contains author_name" %}
