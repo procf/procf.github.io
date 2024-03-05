@@ -6,7 +6,7 @@ group: current
 aliases:
 description: Postdoctoral Fellow
 links:
-  email: tba
+  email: an.jha@northeastern.edu
   google-scholar: OaMiqsMAAAAJ&hl
   linkedin: anushka-jha-phd
   twitter: 
