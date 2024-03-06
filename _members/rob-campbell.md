@@ -21,7 +21,7 @@ links:
 **Education**
 <br>
 - Research Assistant, 4yrs (2020), Okinawa Institute of Science and Technology (OIST)
-- B.A. in Physics (2006), Skidmore College
+- B.A. in Physics (2010), Skidmore College
 <br>
 <hr>
 
