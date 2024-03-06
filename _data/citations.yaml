@@ -425,6 +425,7 @@
   image: https://procf.github.io/images/journal_covers/biophys.jpg
   tags:
   - Hemorheology
+  repo: procf/Covid-paper_input-files
 - id: 10.52768/2766-7820/1916
   title: 'Predicting hemodynamic performance of Fontan Operation for Glenn physiology
     using computational fluid dynamics: Ten patient-specific cases'
