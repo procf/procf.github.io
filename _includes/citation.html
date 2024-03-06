@@ -61,7 +61,7 @@
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
     {%- if rich -%}
-      {%- include tags.html tags=tags repo=repo -%}
+      {%- include tags.html tags=tags repo=repo repo_link=repo_link -%}
       <div class="citation_links">
         {%- for extra in extra-links -%}
           {%- assign type = extra.type | default: "" -%}
