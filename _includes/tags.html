@@ -1,6 +1,6 @@
 {%- assign tags = include.tags | join: "," | split: "," -%}
 {%- assign repo = include.repo | strip -%}
-{%- assign repo_link = include.repo_link | default: "" -%}
+{%- assign repo_link = include.repo_link | strip -%}
 {%- if repo == "" -%}
   {%- assign repo = nil -%}
 {%- endif -%}
