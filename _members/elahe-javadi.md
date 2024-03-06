@@ -59,7 +59,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
         {% if citation.tags.size > 0 %}
           <div class="tags" style="margin: 0; padding: 0;">
           {%- for tag in tags -%}
-            <a href="https://rheoinformatic.com/research/blood/" class="tag" style="background: #D4D4D4;">{{- tag -}}</a>
+            <a style="margin: 0; padding: 0;" class="tag" style="background: #D4D4D4;">{{- tag -}}</a>
           {%- endfor -%}
           </div>
         {% endif %}
