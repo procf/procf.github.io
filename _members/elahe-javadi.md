@@ -55,6 +55,14 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
           {% endfor %}
         </p>
         <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
+
+        {% if citation.tags.size > 0 %}
+          <div class="tags">
+          {%- for tag in tags -%}
+            <a href="https://rheoinformatic.com/research/blood/" class="tag" data-tooltip='View research area'>{{- tag -}}</a>
+          {%- endfor -%}
+          </div>
+        {% endif %}
       </div>
       <br>
     {% endfor %}
