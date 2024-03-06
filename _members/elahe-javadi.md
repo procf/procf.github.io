@@ -6,8 +6,6 @@ role: grad
 group: alumni
 aliases:
   - Ela
-topics:
-  - Hemorheology
 links:
   email: elahe.jvd@gmail.com
   google-scholar: vLviwfgAAAAJ&hl
@@ -22,14 +20,16 @@ links:
 <br>
 <hr>
 
-{% assign topics = page.topics | default: empty_array %}
-{%- if topics.size > 0 -%}
-  <div class="tags" {% if link %}data-link="{{ link }}"{% endif %}>
+{%- assign custom_tags = "Hemorheology" | split: "," -%}
+{%- assign tags = custom_tags | default: emptyarray -%}
+{%- if tags.size > 0 or repo or repo_link -%}
+  <div class="tags">
     {%- for tag in tags -%}
-      <a href="https://rheoinformatic.com/research/blood/" class="tag" data-tooltip='View research area'>{{- topic -}}</a>
+      <a href="https://rheoinformatic.com/research/blood/" class="tag" data-tooltip='View research area'>{{- tag -}}</a>
     {%- endfor -%}
-  </div>
+      </div>
 {%- endif -%}
+
 <hr>
 
 As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expertise is rooted in a strong academic foundation, underscored by a PhD from Northeastern University. My doctoral research delved into blood rheology and its applications in medical simulations, laying the groundwork for my current role where I leverage advanced simulation to solve complex problems and drive efficiency for clients. This synergy of academic excellence and practical consultancy defines my professional journey and underscores the robust analytical skills I offer in the field.
