@@ -29,51 +29,31 @@
     &[data-highlight="true"] {
       background: $accent;
     }
-  }
 
-  .repo_link {
-    display: inline-block;
-    max-width: 100%;
-    margin: 5px;
-    padding: 5px 15px;
-    border-radius: 999px;
-    color: $black;
-    background: #F6B693;
-    text-decoration: none;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    transition: background $fast;
-
-    &:hover {
-      background: $gray-500;
-    }
-  
-    &[data-highlight="true"] {
-      background: $accent;
-    }
-  }
-
-  .main_author {
-      display: inline-block;
-      max-width: 100%;
-      margin: 5px;
-      padding: 5px 15px;
-      border-radius: 999px;
+    &.repo-link {
+      background: #F6B693;
       color: $black;
-      background: #93A1F6;
-      text-decoration: none;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      transition: background $fast;
-    
+      
       &:hover {
         background: $gray-500;
       }
-    
+  
       &[data-highlight="true"] {
         background: $accent;
       }
+    }
+
+    &.main_author {
+      background: #93A1F6;
+      color: $black;
+      
+      &:hover {
+        background: $gray-500;
+      }
+  
+      &[data-highlight="true"] {
+        background: $accent;
+      }
+    }
   }
 }
