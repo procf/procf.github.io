@@ -214,7 +214,8 @@
   image: https://procf.github.io/images/journal_covers/biophys.jpg
   tags:
     - Hemorheology
-  repo: procf/Covid-paper_input-files
+  repo_link: https://github.com/procf/Covid-paper_input-files
+  main_author: Elahe Javadi
 
 
 

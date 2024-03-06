@@ -1,5 +1,6 @@
 {%- assign tags = include.tags | join: "," | split: "," -%}
 {%- assign repo = include.repo | strip -%}
+{%- assign repo_link = include.repo_link | default: "" -%}
 {%- if repo == "" -%}
   {%- assign repo = nil -%}
 {%- endif -%}
@@ -10,5 +11,10 @@
     {%- for tag in tags -%}
       <a {% if link %}href='{{ link }}?search="tag:{{ tag }}"'{% endif %} class="tag" data-tooltip='Show items with the tag "{{ tag }}"'>{{- tag -}}</a>
     {%- endfor -%}
+
+    {%- if repo_link -%}
+    <a href="{{ repo_link }}" class="tag" data-tooltip="Link to the associated code on GitHub">Code</a>
+    {%- endif -%}
   </div>
 {%- endif -%}
+
