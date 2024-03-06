@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineerint](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
+Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineering](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
 
 
 <div class="center">
