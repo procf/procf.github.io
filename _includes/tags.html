@@ -20,7 +20,7 @@
     {%- endfor -%}
 
     {%- if repo_link -%}
-      <a href="{{ repo_link }}" class="repo_link" data-tooltip="Link to the associated code on GitHub">Code</a>
+      <a href="{{ repo_link }}" class="tag" data-tooltip="Link to the associated code on GitHub">Code</a>
     {%- endif -%}
 
     {%- if main_author -%}
@@ -28,7 +28,10 @@
       {%- assign main_author_link = "https://rheoinformatic.com/members/" -%}
     
       {%- for part in main_author_parts -%}
-        {%- assign main_author_link = main_author_link | append: part -%}
+
+      {%- for part in main_author_parts -%}
+        {%- assign part_lowercase = part | downcase -%}
+        {%- assign main_author_link = main_author_link | append: part_lowercase -%}
         {%- unless forloop.last -%}
           {%- assign main_author_link = main_author_link | append: "-" -%}
         {%- endunless -%}
@@ -36,7 +39,7 @@
     
       {%- assign main_author_link = main_author_link | append: ".html" -%}
 
-      <a href="{{ main_author_link }}" class="main_author" data-tooltip='View the main author of this work'>{{- main_author -}}</a>
+      <a href="{{ main_author_link }}" class="tag" data-tooltip='View the main author of this work'>{{- main_author -}}</a>
     {%- endif -%}    
   </div>
 {%- endif -%}
