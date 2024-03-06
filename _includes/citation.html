@@ -21,6 +21,7 @@
 {%- assign date = citation.date | default: "1900-01-01" -%}
 {%- assign tags = citation.tags | default: emptyarray -%}
 {%- assign repo = citation.repo | default: "" -%}
+{% assign repo_link = citation.repo_link | default: "" -%}
 {%- assign extra-links = citation.extra-links | default: emptyarray -%}
 
 {%- assign rich = false -%}

@@ -29,5 +29,10 @@
     &[data-highlight="true"] {
       background: $accent;
     }
+
+    &.repo-link {
+      background: $light-gray;
+      color: $black;
+    }
   }
 }
