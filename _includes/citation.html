@@ -22,6 +22,7 @@
 {%- assign tags = citation.tags | default: emptyarray -%}
 {%- assign repo = citation.repo | default: "" -%}
 {% assign repo_link = citation.repo_link | default: "" -%}
+{% assign main_author = citation.main_author | default: "" -%}
 {%- assign extra-links = citation.extra-links | default: emptyarray -%}
 
 {%- assign rich = false -%}
@@ -61,7 +62,7 @@
       {{ publisher }}&nbsp; · &nbsp;{{ date | date: "%d %b %Y" }}
     </div>
     {%- if rich -%}
-      {%- include tags.html tags=tags repo=repo repo_link=repo_link -%}
+      {%- include tags.html tags=tags repo=repo repo_link=repo_link main_author=main_author -%}
       <div class="citation_links">
         {%- for extra in extra-links -%}
           {%- assign type = extra.type | default: "" -%}

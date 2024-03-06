@@ -1,11 +1,15 @@
 {%- assign tags = include.tags | join: "," | split: "," -%}
 {%- assign repo = include.repo | strip -%}
 {%- assign repo_link = include.repo_link | strip -%}
+{%- assign main_author = include.main_author | default: "" -%}
 {%- if repo == "" -%}
   {%- assign repo = nil -%}
 {%- endif -%}
 {%- if repo_link == "" -%}
   {%- assign repo_link = nil -%}
+{%- endif -%}
+{%- if main_author == "" -%}
+  {%- assign main_author = nil -%}
 {%- endif -%}
 {%- assign link = include.link | default: page.dir | absolute_url -%}
 
@@ -16,8 +20,21 @@
     {%- endfor -%}
 
     {%- if repo_link -%}
-    <a href="{{ repo_link }}" class="tag" data-tooltip="Link to the associated code on GitHub">Code</a>
+      <a href="{{ repo_link }}" class="tag" data-tooltip="Link to the associated code on GitHub">Code</a>
     {%- endif -%}
+
+    {%- if main_author -%}
+      {%- assign main_author_parts = include.main_author | split: " " -%}
+      {%- assign main_author_link = "https://rheoinformatic.com/members/" -%}
+    
+      {%- for part in main_author_parts -%}
+        {%- assign main_author_link = main_author_link | append: part | append: "-" -%}
+      {%- endfor -%}
+    
+      {%- assign main_author_link = main_author_link | remove: "-.html" | append: ".html" -%}
+    
+      <a href="{{ main_author_link }}" class="tag" data-tooltip='View the main author of this work'>{{- main_author -}}</a>
+    {%- endif -%}    
   </div>
 {%- endif -%}
 

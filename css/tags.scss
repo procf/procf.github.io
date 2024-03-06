@@ -30,8 +30,13 @@
       background: $accent;
     }
 
-    &.repo-link {
+    &.repo_link {
       background: #D4D4D4;
+      color: $black;
+    }
+
+    &.main_author {
+      background: #997B97;
       color: $black;
     }
   }
