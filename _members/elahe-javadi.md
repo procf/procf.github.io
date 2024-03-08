@@ -32,7 +32,7 @@ topics: # must be "sim" "net" "ml" or "blood"
     {% endcase %}
       {%- assign topic_link = "https://rheoinformatic.com/research/" -%}
       {%- assign topic_link = topic_link | append: tag %}
-      <a href="{{ topic_link }}" class="tag" style="background-color: #48A9EE;" data-tooltip='View research area'>{{- topic_tag -}}</a>
+      <a href="{{ topic_link }}" class="tag" data-tooltip='View research area'>{{- topic_tag -}}</a>
     {%- endfor -%}
       </div>
 {%- endif -%}
@@ -73,7 +73,7 @@ As a seasoned Modeling and Simulation Consultant with Dassault Systemes, my expe
         <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
 
         {% if citation.tags.size > 0 %}
-          <div class="tags" style="margin: 0; padding: 0;">
+          <div class="tags" style="margin: 0; padding: 0; text-align: left;">
           {%- for tag in citation.tags -%}
             <a class="tag" style="display: inline-block; margin: 0; padding: 5px 15px; border-radius: 999px; color: $black; background: #D4D4D4; text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: background $fast;">{{- tag -}}</a>
           {%- endfor -%}
