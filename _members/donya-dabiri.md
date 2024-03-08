@@ -10,7 +10,33 @@ links:
   twitter: Villeneuvesci
   github: villesci
   google-scholar: BJlkwh0AAAAJ&hl
+topics: # must be "sim" "net" "ml" or "blood"
+  - ml
 ---
+
+{% assign topics = page.topics | default: empty_array %}
+{%- if topics.size > 0 -%}
+  <div class="tags">
+    {%- for tag in topics -%}
+    {% case tag %}
+      {% when "blood" %}
+        {%- assign topic_tag = "Hemorheology" -%}
+      {% when "sim" %}
+        {%- assign topic_tag = "Colloid Systems" -%}
+      {% when "net" %}
+        {%- assign topic_tag = "Network Science" -%}
+      {% when "ml" %}
+        {%- assign topic_tag = "Machine Learning" -%}
+      {% else %}
+        {%- assign topic_tag = "Other" -%}
+    {% endcase %}
+      {%- assign topic_link = "https://rheoinformatic.com/research/" -%}
+      {%- assign topic_link = topic_link | append: tag %}
+      <a href="{{ topic_link }}" class="tag" data-tooltip='View research area'>{{- topic_tag -}}</a>
+    {%- endfor -%}
+      </div>
+{%- endif -%}
+<hr>
 
 Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
 

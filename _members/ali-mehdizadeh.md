@@ -9,7 +9,33 @@ description: PhD Graduate
 links:
     email: mehdizadehrahimi.a@husky.neu.edu
     linkedin: alimehdizadehrahimi
+topics: # must be "sim" "net" "ml" or "blood"
+  - 
 ---
+
+{% assign topics = page.topics | default: empty_array %}
+{%- if topics.size > 0 -%}
+  <div class="tags">
+    {%- for tag in topics -%}
+    {% case tag %}
+      {% when "blood" %}
+        {%- assign topic_tag = "Hemorheology" -%}
+      {% when "sim" %}
+        {%- assign topic_tag = "Colloid Systems" -%}
+      {% when "net" %}
+        {%- assign topic_tag = "Network Science" -%}
+      {% when "ml" %}
+        {%- assign topic_tag = "Machine Learning" -%}
+      {% else %}
+        {%- assign topic_tag = "Other" -%}
+    {% endcase %}
+      {%- assign topic_link = "https://rheoinformatic.com/research/" -%}
+      {%- assign topic_link = topic_link | append: tag %}
+      <a href="{{ topic_link }}" class="tag" data-tooltip='View research area'>{{- topic_tag -}}</a>
+    {%- endfor -%}
+      </div>
+{%- endif -%}
+<hr>
 
 <br>
 **Education**
