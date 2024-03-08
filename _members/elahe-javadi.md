@@ -32,7 +32,7 @@ topics: # must be "sim" "net" "ml" or "blood"
     {% endcase %}
       {%- assign topic_link = "https://rheoinformatic.com/research/" -%}
       {%- assign topic_link = topic_link | append: tag %}
-      <a href="{{ topic_link }}" class="tag" data-tooltip='View research area'>{{- topic_tag -}}</a>
+      <a href="{{ topic_link }}" class="tag" style="background-color: #48A9EE;" data-tooltip='View research area'>{{- topic_tag -}}</a>
     {%- endfor -%}
       </div>
 {%- endif -%}
