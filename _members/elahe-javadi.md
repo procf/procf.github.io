@@ -14,7 +14,6 @@ topics: # must be "sim" "net" "ml" or "blood"
 ---
 
 {% assign topics = page.topics | default: empty_array %}
-
 {%- if topics.size > 0 -%}
   <div class="tags">
     {%- for tag in topics -%}
