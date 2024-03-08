@@ -65,6 +65,18 @@ Paniz Haghighi, a Ph.D. student, is dedicated to unraveling the complexities of 
           {% endfor %}
         </p>
         <p style="margin: 0;">{{ citation.publisher }} · {{ citation.date | date: "%Y" }}</p>
+
+        {% if citation.tags.size > 0 %}
+          <div class="tags" style="margin: 0; padding: 0; text-align: left;">
+          {%- for tag in citation.tags -%}
+            <a class="tag" style="display: inline-block; margin: 0; padding: 5px 15px; border-radius: 999px; color: $black; background: #D4D4D4; text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: background $fast;">{{- tag -}}</a>
+          {%- endfor -%}
+          </div>
+        {% else %}
+          <div class="tags" style="margin: 0; padding: 0;">
+            <a class="tag" style="display: inline-block; margin: 0; padding: 5px 15px; border-radius: 999px; color: $black; background: #D4D4D4; text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; transition: background $fast;">Other</a>
+          </div>
+        {% endif %}
       </div>
       <br>
     {% endfor %}
