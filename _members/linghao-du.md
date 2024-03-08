@@ -9,7 +9,7 @@ links:
   email: du.li@husky.neu.edu
   linkedin: linghao-du-466299138/
 topics: # must be "sim" "net" "ml" or "blood"
-  - 
+  - sim
 ---
 
 {% assign topics = page.topics | default: empty_array %}

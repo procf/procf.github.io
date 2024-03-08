@@ -11,7 +11,6 @@ links:
   github: joshdarosa
 topics: # must be "sim" "net" "ml" or "blood"
   - sim
-  - net
   - ml
 ---
 

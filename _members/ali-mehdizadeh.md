@@ -10,7 +10,8 @@ links:
     email: mehdizadehrahimi.a@husky.neu.edu
     linkedin: alimehdizadehrahimi
 topics: # must be "sim" "net" "ml" or "blood"
-  - 
+  - sim
+  - ml
 ---
 
 {% assign topics = page.topics | default: empty_array %}
