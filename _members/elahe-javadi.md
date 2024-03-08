@@ -9,14 +9,18 @@ aliases:
 links:
   email: elahe.jvd@gmail.com
   google-scholar: vLviwfgAAAAJ&hl
+topics: 
+  - blood
 ---
 
-{%- assign custom_tags = "Hemorheology" | split: "," -%}
-{%- assign tags = custom_tags | default: emptyarray -%}
-{%- if tags.size > 0 or repo or repo_link -%}
+{% assign topics = page.topics | default: empty_array %}
+{%- if topics.size > 0 -%}
   <div class="tags">
-    {%- for tag in tags -%}
-      <a href="https://rheoinformatic.com/research/blood/" class="tag" data-tooltip='View research area'>{{- tag -}}</a>
+    {%- for tag in topics -%}
+      {%- assign topic_tag = tag -%}
+      {%- assign topic_link = "https://rheoinformatic.com/members/" -%}
+      {%- assign topic_link = topic_link | append: topic_tag %}
+      <a href="{{ topic_link }}" class="tag" data-tooltip='View research area'>{{- tag -}}</a>
     {%- endfor -%}
       </div>
 {%- endif -%}
