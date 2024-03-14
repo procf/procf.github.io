@@ -6,7 +6,7 @@ title: Scientific Machine Learning
 
 {%
   include feature.html
-  image="images/research_topics/ml.png"
+  image="images/research_topics/ml-long.png"
 %}
 
 

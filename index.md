@@ -14,10 +14,10 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
   style="square"
 
   image1="images/research_topics/colloids.png"
-  link1="research/sim"
+  link1="research/colloids"
   tooltip1="Colloidal Systems"
 
-  image2="images/research_topics/network-long.png"
+  image2="images/research_topics/network.png"
   link2="research/network"
   tooltip2="Network Science"
 
@@ -25,7 +25,7 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
   link3="research/ml"
   tooltip3="Scientific Machine Learning"
 
-  image4="images/research_topics/blood_no_text.png"
+  image4="images/research_topics/blood.png"
   link4="research/blood"
   tooltip4="Blood Rheology"
 %}
