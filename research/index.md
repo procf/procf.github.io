@@ -9,20 +9,20 @@ nav:
 {% include gallery.html style="square"
   image1="images/research_topics/sim-long.png"
   link1="research/sim"
-  <!-- tooltip1="Colloidal Systems" -->
+  tooltip1="Colloidal Systems"
 
   image2="images/research_topics/net-long.png"
   link2="research/net"
-  <!-- tooltip2="Network Science" -->
+  tooltip2="Network Science"
 
   image3="images/research_topics/ml.png"
   link3="research/ml"
-  <!-- tooltip3="Scientific Machine Learning" -->
+  tooltip3="Scientific Machine Learning"
   
 
   image4="images/research_topics/blood_no_text.png"
   link4="research/blood"
-  <!-- tooltip4="Blood Rheology" -->
+  tooltip4="Blood Rheology"
    %}
 
 
