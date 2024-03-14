@@ -15,8 +15,6 @@
 
   .gallery_item {
     // box-shadow: $shadow;
-    max-width: 50px; // Limit the maximum width of each gallery item
-    margin: auto; // Center the gallery items in their grid cell
   }
 
   &[data-style="square"] {
