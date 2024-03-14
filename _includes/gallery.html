@@ -18,8 +18,6 @@
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
 
-    <!--- 
-
     {%- if image -%}
       <a
         {% if link %}href="{{ link | relative_url }}"{% endif %}
@@ -30,17 +28,17 @@
       </a>
     {%- endif -%}
 
-    --> 
-    <!-- Paniz changed 03-01 -->
-
-    {%- if image -%}
-    <div class="gallery_item">
-      <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
-        <img src="{{ image | relative_url }}" loading="lazy">
-        <div class="overlay-text">{{ tooltip }}</div> <!-- This line adds the tooltip text overlay --> 
-      </a>
-    </div>
-    {%- endif -%}
-
   {%- endfor -%}
 </div>
+
+
+
+
+<!-- {%- if image -%}
+<div class="gallery_item">
+  <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
+    <img src="{{ image | relative_url }}" loading="lazy">
+    <div class="overlay-text">{{ tooltip }}</div> <!-- This line adds the tooltip text overlay --> 
+  </a>
+</div>
+{%- endif -%} -->
