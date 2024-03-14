@@ -57,4 +57,7 @@
   &[data-number="1"] {
     grid-template-columns: 1fr;
   }
+  &[data-number="4"] {
+    grid-template-columns: 1fr 1fr; // Ensures two items per row
+  }
 }
