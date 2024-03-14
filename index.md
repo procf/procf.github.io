@@ -13,12 +13,12 @@ Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeas
   include gallery.html
   style="square"
 
-  image1="images/research_topics/sim-long.png"
+  image1="images/research_topics/colloids.png"
   link1="research/sim"
   tooltip1="Colloidal Systems"
 
-  image2="images/research_topics/net-long.png"
-  link2="research/net"
+  image2="images/research_topics/network-long.png"
+  link2="research/network"
   tooltip2="Network Science"
 
   image3="images/research_topics/ml.png"

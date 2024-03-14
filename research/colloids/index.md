@@ -1,13 +1,13 @@
 ---
-title: Particle Simulation
+title: Colloidal Systems
 ---
 
-# <i class="fas sim"></i>Colloidal Systems
+# <i class="fas colloids"></i>Colloidal Systems
 
 
 {%
   include feature.html
-  image="images/research_topics/sim-long.png"
+  image="images/research_topics/colloids-long.png"
 %}
 
 

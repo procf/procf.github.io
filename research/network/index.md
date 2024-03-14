@@ -2,11 +2,11 @@
 title: Network Science
 ---
 
-# <i class="fas net"></i>Network Science
+# <i class="fas network"></i>Network Science
 
 {%
   include feature.html
-  image="images/research_topics/net-long.png"
+  image="images/research_topics/network-long.png"
 %}
 
 

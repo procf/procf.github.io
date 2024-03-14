@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: Scientific Machine Learning
 ---
 
 # <i class="fas ml"></i>Scientific Machine Learning
