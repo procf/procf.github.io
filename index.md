@@ -5,7 +5,7 @@ title: Home
 # Physics and Rheology of Complex Fluids
 
 
-Welcome to the Physics and Rheology of Complex Fluids (PRO-CF) group at Northeastern University! Our research focuses on computational methods for studying rheology -- the science of complex fluids. We use computational modeling, network science, and machine learning techniques to study and predict the properties of complex and structured fluids.
+Welcome to the Rheoinformatic Lab at Northeastern University! Our research focuses on computational methods for studying rheology -- the science of complex fluids. We use computational modeling, network science, and machine learning techniques to study and predict the properties of complex and structured fluids.
 
 
 
