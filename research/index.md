@@ -7,11 +7,11 @@ nav:
 # <i class="fas research"></i>Research
 
 {% include gallery.html style="square"
-  image1="images/research_topics/colloids-long.png"
+  image1="images/research_topics/colloids.png"
   link1="research/colloids"
   tooltip1="Colloidal Systems"
 
-  image2="images/research_topics/network-long.png"
+  image2="images/research_topics/network.png"
   link2="research/network"
   tooltip2="Network Science"
 
