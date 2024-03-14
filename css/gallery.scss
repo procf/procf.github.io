@@ -13,50 +13,48 @@
   @include big-margins;
   @include trim-v-margins;
 
-  // Default gallery item styling
   .gallery_item {
-    position: relative;
-    
-    img {
-      position: absolute;
-      left: 0;
-      top: 0;
-      object-fit: cover;
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      transition: transform 0.3s ease-in-out;
-      
-      &:hover {
-        transform: scale(1.2);
+    // box-shadow: $shadow;
+  }
+
+  &[data-style="square"] {
+    .gallery_item {
+      position: relative;
+
+      &:before {
+        content: "";
+        display: block;
+        padding-top: 100%;
+      }
+
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        object-fit: cover;
+        min-width: 100%;
+        min-height: 100%;
       }
     }
   }
 
-  // Custom research layout
-  &[data-style="research-layout"] {
-    grid-template-columns: repeat(2, 1fr); // 2 columns by default
+  @media (min-width: $tablet) {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 
-    .gallery_item {
-      // Reset some styles if needed
-      grid-column-end: span 1;
-    }
+  @media (max-width: $tablet) {
+    grid-template-columns: 1fr 1fr;
+  }
 
-    .gallery_item:nth-child(-n+2) {
-      // Make the first two items span two columns
-      grid-column: span 2;
-    }
+  @media (max-width: $phone) {
+    grid-template-columns: 1fr !important;
+  }
 
-    @media (min-width: $tablet) {
-      grid-template-columns: repeat(2, 1fr); // Keep it to 2 columns for simplicity
-    }
+  &[data-number="2"] {
+    grid-template-columns: 1fr 1fr;
+  }
 
-    @media (max-width: $tablet) {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
-    @media (max-width: $phone) {
-      grid-template-columns: 1fr;
-    }
+  &[data-number="1"] {
+    grid-template-columns: 1fr;
   }
 }
