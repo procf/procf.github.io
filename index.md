@@ -32,7 +32,7 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
 # Our featured works
 
-{% include gallery.html style="square"
+{% include gallery_Journal.html style="square"
   image1="images/featured/JoR_2018.jpg"
   link1="#"
   tooltip1="Journal of Rheology 2018"

@@ -1,0 +1,38 @@
+{%- assign max = 0 -%}
+
+{%- for i in (1..100) -%}
+  {%- assign image = "image" | append: i -%}
+  {%- assign image = include[image] -%}
+  {%- if image -%}
+    {%- assign max = i -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div class="gallery_Journal" data-style="{{ include.style }}" data-number="{{ max }}">
+  {%- for i in (1..100) -%}
+
+    {%- assign image = "image" | append: i -%}
+    {%- assign image = include[image] -%}
+    {%- assign tooltip = "tooltip" | append: i -%}
+    {%- assign tooltip = include[tooltip] -%}
+    {%- assign link = "link" | append: i -%}
+    {%- assign link = include[link] -%}
+
+    {% if image %}
+    <div class="gallery_item">
+      <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
+        <img src="{{ image | relative_url }}" loading="lazy">
+        {% if i == 3 %} <!-- Paniz add 03-15 Check if it's the third image -->
+        <div class="overlay-text smaller">{{ tooltip }}</div> <!-- Paniz add 03-15 add a class to make it smaller -->
+        {% else %}<!-- Paniz add 03-15 -->
+        <div class="overlay-text">{{ tooltip }}</div>
+        {% endif %}<!-- Paniz add 03-15 -->
+      </a>
+    </div>
+    {% endif %}
+
+  {% endfor %}
+</div>
+
+
+

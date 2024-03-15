@@ -1,0 +1,97 @@
+---
+---
+
+@import "palettes";
+@import "theme";
+@import "mixins";
+
+.gallery_Journal {
+  display: grid;
+  grid-gap: 60px; //Paniz changed 03-15 it was 40px
+  justify-content: center;
+  align-items: center;
+  @include big-margins;
+  @include trim-v-margins;
+
+
+
+  .gallery_item {
+    // box-shadow: $shadow;
+  }
+
+  &[data-style="square"] {
+    .gallery_item {
+      position: relative;
+
+      &:before {
+        content: "";
+        display: block;
+        padding-top: 100%;
+      }
+
+      img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        object-fit: cover;
+        min-width: 100%;
+        min-height: 100%;
+
+        // Apply border-radius to make the image round
+        object-fit: cover;
+        border-radius: 50%;    //Paniz add 03-01 to make image round
+        transition: transform 0.3s ease-in-out; //Paniz add 03-01 for image interaction
+      }
+    
+      img:hover {
+        transform: scale(1.2);  //Paniz add 03-01 for image interaction
+      }
+    }
+  }
+
+//Paniz add 03-01 for text interaction 
+ .overlay-text {
+  font-family: Candara, sans-serif; /* Inherit font from parent element changed in 03-15 */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black; /* Set initial text color to black */
+  text-decoration: none; /* Initially, no text decoration */
+  white-space: nowrap; /* Keep the text on a single line */
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+  padding: 5px 10px; /* Adjust padding as needed */
+  border-radius: 5px; /* Add rounded corners */
+  font-weight: bold; /* Make the text bold */
+  /*font-size: 16px;  Set the font size to 16 pixels */
+  font-size: min(6vw, 30px); /* Set font size relative to viewport width, with a minimum of 20px */
+}
+.overlay-text:hover {
+  text-decoration: underline; /* Underline text on hover */
+}
+overlay-text.smaller {
+  font-size: 24px; /* Set smaller font size for this specific overlay text */
+}
+//Paniz add 03-01 for text interaction 
+
+
+  @media (min-width: $tablet) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (max-width: $tablet) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (max-width: $phone) {
+    grid-template-columns: 1fr !important;
+  }
+
+  &[data-number="2"] {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  &[data-number="1"] {
+    grid-template-columns: 1fr;
+  }
+}
