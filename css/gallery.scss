@@ -13,10 +13,10 @@
   @include big-margins;
   @include trim-v-margins;
 
+
+
   .gallery_item {
-    max-width: 80%;
-    height: auto;
-    object-fit: cover;
+    // box-shadow: $shadow;
   }
 
   &[data-style="square"] {
@@ -36,9 +36,40 @@
         object-fit: cover;
         min-width: 100%;
         min-height: 100%;
+
+        // Apply border-radius to make the image round
+        object-fit: cover;
+        border-radius: 50%;    //Paniz add 03-01 to make image round
+        transition: transform 0.3s ease-in-out; //Paniz add 03-01 for image interaction
+      }
+    
+      img:hover {
+        transform: scale(1.2);  //Paniz add 03-01 for image interaction
       }
     }
   }
+
+//Paniz add 03-01 for text interaction 
+ .overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black; /* Set initial text color to black */
+  text-decoration: none; /* Initially, no text decoration */
+  white-space: nowrap; /* Keep the text on a single line */
+  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+  padding: 5px 10px; /* Adjust padding as needed */
+  border-radius: 5px; /* Add rounded corners */
+  font-weight: bold; /* Make the text bold */
+  /*font-size: 16px;  Set the font size to 16 pixels */
+  font-size: min(3vw, 20px); /* Set font size relative to viewport width, with a minimum of 20px */
+}
+.overlay-text:hover {
+  text-decoration: underline; /* Underline text on hover */
+}
+//Paniz add 03-01 for text interaction 
+
 
   @media (min-width: $tablet) {
     grid-template-columns: 1fr 1fr 1fr;
@@ -63,3 +94,9 @@
     grid-template-columns: 1fr 1fr; // Ensures two items per row
   }
 }
+
+
+
+
+
+
