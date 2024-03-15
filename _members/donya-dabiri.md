@@ -51,11 +51,11 @@ topics: # must be "sim" "net" "ml" or "blood"
 Donya Dabiri is a PhD candidate with a strong background in numerical methods, including computational fluid dynamics(CFD) and Lattice Boltzmann method(LBM) alongside implementing them through object-oriented programming in C++ and Python. Donya is now working on physics-informed neural networks (PINNs) and her research can be summarized in two categories: 
 
 1. **Fractional physics-informed neural networks (fPINNs):**
-   * Using fPINNs in fractional constitutive models of viscoelastic fluids in order to recover their rheological properties and fractional parameters
-   * Using fPINNs to solve fractional equations, including fractional ODEs (fODE), two and three dimensional fractional PDEs (fPDE)
+   * Using fPINNs in fractional constitutive models of viscoelastic fluids in order to recover their rheological properties and fractional parameters.
+   * Using fPINNs to solve fractional equations, including fractional ODEs (fODE), two and three dimensional fractional PDEs (fPDE).
 
 2. **Model discovery from scarce and noisy data:**
-   * Applying sparse regression in PINNs in order to unravel governing equations from scarce and noisy data
+   * Applying sparse regression in PINNs in order to unravel governing equations from scarce and noisy data.
 
 Donya is highly passionate about a variety of fields related to machine learning and is open to collaborations and innovative ideas. Feel free to reach out!
 
