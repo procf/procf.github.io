@@ -41,26 +41,18 @@
     }
   }
 
-  /* Media queries for responsiveness */
-  @media (min-width: 768px) {
-    .gallery_Journal {
-      grid-template-columns: repeat(3, 1fr); /* Three columns on tablets and larger screens */
-    }
+  @media (min-width: $tablet) {
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
-  @media (max-width: 767px) {
-    .gallery_Journal {
-      grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
-    }
+  @media (max-width: $tablet) {
+    grid-template-columns: 1fr 1fr;
   }
 
-  @media (max-width: 480px) {
-    .gallery_Journal {
-      grid-template-columns: 1fr; /* Single column on phones */
-    }
+  @media (max-width: $phone) {
+    grid-template-columns: 1fr !important;
   }
 
-  /* Styles based on number of items */
   &[data-number="2"] {
     grid-template-columns: 1fr 1fr;
   }
