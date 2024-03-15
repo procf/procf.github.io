@@ -1,92 +1,67 @@
 ---
 ---
 
+/* Importing any necessary CSS files */
 @import "palettes";
 @import "theme";
 @import "mixins";
 
+/* Styles for the gallery */
 .gallery_Journal {
   display: grid;
-  grid-gap: 60px; //Paniz changed 03-15 it was 40px
+  grid-gap: 60px; /* Increased gap between images */
   justify-content: center;
   align-items: center;
-  @include big-margins;
-  @include trim-v-margins;
+  margin-top: 40px; /* Adjust as needed */
+  margin-bottom: 40px; /* Adjust as needed */
 
-
-
+  /* Styles for individual gallery items */
   .gallery_item {
-    // box-shadow: $shadow;
+    /* No specific styles defined here */
   }
 
+  /* Styles for square layout */
   &[data-style="square"] {
     .gallery_item {
       position: relative;
+    }
 
-      &:before {
-        content: "";
-        display: block;
-        padding-top: 100%;
-      }
+    .gallery_item:before {
+      content: "";
+      display: block;
+      padding-top: 100%; /* Maintain aspect ratio for square layout */
+    }
 
-      img {
-        position: absolute;
-        left: 0;
-        top: 0;
-        object-fit: cover;
-        min-width: 100%;
-        min-height: 100%;
-
-        // Apply border-radius to make the image round
-        object-fit: cover;
-        border-radius: 50%;    //Paniz add 03-01 to make image round
-        transition: transform 0.3s ease-in-out; //Paniz add 03-01 for image interaction
-      }
-    
-      img:hover {
-        transform: scale(1.2);  //Paniz add 03-01 for image interaction
-      }
+    img {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
     }
   }
 
-//Paniz add 03-01 for text interaction 
- .overlay-text {
-  font-family: Candara, sans-serif; /* Inherit font from parent element changed in 03-15 */
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: black; /* Set initial text color to black */
-  text-decoration: none; /* Initially, no text decoration */
-  white-space: nowrap; /* Keep the text on a single line */
-  background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
-  padding: 5px 10px; /* Adjust padding as needed */
-  border-radius: 5px; /* Add rounded corners */
-  font-weight: bold; /* Make the text bold */
-  /*font-size: 16px;  Set the font size to 16 pixels */
-  font-size: min(6vw, 30px); /* Set font size relative to viewport width, with a minimum of 20px */
-}
-.overlay-text:hover {
-  text-decoration: underline; /* Underline text on hover */
-}
-overlay-text.smaller {
-  font-size: 24px; /* Set smaller font size for this specific overlay text */
-}
-//Paniz add 03-01 for text interaction 
-
-
-  @media (min-width: $tablet) {
-    grid-template-columns: 1fr 1fr;
+  /* Media queries for responsiveness */
+  @media (min-width: 768px) {
+    .gallery_Journal {
+      grid-template-columns: repeat(3, 1fr); /* Three columns on tablets and larger screens */
+    }
   }
 
-  @media (max-width: $tablet) {
-    grid-template-columns: 1fr 1fr;
+  @media (max-width: 767px) {
+    .gallery_Journal {
+      grid-template-columns: repeat(2, 1fr); /* Two columns on smaller screens */
+    }
   }
 
-  @media (max-width: $phone) {
-    grid-template-columns: 1fr !important;
+  @media (max-width: 480px) {
+    .gallery_Journal {
+      grid-template-columns: 1fr; /* Single column on phones */
+    }
   }
 
+  /* Styles based on number of items */
   &[data-number="2"] {
     grid-template-columns: 1fr 1fr;
   }
