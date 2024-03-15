@@ -9,6 +9,7 @@
 /* Styles for the gallery */
 .gallery_Journal {
   display: grid;
+  grid-gap: 20px; /* Adjust the gap between rows as needed */
   justify-content: center;
   align-items: center;
   margin-top: 40px; /* Adjust as needed */
