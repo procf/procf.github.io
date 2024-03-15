@@ -14,7 +14,7 @@ simulations and aim to build a truly multi-scale physical description to colloid
 and more generally soft glassy materials.
 
 <p style="text-align: center;">
-  <a href=https://rheoinformatic.com/publications/?search=%22tag:Colloidal%20Systems%22>Browse All Colloidal Systems Publications</a>
+  <a href="https://rheoinformatic.com/publications/?search=%22tag:Colloidal%20Systems%22">Browse All Colloidal Systems Publications</a>
 </p>
 
 {% include section.html %}
