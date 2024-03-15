@@ -22,11 +22,11 @@
     <div class="gallery_item">
       <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
         <img src="{{ image | relative_url }}" loading="lazy">
-        {% if i == 3 %} <!-- Check if it's the third image -->
-        <div class="overlay-text smaller">{{ tooltip }}</div> <!-- Add a class to the specific overlay text -->
-        {% else %}
+        {% if i == 3 %} <!-- Paniz add 03-15 Check if it's the third image -->
+        <div class="overlay-text smaller">{{ tooltip }}</div> <!-- Paniz add 03-15 add a class to make it smaller -->
+        {% else %}<!-- Paniz add 03-15 -->
         <div class="overlay-text">{{ tooltip }}</div>
-        {% endif %}
+        {% endif %}<!-- Paniz add 03-15 -->
       </a>
     </div>
     {% endif %}
