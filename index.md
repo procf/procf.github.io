@@ -28,9 +28,9 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
   tooltip4="Blood Rheology"
 %}
 
-# Our featured works
 {% include section.html %}
 
+# Our featured works
 
 {% include gallery.html style="square"
   image1="images/featured/JoR_2018.jpg"
