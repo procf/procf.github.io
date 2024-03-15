@@ -2,7 +2,7 @@
 title: Scientific Machine Learning
 ---
 
-# <i class="fas ml"></i>Scientific Machine Learning
+# <i class="fas scientific-machine-learning"></i>Scientific Machine Learning
 
 
 As a computational lab, we do a lot of machine learning simulations in rheology. But there is more to it.

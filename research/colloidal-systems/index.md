@@ -2,7 +2,7 @@
 title: Colloidal Systems
 ---
 
-# <i class="fas colloids"></i>Colloidal Systems
+# <i class="fas colloidal-systems"></i>Colloidal Systems
 
 
 In our lab, we are deeply interested in gaining insight into the physics and rheology of

@@ -2,7 +2,7 @@
 title: Blood Rheology
 ---
 
-# <i class="fas blood"></i>Blood Rheology
+# <i class="fas blood-rheology"></i>Blood Rheology
 
 
 Hemorheology and hemodynamics, or the study of how blood flows through our body is a known diagnostic tool for many diseases. Understanding the physical laws that govern flow of different cells within our vasculature system holds the key to a wide spectrum of diagnostics as well as treatments. Computational methods allow us to accurately simulate blood flow and gain important insights on hemorheological phenomena. 
