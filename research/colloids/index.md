@@ -4,12 +4,6 @@ title: Colloidal Systems
 
 # <i class="fas colloids"></i>Colloidal Systems
 
-<!--
-{%
-  include feature.html
-  image="images/research_topics/colloids-long.png"
-%}
--->
 
 In our lab, we are deeply interested in gaining insight into the physics and rheology of
 particulate systems. Our research primarily focuses on understanding the coupling

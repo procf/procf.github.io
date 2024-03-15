@@ -4,12 +4,6 @@ title: Network Science
 
 # <i class="fas network"></i>Network Science
 
-<!--
-{%
-  include feature.html
-  image="images/research_topics/network-long.png"
-%}
--->
 
 We use network science to study the collective dynamics and structural features that give rise to different rheological properties. In soft materials, the relationship between stress and deformation is generally linked to their underlying microstructure and its evolution under flowing conditions. However, these systems are commonly complex and disordered, which makes it hard to identify structural features and track their effects. Network science provides a suite of tools to help us solve this challenge. By representing the entire system of interacting particles as a network, we are able to study their collective behavior and reveal previously hidden details that link the micro and macro scales. The goal of this research is to quantify mesoscale and understand its coupling to micro and macro scales. These truly informed multiscale relationships may hold the key to design of new soft materials with rheological properties from particle microstructure.  
 
