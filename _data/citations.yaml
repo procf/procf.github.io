@@ -12,7 +12,9 @@
   link: https://doi.org/gtg8cm
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1016/j.polymertesting.2013.03.005
   title: Dispersion and re-agglomeration phenomena during melt mixing of polypropylene
     with multi-wall carbon nanotubes
@@ -25,7 +27,9 @@
   link: https://doi.org/f4zw22
   image: https://procf.github.io/images/journal_covers/polym_test.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1063/1.4919303
   title: Generalized mapping of multi-body dissipative particle dynamics onto fluid
     compressibility and the Flory-Huggins theory
@@ -41,9 +45,11 @@
   link: https://doi.org/gtg8cn
   image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
   charge: milad-saadat
   repo: https://github.com/procf/RhINNs
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1016/j.cpc.2015.05.027
   title: Viscosity measurement techniques in Dissipative Particle Dynamics
   authors:
@@ -55,7 +61,9 @@
   link: https://doi.org/f7twb4
   image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1039/C5SM01560J
   title: Polymer-mediated nanorod self-assembly predicted by dissipative particle
     dynamics simulations
@@ -70,7 +78,9 @@
   link: https://doi.org/gtgxmr
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1016/j.cpc.2015.08.003
   title: Gaussian-inspired auxiliary non-equilibrium thermostat (GIANT) for Dissipative
     Particle Dynamics simulations
@@ -85,6 +95,8 @@
   image: https://procf.github.io/images/journal_covers/comp_phys_comm.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1122/1.4931655
   title: Microstructure and rheology of soft to rigid shear-thickening colloidal suspensions
   authors:
@@ -97,7 +109,9 @@
   link: https://doi.org/f7xzz2
   image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1021/acs.macromol.6b01011
   title: Conformational Transitions of Polymer Brushes for Reversibly Switching Graphene
     Transistors
@@ -115,7 +129,9 @@
   link: https://doi.org/gtgxms
   image: https://procf.github.io/images/journal_covers/macromol.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1103/PhysRevLett.119.158001
   title: Rheological State Diagrams for Rough Colloids in Shear Flow
   authors:
@@ -130,7 +146,9 @@
   link: https://doi.org/gcg5w6
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1039/C6SM00750C
   title: Structural fingerprints of yielding mechanisms in attractive colloidal gels
   authors:
@@ -143,6 +161,8 @@
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Network Science
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1103/PhysRevLett.118.048003
   title: Microstructural Rearrangements and their Rheological Implications in a Model
     Thixotropic Elastoviscoplastic Fluid
@@ -155,7 +175,9 @@
   link: https://doi.org/gf84jr
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1103/PhysRevLett.123.138002
   title: 'Alternative Frictional Model for Discontinuous Shear Thickening of Dense
     Suspensions: Hydrodynamics'
@@ -167,7 +189,9 @@
   link: https://doi.org/gqt326
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1016/j.mtadv.2019.100026
   title: Time-rate-transformation framework for targeted assembly of short-range attractive
     colloidal suspensions
@@ -181,6 +205,8 @@
   image: https://procf.github.io/images/journal_covers/mater_today_adv.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1103/PhysRevLett.123.248003
   title: Multiscale Nature of Thixotropy and Rheological Hysteresis in Attractive
     Colloidal Suspensions under Shear
@@ -193,7 +219,9 @@
   link: https://doi.org/gm7p4g
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1122/1.5134036
   title: A hydrodynamic model for discontinuous shear-thickening in dense suspensions
   authors:
@@ -205,11 +233,13 @@
   link: https://doi.org/gtgxmw
   image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
   name: milad-saadat
   url: https://github.com/procf/RhINNs
   charge: milad-saadat
   repo: https://github.com/procf/RhINNs
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1016/j.icheatmasstransfer.2020.104978
   title: Entropy analysis and thermal optimization of nanofluid impinging jet using
     artificial neural network and genetic algorithm
@@ -224,6 +254,8 @@
   image: https://procf.github.io/images/journal_covers/intl_comm_heat_mass_transfer.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1122/8.0000174
   title: 'Rheology discussions: The physics of dense suspensions'
   authors:
@@ -235,7 +267,9 @@
   link: https://doi.org/gqt3kw
   image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1098/rsif.2020.0834
   title: Integrating blood cell mechanics, platelet adhesive dynamics and coagulation
     cascade for modelling thrombus formation in normal and diabetic blood
@@ -256,6 +290,8 @@
   image: https://procf.github.io/images/journal_covers/j_royal_soc_interface.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1016/j.bpj.2021.05.013
   title: In silico biophysics and hemorheology of blood hyperviscosity syndrome
   authors:
@@ -269,6 +305,8 @@
   image: https://procf.github.io/images/journal_covers/biophys.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1038/s41598-021-91518-3
   title: Rheology-Informed Neural Networks (RhINNs) for forward and inverse metamodelling
     of complex fluids
@@ -281,6 +319,8 @@
   image: https://procf.github.io/images/journal_covers/scientific_rep.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1038/s41467-021-24416-x
   title: Life and death of colloidal bonds control the rate-dependent rheology of
     gels
@@ -293,6 +333,8 @@
   image: https://procf.github.io/images/journal_covers/nature_comm.jpg
   tags:
   - Network Science
+  repo_link: null
+  main_author: Mohammad Nabizadeh
 - id: 10.1039/D1SM00856K
   title: 'Hemorheology: the critical role of flow type in blood viscosity measurements'
   authors:
@@ -304,6 +346,8 @@
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1103/PhysRevLett.127.158002
   title: Jamming Distance Dictates Colloidal Shear Thickening
   authors:
@@ -317,7 +361,9 @@
   link: https://doi.org/gm3xc7
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Mohammad Nabizadeh
 - id: 10.1039/D1SM01298C
   title: 'nn-PINNs: Non-Newtonian physics-informed neural networks for complex fluid
     modeling'
@@ -331,6 +377,8 @@
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1016/j.jcis.2021.11.195
   title: Increasing efficiency and accuracy of magnetic interaction calculations in
     colloidal simulation through machine learning
@@ -347,6 +395,8 @@
   image: https://procf.github.io/images/journal_covers/j_coll_interface_sci.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1122/8.0000432
   title: The Mnemosyne number and the rheology of remembrance
   authors:
@@ -358,6 +408,8 @@
   image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Network Science
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1063/5.0079214
   title: Thixotropy and rheological hysteresis in blood flow
   authors:
@@ -369,6 +421,8 @@
   image: https://procf.github.io/images/journal_covers/j_chem_phys.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1073/pnas.2202234119
   title: 'Digital rheometer twins: Learning the hidden rheology of complex fluids
     through rheology-informed graph neural networks'
@@ -383,6 +437,8 @@
   image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1103/PhysRevLett.129.068001
   title: Structure and Dynamics of Force Clusters and Networks in Shear Thickening
     Suspensions
@@ -395,7 +451,9 @@
   link: https://doi.org/gqt3gs
   image: https://procf.github.io/images/journal_covers/phys_rev_lett.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Mohammad Nabizadeh
 - id: 10.1007/s00397-022-01357-w
   title: Data-driven selection of constitutive models via rheology-informed neural
     networks (RhINNs)
@@ -409,6 +467,8 @@
   image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Milad Saadat
 - id: 10.1016/j.bpj.2022.08.031
   title: Circulating cell clusters aggravate the hemorheological abnormalities in
     COVID-19
@@ -440,6 +500,8 @@
   image: https://procf.github.io/images/journal_covers/j_clin_med_case_reports.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1063/5.0106700
   title: Drag reduction and the Vogel exponent of a flexible beam in transient shear
     flows
@@ -453,7 +515,9 @@
   link: https://doi.org/gtgxm5
   image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Ali Mehdizadeh
 - id: https://doi.org/10.26434/chemrxiv-2021-dz2d8
   title: Predicting Solvation Thermodynamics in Water and Ionic Liquids using the
     Multi-Scale Solvation Layer Interface Condition (SLIC)
@@ -468,6 +532,8 @@
   image: https://procf.github.io/images/journal_covers/chemrxiv.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Ali Mehdizadeh
 - id: 10.1021/acs.jctc.2c00248
   title: Solvation Thermodynamics of Solutes in Water and Ionic Liquids Using the
     Multiscale Solvation-Layer Interface Condition Continuum Model
@@ -482,6 +548,8 @@
   image: https://procf.github.io/images/journal_covers/j_chem_theory_comp.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Ali Mehdizadeh
 - id: 10.1007/s00397-023-01408-w
   title: Fractional rheology-informed neural networks for data-driven identification
     of viscoelastic constitutive models
@@ -496,6 +564,8 @@
   image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Donya Dabiri
 - id: 10.1007/s00397-023-01416-w
   title: Data-driven methods in Rheology
   authors:
@@ -507,6 +577,8 @@
   image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Safa Jamali
 - id: 10.1063/5.0169051
   title: Characterizing blood hysteresis via tensorial thixo-elasto-viscoplastic modeling
   authors:
@@ -522,6 +594,8 @@
   image: https://procf.github.io/images/journal_covers/phys_fluids.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1073/pnas.2313658121
   title: Unbiased construction of constitutive relations for soft materials from experiments
     via rheology-informed neural networks
@@ -536,6 +610,8 @@
   image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Amin Mahmoudabad
 - id: 10.1103/PhysRevE.109.014602
   title: Predicting yielding in attractive colloidal gels
   authors:
@@ -547,7 +623,9 @@
   link: https://doi.org/gtg8cq
   image: https://procf.github.io/images/journal_covers/phys_rev_e.jpg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
+  repo_link: null
+  main_author: Deepak Mangal
 - id: 10.1073/pnas.2316394121
   title: 'Network physics of attractive colloidal gels: Resilience, rigidity, and
     phase diagram'
@@ -567,6 +645,8 @@
   image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
   - Network Science
+  repo_link: null
+  main_author: Mohammad Nabizadeh
 - id: 10.1122/8.0000552
   title: A fully physiologically-informed time- and rate-dependent hemorheological
     constitutive model
@@ -580,6 +660,8 @@
   image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
   - Hemorheology
+  repo_link: null
+  main_author: Elahe Javadi
 - id: 10.1039/D3DD00036B
   title: A rheologist's guideline to data-driven recovery of complex fluids' parameters
     from constitutive models
@@ -593,6 +675,8 @@
   image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
   - Machine Learning
+  repo_link: null
+  main_author: Milad Saadat
 - id: 10.1063/5.0123096
   title: Topological origins of yielding in short-ranged weakly attractive colloidal
     gels
@@ -605,5 +689,7 @@
   link: https://doi.org/gtgxm7
   image: https://procf.github.io/images/journal_covers/jcp_2023.jpeg
   tags:
-  - Particle Simulation
+  - Colloidal Systems
   - Network Science
+  repo_link: null
+  main_author: Deepak Mangal
