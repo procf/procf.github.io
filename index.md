@@ -35,19 +35,19 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
 
 {% include gallery.html style="square"
-  image1="images/featured/JOR_2018.jpg"
+  image1="images/featured/JoR_2018.jpg"
   link1="#"
   tooltip1="JoR 2018"
   
-  image2="images/featured/JOR_2019.jpg"
+  image2="images/featured/JoR_2019.jpg"
   link2="#"
   tooltip2="JoR 2019"
   
-  image3="images/featured/JOR_2020.jpg"
+  image3="images/featured/JoR_2020.jpg"
   link3="#"
   tooltip3="JoR 2020"
   
-  image4="images/featured/JOR_2021.jpg"
+  image4="images/featured/JoR_2021.jpg"
   link4="#"
   tooltip4="JoR 2021"
   
@@ -55,7 +55,7 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
   link5="#"
   tooltip5="Soft Matter 2021"
   
-  image6="images/featured/JOR_2022.jpg"
+  image6="images/featured/JoR_2022.jpg"
   link6="#"
   tooltip6="JoR 2022"
   
