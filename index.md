@@ -33,5 +33,41 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
 <!-- section break -->
 
-<!-- section full -->
 
+{% include gallery.html style="square"
+  image1="images/featured/PRL.png"
+  link1="#"
+  tooltip1="Featured Work 1"
+  
+  image2="images/featured/PRL.png"
+  link2="#"
+  tooltip2="Featured Work 2"
+  
+  image3="images/featured/PRL.png"
+  link3="#"
+  tooltip3="Featured Work 3"
+  
+  image4="images/featured/PRL.png"
+  link4="#"
+  tooltip4="Featured Work 4"
+  
+  image5="images/featured/PRL.png"
+  link5="#"
+  tooltip5="Featured Work 5"
+  
+  image6="images/featured/PRL.png"
+  link6="#"
+  tooltip6="Featured Work 6"
+  
+  image7="images/featured/PRL.png"
+  link7="#"
+  tooltip7="Featured Work 7"
+  
+  image8="images/featured/PRL.png"
+  link8="#"
+  tooltip8="Featured Work 8"
+  
+  image9="images/featured/PRL.png"
+  link9="#"
+  tooltip9="Featured Work 9"
+%}
