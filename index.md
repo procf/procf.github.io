@@ -34,7 +34,6 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
 {% 
   include gallery_Journal.html 
-  style="square"
   
   image1="images/featured/JoR_2018.jpg"
   link1="#"
