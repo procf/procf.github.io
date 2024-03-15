@@ -63,7 +63,7 @@
   border-radius: 5px; /* Add rounded corners */
   font-weight: bold; /* Make the text bold */
   /*font-size: 16px;  Set the font size to 16 pixels */
-  font-size: min(4vw, 24px); /* Set font size relative to viewport width, with a minimum of 20px */
+  font-size: min(6vw, 30px); /* Set font size relative to viewport width, with a minimum of 20px */
 }
 .overlay-text:hover {
   text-decoration: underline; /* Underline text on hover */
