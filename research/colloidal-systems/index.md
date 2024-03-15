@@ -13,6 +13,9 @@ mechanics of the colloidal system at the macroscale. We pursue this through deta
 simulations and aim to build a truly multi-scale physical description to colloidal rheology,
 and more generally soft glassy materials.
 
+<p style="text-align: center;">
+  <a href=https://rheoinformatic.com/publications/?search=%22tag:Colloidal%20Systems%22>Browse All Colloidal Systems Publications</a>
+</p>
 
 {% include section.html %}
 

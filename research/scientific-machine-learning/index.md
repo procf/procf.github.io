@@ -7,6 +7,9 @@ title: Scientific Machine Learning
 
 As a computational lab, we do a lot of machine learning simulations in rheology. But there is more to it.
 
+<p style="text-align: center;">
+  <a href=https://rheoinformatic.com/publications/?search=%22tag:Machine%20Learning%22>Browse All Machine Learning Publications</a>
+</p>
 
 {% include section.html %}
 
