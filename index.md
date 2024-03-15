@@ -11,11 +11,11 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
   include gallery.html
   style="square"
 
-  image1="images/research_topics/colloids.png"
+  image1="images/research_topics/colloids-long.png"
   link1="research/colloids"
   tooltip1="Colloidal Systems"
 
-  image2="images/research_topics/network.png"
+  image2="images/research_topics/network-long.png"
   link2="research/network"
   tooltip2="Network Science"
 
