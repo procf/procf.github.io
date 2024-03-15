@@ -1,9 +1,9 @@
-- name: RhiNNS
+- name: RhINNs
   group: featured
   image: images/procf-inklogo.jpeg
   link: https://github.com/procf/RhINNs
-  description: Rheology Informed Neural Networks (RhiNNS) and other Rheology-informed Machine Learning Algorithms.
-  repo: procf/RhiNNs
+  description: Rheology Informed Neural Networks (RhINNs) and other Rheology-informed Machine Learning Algorithms.
+  repo: procf/RhINNs
 
 - name: Cool Package
   group: more
