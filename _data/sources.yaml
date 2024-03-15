@@ -237,7 +237,7 @@
   image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
     - Machine Learning
-  repo_link: 
+  repo_link: https://github.com/procf/RhINNs/tree/main/steady_state_model_selection
   main_author: Milad Saadat
 
 
@@ -286,7 +286,7 @@
   image: https://procf.github.io/images/journal_covers/rheologica_acta.png
   tags:
     - Machine Learning
-  repo_link: 
+  repo_link: https://github.com/procf/RhINNs/tree/main/fractional_models
   main_author: Donya Dabiri
 
 
@@ -342,7 +342,7 @@
   image: https://procf.github.io/images/journal_covers/digital_disc.png
   tags:
     - Machine Learning
-  repo_link: 
+  repo_link: https://github.com/procf/RhINNs/tree/main/transient_model_selection
   main_author: Milad Saadat
 
 
