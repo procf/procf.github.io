@@ -35,39 +35,39 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
 
 {% include gallery.html style="square"
-  image1="images/featured/PRL.png"
+  image1="images/featured/JOR_2018.jpg"
   link1="#"
-  tooltip1="Featured Work 1"
+  tooltip1="JoR 2018"
   
-  image2="images/featured/PRL.png"
+  image2="images/featured/JOR_2019.jpg"
   link2="#"
-  tooltip2="Featured Work 2"
+  tooltip2="JoR 2019"
   
-  image3="images/featured/PRL.png"
+  image3="images/featured/JOR_2020.jpg"
   link3="#"
-  tooltip3="Featured Work 3"
+  tooltip3="JoR 2020"
   
-  image4="images/featured/PRL.png"
+  image4="images/featured/JOR_2021.jpg"
   link4="#"
-  tooltip4="Featured Work 4"
+  tooltip4="JoR 2021"
   
-  image5="images/featured/PRL.png"
+  image5="images/featured/SM_2021.png"
   link5="#"
-  tooltip5="Featured Work 5"
+  tooltip5="Soft Matter 2021"
   
-  image6="images/featured/PRL.png"
+  image6="images/featured/JOR_2022.jpg"
   link6="#"
-  tooltip6="Featured Work 6"
+  tooltip6="JoR 2022"
   
-  image7="images/featured/PRL.png"
+  image7="images/featured/BPJ_2022.jpg"
   link7="#"
-  tooltip7="Featured Work 7"
+  tooltip7="Biophysics Journal 2022"
   
-  image8="images/featured/PRL.png"
+  image8="images/featured/PRL_2022.png"
   link8="#"
-  tooltip8="Featured Work 8"
+  tooltip8="Physical Review Letters 2022"
   
-  image9="images/featured/PRL.png"
+  image9="images/featured/DD_2023.jpg"
   link9="#"
-  tooltip9="Featured Work 9"
+  tooltip9="Digital Discovery 2023"
 %}
