@@ -20,7 +20,7 @@ Boston, MA 02115
 </div>
 
 <hr>
-### <i class="fas fa-mail-bulk"></i>Safa Jamali
+### <i class="fas fa-mail-bulk"></i>The Rheoinformatic Lab
 
 
 Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineering](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
