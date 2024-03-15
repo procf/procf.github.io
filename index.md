@@ -21,7 +21,7 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 
   image3="images/research_topics/ml2.png"
   link3="research/ml"
-  tooltip3="Scientific Machine Learning"
+  tooltip3="Scientific Machine Learning "
 
   image4="images/research_topics/blood_no_text.png"
   link4="research/blood"
