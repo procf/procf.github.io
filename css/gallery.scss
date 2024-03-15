@@ -69,6 +69,9 @@
 .overlay-text:hover {
   text-decoration: underline; /* Underline text on hover */
 }
+overlay-text.smaller {
+  font-size: 26px; /* Set smaller font size for this specific overlay text */
+}
 //Paniz add 03-01 for text interaction 
 
 

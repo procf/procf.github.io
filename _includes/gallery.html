@@ -18,18 +18,21 @@
     {%- assign link = "link" | append: i -%}
     {%- assign link = include[link] -%}
 
-    {%- if image -%}
+    {% if image %}
     <div class="gallery_item">
       <a {% if link %}href="{{ link | relative_url }}"{% endif %}>
         <img src="{{ image | relative_url }}" loading="lazy">
-        <div class="overlay-text">{{ tooltip }}</div> <!-- This line adds the tooltip text overlay --> 
+        {% if i == 3 %} <!-- Check if it's the third image -->
+        <div class="overlay-text smaller">{{ tooltip }}</div> <!-- Add a class to the specific overlay text -->
+        {% else %}
+        <div class="overlay-text">{{ tooltip }}</div>
+        {% endif %}
       </a>
     </div>
-    {%- endif -%}
+    {% endif %}
 
-  {%- endfor -%}
+  {% endfor %}
 </div>
-
 
 
 
