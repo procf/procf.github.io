@@ -24,7 +24,7 @@ Imagine you have a structured material in hand, interested in understanding its 
 
 # Constitutive model construction using machine learning
 
-ML headline 2 exp
+A vast number of complex fluids lack a proper governing equation, prohibiting rheologists from predicting and/or controlling the behavior of the fluid. Unfortunately, defining governing equations is not always feasible since data is often scarce and even noisy. On the other hand, physical equations only have a few terms, making them sparce in high-dimensional space. Leveraging the automaic differentiation feature of deep neural networks and encoding governing equations in PINNs alongside spacity of equations, offers promising results on discovery of governing equations.
 
 {% include section.html %}
 
