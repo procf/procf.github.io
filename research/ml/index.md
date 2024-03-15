@@ -28,7 +28,6 @@ ML headline 2 exp
 
 {% include section.html %}
 
-
 # Neural operators and transformers 
 
-ML headline 2 exp
+Let's 
