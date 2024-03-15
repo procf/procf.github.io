@@ -5,11 +5,12 @@ description: PhD Student
 role: grad
 group: current
 aliases:
+  - D. Dabiri
 links:
-  email: saadat.m@northeastern.edu
+  email: dabiri.d@northeastern.edu
   twitter: Villeneuvesci
-  github: villesci
-  google-scholar: BJlkwh0AAAAJ&hl
+  github: donya-dabiri
+  google-scholar: https://scholar.google.com/citations?user=zapUmOEAAAAJ&hl=en
 topics: # must be "sim" "net" "ml" or "blood"
   - ml
 ---
@@ -38,11 +39,25 @@ topics: # must be "sim" "net" "ml" or "blood"
 {%- endif -%}
 <hr>
 
-Andrew (Drew) Villeneuve (he/him/his) is a global change marine ecologist interested in working with data across scales of biological organization to better understand the effects of climate change on marine ecosystems and the people that depend on them. He specifically seeks to combine empirical data of organismal physiology and distribution, environmental and extreme event data, and fisheries data into models of ecosystem dynamics under climate change. 
+<br>
+**Education**
+<br>
+- M.Sc. in Mechanical Engineering - Energy Conversion (2020), University of Tehran
+- B.Sc. in Mechanical Engineering (2018), K. N. Toosi University of Technology
+<br>
+<hr>
 
-Andrew earned his bachelor’s in Biology from Bowdoin College in 2016 and his master’s in Environmental Conservation from the University of Massachusetts Amherst in 2021. At UMass Amherst, he worked in the Marine Global Change Ecology lab with Dr. Brian Cheng understanding the role of local adaptation in driving intraspecific trait variation and climate sensitivity of the marine predatory gastropod Urosalpinx cinerea. He was a 2021 Knauss Marine Policy Fellow with NOAA Fisheries, where he supported efforts to incorporate traditional ecological knowledge from Inuit groups into an international agreement to prevent unregulated fishing in the Central Arctic Ocean, and developed communication materials about NOAA Fisheries surveys for the public and Congress. 
 
-When not working on his research, Andrew likes to spend his time outdoors hiking, biking, kayaking, diving, getting lost, and [taking nature walks](https://www.inaturalist.org/people/1160923). 
+Donya Dabiri is a PhD candidate with a strong background in numerical methods, including computational fluid dynamics(CFD) and Lattice Boltzmann method (LBM) alongside implementing them through object-oriented programming in C++ and Python. Donya is now working on physics-informed neural networks (PINNs) and her research can be summarized in two categories: 
+
+1. **Fractional physics-informed neural networks (fPINNs):**
+   * Using fPINNs in fractional constitutive models of viscoelastic fluids in order to recover their rheological properties and fractional parameters.
+   * Using fPINNs to solve fractional equations, including fractional ODEs (fODE), two and three dimensional fractional PDEs (fPDE). 
+
+2. **Model discovery from scarce and noisy data:**
+   * Applying sparse regression in PINNs in order to unravel governing equations from scarce and noisy data
+
+Donya is highly passionate about a variety of fields related to machine learning and is open to collaborations and innovative ideas. Feel free to reach out!
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}
