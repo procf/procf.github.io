@@ -1,10 +1,12 @@
 ---
-title: Safa Jamali
+title: Contact
 nav:
   order: 7
   tooltip: Email, address, and location
 ---
 
+
+# <i class="fas fa-envelope"></i>Safa Jamali
 
 <div style="text-align: left;">
 307 Dana Research Center<br>
@@ -17,7 +19,9 @@ Boston, MA 02115
   {% include link.html type="phone" icon="" text="(617) 373-5782" tooltip="" link="+1-617-373-5782" style="button" %}
 </div>
 
-# <i class="fas fa-envelope"></i>Contact
+<hr>
+### <i class="fas fa-mail-bulk"></i>Safa Jamali
+
 
 Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineering](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
 
@@ -25,7 +29,7 @@ Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which
 
 
 <!-- <hr>
-### <i class="fas fa-mail-bulk"></i>Safa Jamali -->
+<!-- ### <i class="fas fa-mail-bulk"></i>Safa Jamali --> -->
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/slaH45F37-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
