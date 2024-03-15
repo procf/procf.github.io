@@ -9,7 +9,7 @@
 {%- endfor -%}
 
 <div class="gallery_Journal" data-style="{{ include.style }}" data-number="{{ max }}">
-  {%- for i in (1..max) -%} {# Iterate up to the maximum number of images #}
+  {%- for i in (1..max) -%} 
 
     {%- assign image = "image" | append: i -%}
     {%- assign image = include[image] -%}
