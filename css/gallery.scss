@@ -51,6 +51,7 @@
 
 //Paniz add 03-01 for text interaction 
  .overlay-text {
+  font-family: inherit; /* Inherit font from parent element changed in 03-15 */
   position: absolute;
   top: 50%;
   left: 50%;
