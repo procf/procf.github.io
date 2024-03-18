@@ -9,9 +9,8 @@ member: rob-campbell
 ---
 
 {% include figure.html
-  image="2023-12-11-soohee-defense.jpg"
+  image="/_posts/2023-12-11-soohee-defense.jpg"
   caption="A Structural Analysis of Colloidal Gels for Various Short-Range Attractions under Poiseuille Flow"
-  width="400px"
 %}
 
 Congratulations to Soohee Bae for successfully defending her Master's thesis!
