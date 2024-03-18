@@ -6,14 +6,20 @@
 @import "mixins";
 
 .post_info {
-  display: flex;
-  justify-content: center; /* Adjust as needed */
-  align-items: center; /* Adjust as needed */
-  margin: 0 -5px; /* Adjust as needed */
+  @include margins;
+  @include trim-v-margins;
+  color: $gray-500;
 }
 
 .post_info > span {
-  margin: 0 5px; /* Adjust as needed */
+  display: inline-block;
+  margin: 0 10px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.post_info > span i {
+  margin-right: 0.75em;
 }
 
 .post_image {
@@ -21,8 +27,7 @@
   height: 100px; /* Adjust the height as needed */
   overflow: hidden; /* Ensure the image is cropped */
   margin-right: 10px; /* Add spacing between the image and the details */
-  background-size: cover; /* Crop the background image to cover the container */
-  background-position: center; /* Center the background image within the container */
+  display: inline-block; /* Display as inline block */
 }
 
 .post_image img {
@@ -32,8 +37,7 @@
 }
 
 .post_details {
-  flex-grow: 1; /* Allow details to grow and fill available space */
-  display: flex; /* Align details vertically */
-  flex-direction: column; /* Stack details vertically */
-  justify-content: center; /* Center details vertically */
+  display: inline-block; /* Display as inline block */
+  vertical-align: middle; /* Align elements vertically */
+  margin-right: 10px; /* Add spacing between the image and the details */
 }
