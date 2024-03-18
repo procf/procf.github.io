@@ -7,7 +7,6 @@ tags:
 author: 
 member: 
 image: "images/posts/2023-12-11-soohee-defense.jpg"
-caption: "A Structural Analysis of Colloidal Gels for Various Short-Range Attractions under Poiseuille Flow"
 ---
 
 Congratulations to Soohee Bae for successfully defending her Master's thesis!
@@ -19,12 +18,8 @@ Her simulations lay the foundation for advanced predictive modeling of complex f
 Congratulations, Soohee! And best of luck in your post-graduate plans!
 
 {% assign image = page.image | default: "" %}
-{% assign caption = page.caption | default: "" %}
-{% if author_name != "" %}
+{% if image != "" %}
   {% include figure.html
     image=image
-    {% if caption != "" %}
-      caption=""
-    {% endif %}
   %}
 {% endif %}
