@@ -22,7 +22,7 @@
   overflow: hidden; /* Ensure the image is cropped */
   margin-right: 10px; /* Add spacing between the image and the details */
   background-size: cover; /* Crop the background image to cover the container */
-  background-position: left; /* Center the background image within the container */
+  background-position-x: left; /* Center the background image within the container */
 }
 
 .post_image img {
