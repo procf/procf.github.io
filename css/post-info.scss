@@ -7,7 +7,7 @@
 
 .post_info {
   display: flex;
-  justify-content: left; /* Adjust as needed */
+  justify-content: flex-start; /* Adjust as needed */
   align-items: center; /* Adjust as needed */
   margin: 0 -5px; /* Adjust as needed */
 }
@@ -22,7 +22,7 @@
   overflow: hidden; /* Ensure the image is cropped */
   margin-right: 10px; /* Add spacing between the image and the details */
   background-size: cover; /* Crop the background image to cover the container */
-  background-position: center; /* Center the background image within the container */
+  background-position: left; /* Center the background image within the container */
 }
 
 .post_image img {
