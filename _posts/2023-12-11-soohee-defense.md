@@ -7,16 +7,18 @@ tags:
 author: Rob Campbell
 member: rob-camp"bell
 image: "images/posts/2023-12-11-soohee-defense.jpg"
+headline: "Congratulations to Soohee Bae for successfully defending her Master's thesis!"
 ---
+
+Congratulations to Soohee Bae for successfully defending her Master's thesis!
+
 {% assign image = page.image | default: "" %}
 {% if author_name != "" %}
   {% include figure.html
     image=image
+    width="400px"
   %}
 {% endif %}
-
-
-Congratulations to Soohee Bae for successfully defending her Master's thesis!
 
 [Soohee Bae](https://rheoinformatic.com/members/soohee-bae) successfully defended her MS thesis, titled "A Structural Analysis of Colloidal Gels for Various Short-Range Attractions under Poiseuille Flow." This project explored the relationship between colloidal gel structure and yielding behavior under pressure-driven flow, considering the effects of different particle volume fractions and different types of inter-particle attraction.
 

@@ -6,18 +6,33 @@
 @import "mixins";
 
 .post_info {
-  @include margins;
-  @include trim-v-margins;
-  color: $gray-500;
+  display: flex;
+  justify-content: center; /* Adjust as needed */
+  align-items: center; /* Adjust as needed */
+  margin: 0 -5px; /* Adjust as needed */
+}
 
-  & > span {
-    display: inline-block;
-    margin: 0 10px;
-    text-align: center;
-    white-space: nowrap;
+.post_info > span {
+  margin: 0 5px; /* Adjust as needed */
+}
 
-    #{$icon} {
-      margin-right: 0.75em;
-    }
-  }
+
+.post_image {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+  overflow: hidden; /* Ensure the image is cropped */
+  margin-right: 10px; /* Add spacing between the image and the details */
+}
+
+.post_image img {
+  width: 100%; /* Ensure the image fills the container */
+  height: auto; /* Maintain the aspect ratio */
+  object-fit: cover; /* Crop the image to fit */
+}
+
+.post_details {
+  flex-grow: 1; /* Allow details to grow and fill available space */
+  display: flex; /* Align details vertically */
+  flex-direction: column; /* Stack details vertically */
+  justify-content: center; /* Center details vertically */
 }
