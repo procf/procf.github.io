@@ -9,35 +9,12 @@
   @include margins;
   @include trim-v-margins;
   color: $gray-500;
-}
 
-.post_info > span {
-  display: inline-block;
-  margin: 0 10px;
-  text-align: center;
-  white-space: nowrap;
-}
+  & > span {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+    white-space: nowrap;
 
-.post_info > span i {
-  margin-right: 0.75em;
-}
-
-.post_image {
-  width: 100px; /* Adjust the width as needed */
-  height: 100px; /* Adjust the height as needed */
-  overflow: hidden; /* Ensure the image is cropped */
-  margin-right: 10px; /* Add spacing between the image and the details */
-  display: inline-block; /* Display as inline block */
-}
-
-.post_image img {
-  width: 100%; /* Ensure the image fills the container */
-  height: auto; /* Maintain the aspect ratio */
-  object-fit: cover; /* Crop the image to fit */
-}
-
-.post_details {
-  display: inline-block; /* Display as inline block */
-  vertical-align: middle; /* Align elements vertically */
-  margin-right: 10px; /* Add spacing between the image and the details */
-}
+    #{$icon} {
+      margin-right: 0.75em;
