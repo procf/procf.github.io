@@ -1,9 +1,9 @@
 <div class="post_excerpt">
-  <div class="featured-image-container">
-    {% if include.image %}
-      <img src="{{ include.image | relative_url }}" alt="{{ include.title }}" class="featured-image">
-    {% endif %}
-  </div>
+  {%- if include.featured_image -%}
+    <div class="featured-image-container">
+      <img src="{{ include.featured_image | relative_url }}" alt="Featured Image" class="featured-image">
+    </div>
+  {%- endif -%}
 
   <div class="excerpt-content"></div>
     <p>

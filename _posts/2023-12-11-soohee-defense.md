@@ -6,11 +6,11 @@ tags:
   - M.Sc.
 author: Rob Campbell
 member: rob-camp"bell
-featured-image: "_posts/2023-12-11-soohee-defense.jpg"
+featured-image: "posts/2023-12-11-soohee-defense.jpg"
 ---
 
 {% include figure.html
-  image="_posts/2023-12-11-soohee-defense.jpg"
+  image="posts/2023-12-11-soohee-defense.jpg"
   caption="A Structural Analysis of Colloidal Gels for Various Short-Range Attractions under Poiseuille Flow"
 %}
 
