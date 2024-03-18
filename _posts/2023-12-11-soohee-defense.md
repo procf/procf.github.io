@@ -6,13 +6,15 @@ tags:
   - M.Sc.
 author: Rob Campbell
 member: rob-camp"bell
-featured-image: "posts/2023-12-11-soohee-defense.jpg"
+featured_image: "images/posts/2023-12-11-soohee-defense.jpg"
 ---
+{% assign image = page.featured_image | default: "" %}
+{% if author_name != "" %}
+  {% include figure.html
+    image=image
+  %}
+{% endif %}
 
-{% include figure.html
-  image="posts/2023-12-11-soohee-defense.jpg"
-  caption="A Structural Analysis of Colloidal Gels for Various Short-Range Attractions under Poiseuille Flow"
-%}
 
 Congratulations to Soohee Bae for successfully defending her Master's thesis!
 
