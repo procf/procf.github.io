@@ -1,23 +1,16 @@
 <div class="post_excerpt">
-  {%- if include.featured_image -%}
-    <div class="featured-image-container">
-      <img src="{{ include.featured_image | relative_url }}" alt="Featured Image" class="featured-image">
-    </div>
-  {%- endif -%}
+  <p>
+    <a href="{{ include.url | relative_url }}">{{ include.title }}</a>
+  </p>
+  {%
+    include post-info.html
+    author=include.author
+    member=include.member
+    tags=include.tags
+    date=include.date
+  %}
 
-  <div class="excerpt-content"></div>
-    <p>
-      <a href="{{ include.url | relative_url }}">{{ include.title }}</a>
-    </p>
-    {%
-      include post-info.html
-      author=include.author
-      member=include.member
-      tags=include.tags
-      date=include.date
-    %}
-
-    <p>
-      {{ include.content | strip_html | truncate: 500 }}
-    </p>
+  <p>
+    {{ include.content | strip_html | truncate: 500 }}
+  </p>
 </div>
