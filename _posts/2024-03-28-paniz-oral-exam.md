@@ -1,6 +1,5 @@
 ---
 title: Paniz Haghighi's Oral Exam
-author: Paniz Haghighi
 member: paniz-haghighi
 tags:
 - Oral Exam
