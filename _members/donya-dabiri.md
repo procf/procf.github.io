@@ -8,7 +8,6 @@ aliases:
   - D. Dabiri
 links:
   email: dabiri.d@northeastern.edu
-  twitter: Villeneuvesci
   github: donya-dabiri
   google-scholar: https://scholar.google.com/citations?user=zapUmOEAAAAJ&hl=en
 topics: # must be "sim" "net" "ml" or "blood"
@@ -48,7 +47,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <hr>
 
 
-Donya Dabiri is a PhD candidate with a strong background in numerical methods, including computational fluid dynamics(CFD) and Lattice Boltzmann method(LBM) alongside implementing them through object-oriented programming in C++ and Python. Donya is now working on physics-informed neural networks (PINNs) and her research can be summarized in two categories: 
+Donya Dabiri is a PhD candidate with a strong background in numerical methods, including computational fluid dynamics (CFD) and Lattice Boltzmann method (LBM) alongside implementing them through object-oriented programming in C++ and Python. Donya is now working on physics-informed neural networks (PINNs) and her research can be summarized in two categories: 
 
 1. **Fractional physics-informed neural networks (fPINNs):**
    * Using fPINNs in fractional constitutive models of viscoelastic fluids in order to recover their rheological properties and fractional parameters.
