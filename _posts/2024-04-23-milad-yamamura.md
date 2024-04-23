@@ -1,4 +1,3 @@
-
 ---
 title: 2024 Akira Yamamura Research Ph.D. Award
 author: Donya Dabiri
