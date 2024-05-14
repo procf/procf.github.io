@@ -1,9 +1,9 @@
 ---
 name: Josh DaRosa
 image: images/headshots/josh.jpg
-description: PhD Student
 role: grad
-group: current
+group: alumni
+description: MSc Graduate
 aliases:
   - J. DaRosa
 links:
@@ -45,7 +45,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 <hr>
 
-Joshua DaRosa is a PhD student with extensive experience within thermofluid sciences whose current research involves both computational rheology and machine learning.
+Joshua DaRosa is a M.Sc. graduate with extensive experience within thermofluid sciences whose research involves both computational rheology and machine learning.
 
 Josh is currently working on:
 * Studying the development of computational methods to create colloidal crystals through pressure-driven flow within converging-diverging nozzle geometry.
