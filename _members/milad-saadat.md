@@ -63,7 +63,7 @@ With a strong background in thermofluid sciences and numerical techniques, his r
 Milad is enthusiastic about fostering new ideas and collaborations. Feel free to reach out if you are interested in exploring novel research directions or working together on innovative projects.
 
 
-[Milad's resume as a pdf](https://procf.github.io/pdfs/MiladSaadat_Resume.pdf)
+<!-- [Milad's resume as a pdf](https://procf.github.io/pdfs/MiladSaadat_Resume.pdf) -->
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}
