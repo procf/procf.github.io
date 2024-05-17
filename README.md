@@ -1,8 +1,8 @@
 ## Rheoinformatic
 
-**The Website for the Physics and Rheology of Complex Fluids (PRO-CF) Research Group**
+**The Website for the Rheoinformatic Research Group**
 
-Our lab website draws heavily on the template created by the [Greene Lab](https://github.com/greenelab/lab-website-template) and it's implementation in the [White Lab](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io). 
+This website draws heavily on the template created by the [Greene Lab](https://github.com/greenelab/lab-website-template) and it's implementation in the [White Lab](https://github.com/QuantMarineEcoLab/quantmarineecolab.github.io). 
 
 The text is mostly written in markdown. For tutorials on how to update/modify information, see the Documentation Wiki below:
 
