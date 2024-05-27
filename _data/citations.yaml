@@ -693,3 +693,33 @@
   - Network Science
   repo_link: null
   main_author: Deepak Mangal
+- id: 10.1039/D4SM00209A
+  title: Role of interaction range on the microstructure and dynamics of attractive
+    colloidal systems
+  authors:
+  - Deepak Mangal
+  - Safa Jamali
+  publisher: Soft Matter
+  date: '2024-01-01'
+  link: https://doi.org/gtwqbk
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
+  tags:
+  - Colloidal Systems
+  repo_link: null
+  main_author: Deepak Mangal
+- id: 10.1039/D4SM00316K
+  title: Small variations in particle-level interactions lead to large structural
+    heterogeneities in colloidal gels
+  authors:
+  - Deepak Mangal
+  - Gonzalo Sanchez Vera
+  - Stefano Aime
+  - Safa Jamali
+  publisher: Soft Matter
+  date: '2024-01-01'
+  link: https://doi.org/gtwqbm
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
+  tags:
+  - Colloidal Systems
+  repo_link: null
+  main_author: Deepak Mangal
