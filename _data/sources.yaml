@@ -355,15 +355,15 @@
   main_author: Deepak Mangal
 
 - id: 10.1039/D4SM00209A
-image: https://procf.github.io/images/journal_covers/soft_matter.jpg
-tags:
-  - Colloidal Systems
-repo_link: 
-main_author: Deepak Mangal
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
+  tags:
+    - Colloidal Systems
+  repo_link: 
+  main_author: Deepak Mangal
 
 - id: 10.1039/D4SM00316K
-image: https://procf.github.io/images/journal_covers/soft_matter.jpg
-tags:
-  - Colloidal Systems
-repo_link: 
-main_author: Deepak Mangal
+  image: https://procf.github.io/images/journal_covers/soft_matter.jpg
+  tags:
+    - Colloidal Systems
+  repo_link: 
+  main_author: Deepak Mangal
