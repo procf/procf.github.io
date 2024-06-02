@@ -21,13 +21,13 @@ nav:
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
-<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw">Tweets by PROCF_NU</a> 
+<a class="twitter-timeline" data-width="400" data-height="400" href="https://twitter.com/rheoinformatic?ref_src=twsrc%5Etfw">Tweets by The Rheoinformatic Lab</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
-<a href="https://twitter.com/PROCF_NU?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PROCF_NU</a>
+<a href="https://twitter.com/rheoinformatic?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @PROCF_NU</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=PROCF_NU&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @PROCF_NU</a>
+<a href="https://x.com/intent/post?screen_name=rheoinformatic&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @rheoinformatic</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
 
