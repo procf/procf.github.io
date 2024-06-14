@@ -5,12 +5,12 @@
   description: Rheology Informed Neural Networks (RhINNs) and other Rheology-informed Machine Learning Algorithms.
   repo: procf/RhINNs
 
-- name: Cool Package
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- name: Rheoinformatic's Modified HOOMD-blue
+  group: featured
+  image: images/research_topics/colloids2.jpg
+  link: https://github.com/procf/hoomd4.2.1-mod
+  description: Access the core of our in-house modifications to HOOMD-blue v4.2.1 for colloid simulations.
+  repo: procf/hoomd4.2.1-mod
 
 - name: Cool Tutorial
   group: more
