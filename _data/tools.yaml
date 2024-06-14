@@ -9,7 +9,7 @@
   group: featured
   image: images/research_topics/colloids2.png
   link: https://github.com/procf/hoomd4.2.1-mod
-  description: The core in-house modifications to HOOMD-blue v4.2.1 for our style of colloid simulations.
+  description: Our core in-house modifications to HOOMD-blue v4.2.1 for our style of colloid simulations.
   repo: procf/hoomd4.2.1-mod
 
 - name: Cool Tutorial
