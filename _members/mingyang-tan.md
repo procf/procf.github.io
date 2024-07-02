@@ -41,9 +41,9 @@ topics:
 <br>
 
 **Education**
-- PhD, Oregon State University, 2018
-- MS, University of Southern California, 2013
-- BE, Jilin University, China, 2011
+- Ph.D., Oregon State University, 2018
+- M.S., University of Southern California, 2013
+- B.Eng., Jilin University, China, 2011
 <hr>
 Mingyang is a postdoctoral research associate who joined the group in 2024. He is interested in simulating the dynamics and physical properties of colloidal suspensions under different flow conditions and interactions among constituents. He is also interested in applying machine-learning techniques to accelerate the identification of the relationship between macroscopic physical properties of soft matters and microscopic signatures of particles.
 <br>
