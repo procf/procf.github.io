@@ -1,7 +1,7 @@
 ---
 name: Milad Saadat
 image: images/headshots/milad.jpg
-description: PhD Student
+description: PhD Graduate
 role: grad
 group: alumni
 aliases:
