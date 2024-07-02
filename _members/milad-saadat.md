@@ -3,7 +3,7 @@ name: Milad Saadat
 image: images/headshots/milad.jpg
 description: PhD Student
 role: grad
-group: current
+group: alumni
 aliases:
   - M. Saadat
 links:
