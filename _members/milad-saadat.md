@@ -48,7 +48,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 <hr>
 
-Milad Saadat, currently a third-year Ph.D. candidate in the Mechanical and Industrial Engineering department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
+Milad Saadat, a Ph.D. candidate in the Mechanical and Industrial Engineering department, is immersed in research focused on data-driven solutions in mathematics and material design and discovery. Recognized for his academic endeavors, Milad was honored with the prestigious "2022 John and Katharine Cipolla PhD Merit Award."
 
 With a strong background in thermofluid sciences and numerical techniques, his research centers on two key areas:
 
