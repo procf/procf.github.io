@@ -52,11 +52,11 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 <hr>
 
-Rob Campbell is a PhD student interested in the microscale origins of material mechanics. Their thesis focuses on the effects of particle size and gravity in colloidal gel assembly and rheology.
+Rob Campbell is a PhD student interested in the microscale origin of material mechanics. Their thesis focuses on the effects of particle size and gravity in colloidal gel assembly and rheology.
 
-Rob is the "Future Investigator" leading a 3-year FINESST grant from NASA to build open-source simulation tools that interface with exisiting data from colloid experiments on the International Space Station (ISS). Alongside this work, Rob collaborates on a project that will launch new bimodal colloid experiments to the ISS in 2024, and is developing machine learning tools to better match simulation parameters with experimental conditions.
+Rob is the "Future Investigator" leading a 3-year FINESST grant from NASA. The goal of this grant is to make our colloidal gel simulation methods open-source, and to use them to mimic experimental systems studied in previous experiments on the International Space Station (ISS). Rob also collaborates on an NSF-funded project launching new bimodal colloid experiments to the ISS in August 2024, and is developing machine learning tools that help select the best simulation parameters needed to match different experimental conditions.
 
-Outside research, Rob runs Rheology Comics, a short outreach series funded by the Society of Rheology and designed to share the joys of rheological concepts with ages 10+ (available in English and 7+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
+Outside research, Rob runs Rheology Comics, a series of comics funded by the Society of Rheology's Rheology Venture Fund and designed to share the joys of rheological concepts with ages 10+ (available in English and 7+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}
