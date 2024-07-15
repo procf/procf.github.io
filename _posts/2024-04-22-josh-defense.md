@@ -1,5 +1,7 @@
 ---
 title: Josh DaRosa  Defends Master's Thesis
+author: Anushka Jha
+member: anushka-jha
 tags: 
   - Defense
   - Thesis
