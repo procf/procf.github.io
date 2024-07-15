@@ -6,8 +6,6 @@ tags:
   - Defense
   - Thesis
   - M.Sc.
-author: 
-member: 
 image: "images/posts/2024-04-22-josh-defense.jpg"
 ---
 
