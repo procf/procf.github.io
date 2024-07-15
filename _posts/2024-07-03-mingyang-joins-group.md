@@ -1,7 +1,6 @@
 ---
 title: Welcome to the group, Mingyang!
 author: Anushka Jha
-member: anushka-jha
 tags:
 - Colloids
 - Machine learning
