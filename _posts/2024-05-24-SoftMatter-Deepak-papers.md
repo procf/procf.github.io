@@ -1,6 +1,7 @@
 ---
 title: Two Papers in Soft Matter! - Impact of Particle-level Interactions on Colloidal Microstructures 
-member: Deepak Mangal
+author: Deepak Mangal
+member: deepak-mangal
 tags:
 - Colloidal Microstructure
 - Soft Matter
