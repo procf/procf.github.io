@@ -9,7 +9,7 @@ nav:
 # <i class="fas fa-envelope"></i>Safa Jamali
 
 <div style="text-align: left;">
-307 Dana Research Center<br>
+334 SN<br>
 360 Huntington Avenue<br>
 Boston, MA 02115
 </div>
@@ -23,7 +23,7 @@ Boston, MA 02115
 ### <i class="fas fa-mail-bulk"></i>The Rheoinformatic Lab
 
 
-Our lab is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineering](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
+Our office is located at at 320 Holmes Hall, 39-41 Leon St, Boston, MA 02115, which is a part of the [Department of Industrial and Mechanical Engineering](https://mie.northeastern.edu/) at [Northeastern University](https://www.northeastern.edu/). Feel free to contact us through methods below!
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11796.837170957742!2d-71.0907977!3d42.338061!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e37a18af1eed8d%3A0x847723c949683eee!2sHolmes%20Hall!5e0!3m2!1sen!2sus!4v1710458681362!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
