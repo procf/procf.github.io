@@ -1,3 +1,11 @@
+- id: 10.1122/8.0000831
+  image: https://procf.github.io/images/journal_covers/j_rheol.png
+  tags:
+    - Machine Learning
+  repo_link: https://github.com/procf/RhINNs/tree/main/MFNN
+  main_author: Milad Saadat
+
+
 - id: 10.1039/C2SM27104D
   image: https://procf.github.io/images/journal_covers/soft_matter.jpg
   tags:
@@ -5,8 +13,6 @@
   repo_link: 
   main_author: Safa Jamali
     
-
-
 
 - id: 10.1016/j.polymertesting.2013.03.005
   image: https://procf.github.io/images/journal_covers/polym_test.jpg
