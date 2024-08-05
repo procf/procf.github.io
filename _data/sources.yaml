@@ -1,5 +1,5 @@
 - id: 10.1122/8.0000831
-  image: https://procf.github.io/images/journal_covers/j_rheol.png
+  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
   tags:
     - Machine Learning
   repo_link: https://github.com/procf/RhINNs/tree/main/MFNN
