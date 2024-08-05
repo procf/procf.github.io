@@ -1,5 +1,21 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1122/8.0000831
+  title: Data-driven constitutive meta-modeling of nonlinear rheology via multifidelity
+    neural networks
+  authors:
+  - Milad Saadat
+  - William H. Hartt V
+  - Norman J. Wagner
+  - Safa Jamali
+  publisher: Journal of Rheology
+  date: '2024-07-24'
+  link: https://doi.org/gt534w
+  image: https://procf.github.io/images/journal_covers/j_rheol.png
+  tags:
+  - Machine Learning
+  repo_link: https://github.com/procf/RhINNs/tree/main/MFNN
+  main_author: Milad Saadat
 - id: 10.1039/C2SM27104D
   title: Bridging the gap between microstructure and macroscopic behavior of monodisperse
     and bimodal colloidal suspensions
