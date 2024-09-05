@@ -8,6 +8,7 @@ aliases:
   - Saghar
 links:
   email: zolfaghari.s@northeastern.edu
+  github: Sagharzz
   google-scholar: 
   linkedin: saghar-zolfaghari
 topics: # must be "sim" "net" "ml" or "blood"
