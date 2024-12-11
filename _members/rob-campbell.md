@@ -54,9 +54,9 @@ topics: # must be "sim" "net" "ml" or "blood"
 
 Rob Campbell is a PhD student interested in the microscale origin of material mechanics. Their thesis focuses on the effects of particle size and gravity in colloidal gel assembly and rheology.
 
-Rob is the "Future Investigator" leading a 3-year FINESST grant from NASA. The goal of this grant is to make our colloidal gel simulation methods open-source, and to use them to mimic experimental systems studied in previous experiments on the International Space Station (ISS). Rob also collaborates on an NSF-funded project launching new bimodal colloid experiments to the ISS in August 2024, and is developing machine learning tools that help select the best simulation parameters needed to match different experimental conditions.
+Rob is the "Future Investigator" leading a 3-year FINESST grant from NASA, building open-source simulation methods that interface with past experiments from the International Space Station (ISS). Rob also collaborates on an NSF-funded project that launched new bimodal colloid experiments to the ISS in August 2024, and is developing machine learning tools that help match simulation parameters to specific experimental conditions.
 
-Outside research, Rob runs Rheology Comics, a series of comics funded by the Society of Rheology's Rheology Venture Fund and designed to share the joys of rheological concepts with ages 10+ (available in English and 7+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
+Outside research, Rob runs Rheology Comics, an outreach series funded by the Society of Rheology's Rheology Venture Fund designed to share the joys of rheological concepts with ages 10+ (available in English and 11+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}
