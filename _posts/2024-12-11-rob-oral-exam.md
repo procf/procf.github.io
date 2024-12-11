@@ -3,8 +3,8 @@ title: Rob Campbell Proceeds to PhD Candidacy
 tags: 
 - Oral Exam
 - PhD Candidate
-- Colloids
-- Networks
+- Colloid Systems
+- Network Science
 author: 
 member: 
 image: 
