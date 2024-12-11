@@ -1,5 +1,5 @@
 ---
-title: Rheoinformatics at SoR in Austin!
+title: Rob Campbell Proceeds to PhD Candidacy
 tags: 
 - Oral Exam
 - PhD Candidate
