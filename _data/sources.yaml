@@ -374,7 +374,7 @@
   repo_link: 
   main_author: Deepak Mangal
 
-  - id: 10.1122/8.0000908
+- id: 10.1122/8.0000908
   image: https://procf.github.io/images/journal_covers/jor_cover2024.jpg
   tags:
     - Neural Operators
