@@ -1,5 +1,5 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
-id: 10.1016/j.cocis.2024.101873
+- id: 10.1016/j.cocis.2024.101873
   title: Data-driven techniques in rheology- Developments, challenges and perspective
   authors:
   - Deepak Mangal
@@ -14,7 +14,7 @@ id: 10.1016/j.cocis.2024.101873
   - Data-Driven Rheology
   repo_link: null
   main_author: Deepak Mangal
-id: 10.1122/8.0000908
+- id: 10.1122/8.0000908
   title: Learning a family of rheological constitutive models using neural operators
   authors:
   - Deepak Mangal
