@@ -1,4 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
+id: 10.1016/j.cocis.2024.101873
+  title: Data-driven techniques in rheology- Developments, challenges and perspective
+  authors:
+  - Deepak Mangal
+  - Anushka Jha
+  - Donya Dabiri
+  - Safa Jamali
+  publisher: Current Opinion in Colloid & Interface Science
+  date: '2024-11-27'
+  link: https://doi.org/10.1016/j.cocis.2024.101873
+  image: https://procf.github.io/images/journal_covers/COCIS_2024.jpg
+  tags:
+  - Data-Driven Rheology
+  repo_link: null
+  main_author: Deepak Mangal
 id: 10.1122/8.0000908
   title: Learning a family of rheological constitutive models using neural operators
   authors:
@@ -8,7 +23,7 @@ id: 10.1122/8.0000908
   publisher: Journal of Rheology
   date: '2025-01-21'
   link: https://doi.org/10.1122/8.0000908
-  image: https://procf.github.io/images/journal_covers/j_rheol.jpg
+  image: https://procf.github.io/images/journal_covers/jor_cover2024.jpg
   tags:
   - Neural Operators
   repo_link: https://github.com/procf/RhINNs
