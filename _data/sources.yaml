@@ -380,3 +380,10 @@
     - Neural Operators
   repo_link: 
   main_author: Deepak Mangal
+
+- id: 10.1016/j.cocis.2024.101873
+  image: https://procf.github.io/images/journal_covers/COCIS_2024.jpg
+  tags:
+    - Data-driven rheology
+  repo_link: 
+  main_author: Deepak Mangal
