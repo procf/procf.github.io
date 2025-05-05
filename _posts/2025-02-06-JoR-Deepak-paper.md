@@ -8,7 +8,7 @@ tags:
 - Journal of Rheology
 ---
 
-Thrilled to share our featured paper in the Journal of Rheology! We explore how neural operators can learn constitutive models from either data or governing equations under diverse flow conditions, paving the way for more generalizable and data-driven rheology. You can read a press release on the paper [here](https://doi.org/10.1122/1.5003364).
+Thrilled to share our featured paper in the Journal of Rheology! We explore how neural operators can learn constitutive models from either data or governing equations under diverse flow conditions, paving the way for more generalizable and data-driven rheology. You can read a press release on the paper [here](https://doi.org/10.1122/8.0000908).
 
 
 <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1122/1.5003364" data-hide-no-mentions="true" class="altmetric-embed"></div>
