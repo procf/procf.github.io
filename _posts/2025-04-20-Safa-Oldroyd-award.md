@@ -4,7 +4,7 @@ tags:
 - European Society of Rheology
 - Oldroyd Early Career Award
 author: 
-member: 
+member: safa-jamali
 image: 
 ---
 
