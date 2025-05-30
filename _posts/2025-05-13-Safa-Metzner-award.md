@@ -2,7 +2,7 @@
 title: Society of Rheology honors Professor Jamali with 2025 Metzner Award  
 tags:  
 - Society of Rheology  
-- Metzner Early Career Award  
+- Award 
 author:  
 member: safa-jamali  
 image:  
