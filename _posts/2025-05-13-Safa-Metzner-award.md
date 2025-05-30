@@ -1,5 +1,5 @@
 ---
-title: Professor Jamali receives 2025 Arthur B. Metzner Early Career Award  
+title: Society of Rheology honors Professor Jamali with 2025 Metzner Award  
 tags:  
 - Society of Rheology  
 - Metzner Early Career Award  
