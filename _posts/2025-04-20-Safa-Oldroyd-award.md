@@ -2,7 +2,7 @@
 title: Professor Jamali receives the 2025 Oldroyd Early Career Award
 tags: 
 - European Society of Rheology
-- Oldroyd Early Career Award
+- Award
 author: 
 member: safa-jamali
 image: 
