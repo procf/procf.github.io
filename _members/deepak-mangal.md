@@ -2,7 +2,7 @@
 name: Deepak Mangal
 image: images/headshots/deepak.jpg
 role: postdoc
-group: current
+group: alumni
 aliases:
   - Deepak
 description: Postdoctoral Fellow
@@ -52,7 +52,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 Deepak Mangal is a postdoctoral research associate with a broad research interest in the transport in porous media, rheology of colloidal systems, and scientific machine learning.
 <br>
-His research focuses on:
+His research at the group focused on:
 1. Investigating the structural underpinnings of various rheological phenomena in colloidal systems using simulation and network science tools.
 2. Utilizing deep learning frameworks such as PINN and DeepONet to tackle complex constitutive equations.
 3. Investigating the effect of hydrodynamic interactions on dispersion of finite-sized particles through fibrous media
