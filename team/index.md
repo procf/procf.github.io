@@ -64,7 +64,7 @@ There are often openings for graduate students and postdoctoral fellows within t
 
 
 {% include figure.html
-   image="/images/icon.png"
+   image="/images/team_2025.jpg"
 %}
 {:.center}
 
