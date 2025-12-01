@@ -1,19 +1,22 @@
-# GENERATED AUTOMATICALLY, DO NOT EDIT
-- id: 10.1016/j.cocis.2024.101873
-  title: Data-driven techniques in rheology- Developments, challenges and perspective
+- id: 10.1039/D5SM00572H
+  title: Emergence and evolution of a particulate network during gelation and coarsening of attractive colloids
   authors:
-  - Deepak Mangal
-  - Anushka Jha
-  - Donya Dabiri
+  - Paniz Haghighi
+  - Mohammad Nabizadeh
   - Safa Jamali
-  publisher: Current Opinion in Colloid & Interface Science
-  date: '2024-11-27'
-  link: https://doi.org/10.1016/j.cocis.2024.101873
-  image: https://procf.github.io/images/journal_covers/COCIS_2024.jpg
+  publisher: Soft Matter
+  date: '2025-11-27'
+  link: https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00572h
+  image: https://procf.github.io/images/journal_covers/sftm-2025.jpg
   tags:
-  - Data-Driven Rheology
+  - Colloidal Systems
   repo_link: null
-  main_author: Deepak Mangal
+  main_author: Paniz Haghighi
+
+
+
+
+
 - id: 10.1122/8.0000908
   title: Learning a family of rheological constitutive models using neural operators
   authors:
