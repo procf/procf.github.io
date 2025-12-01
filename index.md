@@ -35,7 +35,7 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 {% 
   include gallery_Journal.html 
   
-  image10="images/featured/sftm-2025.png"
+  image10="images/featured/sftm-2025.jpg"
 
   tooltip10="Soft Matter 2025"
 
