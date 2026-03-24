@@ -1,11 +1,11 @@
 ---
-name: Full Name
-image: images/headshots/Maedeh.jpg
-description: PhD Student
-role: grad
+name: [Full Name]
+image: images/headshots/[ImageFileName.jpg]
+description: [e.g. PhD Student / Postdoc / Research Scientist]
+role: [grad / postdoc / undergrad / faculty]
 group: current
 aliases:
-  - First Name
+  - [First Name or nickname used in publications]
 links:
   email: [your@email.com]
   google-scholar: [full URL to your Google Scholar profile]
