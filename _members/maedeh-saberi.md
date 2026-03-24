@@ -46,7 +46,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <hr>
 
 
-Maedeh is a PhD student who joined the group in 2024. 
+Maedeh is a PhD student who joined the group in 2024. Her research focuses on developing machine learning methods for Non-Newtonian fluid simulation. In particular, she is using generative AI (GenAI) approaches by expanding Transformer-based models capable of predicting the flow behavior of complex non-Newtonian fluids. Her work aims to accelerate computationally intensive simulations by leveraging GenAI techniques and pretraining strategies, offering a faster, more efficient alternative to traditional simulation methods.
 
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
