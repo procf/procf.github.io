@@ -1,6 +1,6 @@
 ---
 name: [Full Name]
-image: images/headshots/[ImageFileName.jpg]
+image: images/headshots/Maedeh.jpg
 description: [e.g. PhD Student / Postdoc / Research Scientist]
 role: [grad / postdoc / undergrad / faculty]
 group: current
