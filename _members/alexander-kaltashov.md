@@ -1,9 +1,9 @@
 ---
 name: Alexander Kaltashov
 image: images/headshots/sasha.jpg
-description: PhD Student
+description: PhD Graduate
 role: grad
-group: current
+group: alumni
 aliases:
   - Sasha Kaltashov
 links:

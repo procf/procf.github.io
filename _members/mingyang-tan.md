@@ -2,7 +2,7 @@
 name: Mingyang Tan
 image: images/headshots/mingyang_tan.jpg
 role: postdoc
-group: current
+group: alumni
 aliases:
 description: Postdoctoral Fellow
 links:

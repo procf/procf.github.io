@@ -2,7 +2,7 @@
 name: Anushka Jha
 image: images/headshots/ajha.jpg
 role: postdoc
-group: current
+group: alumni
 aliases:
 description: Postdoctoral Fellow
 links:
