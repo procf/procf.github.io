@@ -41,11 +41,12 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 **Education**
 <br>
+- Ph.D. in Chemical Engineering (2026), Northeastern University
 - B.Sc. in Chemical Engineering (2019), McGill University
 <br>
 <hr>
 
-Alexander (Sasha) Kaltashov, currently a fourth-year PhD candidate in the Chemical Engineering department, is currently studying multicomponent gradient materials for applications in additive manufacturing.
+Alexander (Sasha) Kaltashov completed his PhD in the Chemical Engineering on multicomponent gradient materials for applications in additive manufacturing.
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}

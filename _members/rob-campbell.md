@@ -47,12 +47,13 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 **Education**
 <br>
+- PhD in Mechanical Engineering (2026), Northeastern University
 - Research Assistant, 4yrs (2020), Okinawa Institute of Science and Technology (OIST)
 - B.A. in Physics (2010), Skidmore College
 <br>
 <hr>
 
-Rob Campbell completed his PhD on the microscale origin of material mechanics. His thesis focused on the effects of particle size and particle surface coatings on colloidal gel rheology. This includes supporting an NSF-funded project that launched new bimodal colloid experiments to the ISS in August 2024, and serving as the "Future Investigator" leading a 3-year FINESST grant from NASA.
+Rob Campbell completed his PhD on multi-scale structure mechanics relationships in bimodal colloidal gels. His thesis focused on the effects of particle size and particle surface coatings on colloidal gel rheology. This includes supporting an NSF-funded project that launched new bimodal colloid experiments to the ISS in August 2024, and serving as the "Future Investigator" leading a 3-year FINESST grant from NASA.
 
 Outside research, Rob runs Rheology Comics, an outreach series funded by the Society of Rheology's Rheology Venture Fund sharing the joys of rheology with kids ages 10+ (available in English and 11+ other languages). You can [read Rheology Comics here!](https://rheologycomics.github.io/)
 
