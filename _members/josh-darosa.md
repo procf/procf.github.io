@@ -41,13 +41,14 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 **Education**
 <br>
+- M.Sc. in Mechanical Engineering (2024), Northeastern University
 - B.Sc. in Mechanical Engineering (2022), Union College
 <br>
 <hr>
 
 Joshua DaRosa is a M.Sc. graduate with extensive experience within thermofluid sciences whose research involves both computational rheology and machine learning.
 
-Josh is currently working on:
+In the Rheoinformatic group, Josh worked on:
 * Studying the development of computational methods to create colloidal crystals through pressure-driven flow within converging-diverging nozzle geometry.
 * Solving Fractional PDE's using Physics Informed Neural Networks
 * Modelling 3-D printing of ceramic hexagonal particles using HOOMD-Blue

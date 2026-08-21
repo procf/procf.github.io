@@ -47,7 +47,7 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 **Education**
 <br>
-- PhD in Mechanical Engineering (2026), Northeastern University
+- Ph.D. in Mechanical Engineering (2026), Northeastern University
 - Research Assistant, 4yrs (2020), Okinawa Institute of Science and Technology (OIST)
 - B.A. in Physics (2010), Skidmore College
 <br>

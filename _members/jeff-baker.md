@@ -1,16 +1,16 @@
 ---
-name: Soohee Bae
-image: images/headshots/soohee.jpg
+name: Jeff Baker
+image: images/headshots/jeff-baker.jpg
 role: grad
 group: alumni
 description: MSc Graduate
-aliases: 
+aliases:
+  - Jeffrey Baker
 links:
-  email: clarabae0909@gmail.com
-  github: soohee-bae
-  google-scholar: VlwRTZwAAAAJ&hl
+  email: baker.jef@northeastern.edu
+  github: 
 topics: # must be "sim" "net" "ml" or "blood"
-  - sim
+  - ml
 ---
 
 {% assign topics = page.topics | default: empty_array %}
@@ -40,13 +40,13 @@ topics: # must be "sim" "net" "ml" or "blood"
 <br>
 **Education**
 <br>
-- M.Sc. in Mechanical Engineering (2023), Northeastern University
-- B.Sc. in Aerospace Engineering (2021), Texas A&M-College Station
-- B.A. in Mathematics (2021), Texas A&M-College Station
+- M.Sc. in Mechanical Engineering (2026), Northeastern University
+- B.Sc. in Mechanical Engineering (2024), Ohio Northern University
 <br>
 <hr>
 
-Soohee Bae is an M.Sc. graduate who worked on structural deformation of colloidal gels under Poiseuille flow using dissipative particle dynamics.
+Jeff Baker is a M.Sc. graduate with extensive experience in thermofluids and fluid simulations for machine learning.
+
 
 {% assign author_names = page.aliases | default: empty_array | push: page.name %}
 {% assign author_publications = "" | split: "" %}
