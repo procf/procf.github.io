@@ -7,5 +7,5 @@ image:
 ---
 
 
-We're happy to welcome Narges to the ProcF group as a new PhD Student! 🎉 
+We're happy to welcome Narges to the Rheoinformatic group as a new PhD Student! 🎉 
 Glad to have you with us, Narges!
