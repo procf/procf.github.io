@@ -640,6 +640,7 @@
   image: https://procf.github.io/images/journal_covers/phys_rev_e.jpg
   tags:
   - Colloidal Systems
+  - Network Science
   repo_link: null
   main_author: Deepak Mangal
 - id: 10.1073/pnas.2316394121
@@ -660,6 +661,7 @@
   link: https://doi.org/gtg8cr
   image: https://procf.github.io/images/journal_covers/pnas.jpg
   tags:
+  - Colloidal Systems
   - Network Science
   repo_link: null
   main_author: Mohammad Nabizadeh
@@ -783,6 +785,7 @@
   image: https://procf.github.io/images/featured/sftm-2025.jpg
   tags:
   - Colloidal Systems
+  - Network Science
   main_author: Paniz Haghighi
 - id: 10.1126/sciadv.aeh5537
   title: Brush-mediated angular constraints reshape structure, rigidity, and percolation
@@ -799,6 +802,5 @@
   image: https://procf.github.io/images/journal_covers/sci_advances_2026.jpg
   tags:
   - Colloidal Systems
-  - Network Science
   repo_link: https://github.com/procf/brush-mediated_colloidal-gels
   main_author: Rob Campbell
