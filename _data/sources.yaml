@@ -378,6 +378,7 @@
   image: https://procf.github.io/images/journal_covers/jor_cover2024.jpg
   tags:
     - Neural Operators
+    - Machine Learning
   repo_link: 
   main_author: Deepak Mangal
 
@@ -385,5 +386,14 @@
   image: https://procf.github.io/images/journal_covers/COCIS_2024.jpg
   tags:
     - Data-driven rheology
+    - Machine Learning
   repo_link: 
   main_author: Deepak Mangal
+
+  - id: 10.1126/sciadv.aeh5537
+  image: https://procf.github.io/images/journal_covers/sci_advances_2026.jpg
+  tags:
+    - Colloidal Systems
+    - Network Science
+  repo_link: https://github.com/procf/brush-mediated_colloidal-gels
+  main_author: Rob Campbell
