@@ -390,7 +390,7 @@
   repo_link: 
   main_author: Deepak Mangal
 
-  - id: 10.1126/sciadv.aeh5537
+- id: 10.1126/sciadv.aeh5537
   image: https://procf.github.io/images/journal_covers/sci_advances_2026.jpg
   tags:
     - Colloidal Systems
