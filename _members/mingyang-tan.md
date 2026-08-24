@@ -4,6 +4,7 @@ image: images/headshots/mingyang_tan.jpg
 role: postdoc
 group: alumni
 aliases:
+  - M. Tan
 description: Postdoctoral Fellow
 links:
   email: mi.tan@northeastern.edu

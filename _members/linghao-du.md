@@ -4,6 +4,7 @@ image: images/headshots/linghao.jpg
 role: grad
 group: alumni
 aliases:
+  - L. Du
 description: MSc Graduate
 links:
   email: du.li@husky.neu.edu

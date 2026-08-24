@@ -4,6 +4,7 @@ image: images/headshots/ajha.jpg
 role: postdoc
 group: alumni
 aliases:
+  - A. Jha
 description: Postdoctoral Fellow
 links:
   email: an.jha@northeastern.edu

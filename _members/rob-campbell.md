@@ -7,6 +7,7 @@ group: alumni
 aliases:
   - Robert Campbell
   - Robert A Campbell
+  - Robert A. Campbell
   - Rob
   - R.A. Campbell
 links:

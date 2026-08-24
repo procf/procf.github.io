@@ -5,6 +5,7 @@ role: grad
 group: alumni
 description: MSc Graduate
 aliases: 
+  - S. Bae
 links:
   email: clarabae0909@gmail.com
   github: soohee-bae
