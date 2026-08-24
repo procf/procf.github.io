@@ -770,6 +770,20 @@
   - Machine Learning
   repo_link: null
   main_author: Deepak Mangal
+- id: 10.1039/D5SM00572H
+  title: Emergence and evolution of a particulate network during gelation and coarsening
+    of attractive colloids
+  authors:
+  - Paniz Haghighi
+  - Mohammad Nabizadeh
+  - Safa Jamali
+  publisher: Soft Matter
+  date: '2025-01-01'
+  link: https://doi.org/hcgnt2
+  image: https://procf.github.io/images/featured/sftm-2025.jpg
+  tags:
+  - Colloidal Systems
+  main_author: Paniz Haghighi
 - id: 10.1126/sciadv.aeh5537
   title: Brush-mediated angular constraints reshape structure, rigidity, and percolation
     in colloidal depletion gels
