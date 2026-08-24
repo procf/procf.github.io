@@ -390,6 +390,12 @@
   repo_link: 
   main_author: Deepak Mangal
 
+- id: 10.1039/D5SM00572H
+  image: https://procf.github.io/images/featured/sftm-2025.jpg
+  tags:
+  - Colloidal Systems
+  main_author: Paniz Haghighi
+
 - id: 10.1126/sciadv.aeh5537
   image: https://procf.github.io/images/journal_covers/sci_advances_2026.jpg
   tags:
