@@ -803,3 +803,25 @@
   - Colloidal Systems
   repo_link: https://github.com/procf/brush-mediated_colloidal-gels
   main_author: Rob Campbell
+- id: 10.1021/acsnano.6c09339
+  title: 'Multiscale Design
+
+    of Interaction-Driven Superlattice
+
+    Assembly in Nanocomposite Tectons'
+  authors:
+  - Anushka Jha
+  - Stephen Kronenberger
+  - Carl Thrasher
+  - Nicholas Sbalbi
+  - Matthew D. Ye
+  - Robert Macfarlane
+  - Arthi Jayaraman
+  - Safa Jamali
+  publisher: ACS Nano
+  date: '2026-08-17'
+  link: https://doi.org/hcgqs5
+  image: https://procf.github.io/images/journal_covers/ACS-nano.jpg
+  tags:
+  - Colloidal Systems
+  main_author: Anushka Jha
