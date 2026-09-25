@@ -35,63 +35,69 @@ Welcome to the Rheoinformatic Lab at Northeastern University! Our research focus
 {% 
   include gallery_Journal.html 
   
-  image1="images/featured/sftm-2025.jpg"
+  image1="images/featured/ACSnano_2026.jpg"
 
-  tooltip1="Soft Matter 2025"
+  tooltip1="ACS Nano 2026"
 
-  link1='https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00572h'
+  link1='https://pubs.acs.org/ancac3/article/20/36/24902/5262327/Multiscale-Design-of-Interaction-Driven'
+
+  image2="images/featured/sftm-2025.jpg"
+
+  tooltip2="Soft Matter 2025"
+
+  link2='https://pubs.rsc.org/en/content/articlelanding/2025/sm/d5sm00572h'
   
-  image2="images/featured/DD_2023.jpg"
+  image3="images/featured/DD_2023.jpg"
 
-  tooltip2="Digital Discovery 2023"
+  tooltip3="Digital Discovery 2023"
 
-  link2='https://doi.org/10.1039/D3DD00036B'
+  link3='https://doi.org/10.1039/D3DD00036B'
 
-  image3="images/featured/PRL_2022.png"
+  image4="images/featured/PRL_2022.png"
  
-  tooltip3="Physical Review Letters 2022"
+  tooltip4="Physical Review Letters 2022"
 
-  link3='https://doi.org/10.1103/PhysRevLett.129.068001'
+  link4='https://doi.org/10.1103/PhysRevLett.129.068001'
 
-  image4="images/featured/BPJ_2022.jpg"
+  image5="images/featured/BPJ_2022.jpg"
 
-  tooltip4="Biophysical Journal 2022"
+  tooltip5="Biophysical Journal 2022"
 
-  link4='https://doi.org/10.1016/j.bpj.2022.08.031'
+  link5='https://doi.org/10.1016/j.bpj.2022.08.031'
 
-  image5="images/featured/JoR_2022.jpg"
+  image6="images/featured/JoR_2022.jpg"
   
-  tooltip5="Journal of Rheology 2022"
+  tooltip6="Journal of Rheology 2022"
 
-  link5="https://doi.org/10.1122/8.0000432"
+  link6="https://doi.org/10.1122/8.0000432"
 
-  image6="images/featured/SM_2021.png"
+  image7="images/featured/SM_2021.png"
 
-  tooltip6="Soft Matter 2021"
+  tooltip7="Soft Matter 2021"
   
-  link6='https://doi.org/10.1039/D1SM00856K'
+  link7='https://doi.org/10.1039/D1SM00856K'
 
-  image7="images/featured/JoR_2021.jpg"
+  image8="images/featured/JoR_2021.jpg"
   
-  tooltip7="Journal of Rheology 2021"
+  tooltip8="Journal of Rheology 2021"
 
-  link7="https://doi.org/10.1122/8.0000138"
+  link8="https://doi.org/10.1122/8.0000138"
 
-  image8="images/featured/JoR_2020.jpg"
+  image9="images/featured/JoR_2020.jpg"
 
-  tooltip8="Journal of Rheology 2020"
+  tooltip9="Journal of Rheology 2020"
 
-  link8="https://doi.org/10.1122/1.5134036"  
+  link9="https://doi.org/10.1122/1.5134036"  
 
-  image9="images/featured/JoR_2019.jpg"
+  image10="images/featured/JoR_2019.jpg"
 
-  tooltip9="Journal of Rheology 2019"
+  tooltip10="Journal of Rheology 2019"
 
-  link9="https://doi.org/10.1122/1.5055031"
+  link10="https://doi.org/10.1122/1.5055031"
 
-  image10="images/featured/JoR_2018.jpg"
+  image11="images/featured/JoR_2018.jpg"
 
-  tooltip10="Journal of Rheology 2018"
+  tooltip11="Journal of Rheology 2018"
 
-  link10="https://doi.org/10.1122/1.5006937"
+  link11="https://doi.org/10.1122/1.5006937"
 %}
